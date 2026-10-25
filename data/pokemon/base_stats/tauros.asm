@@ -1,6 +1,6 @@
 	db TAUROS ; 128
 
-	db  75, 100,  95, 110,  40,  70
+	db  64,  86,  82,  94,  34,  60
 	;   hp  atk  def  spd  sat  sdf
 
 	db NORMAL, NORMAL ; type

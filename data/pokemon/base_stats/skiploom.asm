@@ -1,6 +1,6 @@
 	db SKIPLOOM ; 188
 
-	db  55,  45,  50,  80,  45,  65
+	db  71,  58,  65, 104,  58,  84
 	;   hp  atk  def  spd  sat  sdf
 
 	db GRASS, FLYING ; type

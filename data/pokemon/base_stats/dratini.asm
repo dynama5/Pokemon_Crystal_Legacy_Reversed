@@ -1,6 +1,6 @@
 	db DRATINI ; 147
 
-	db  41,  64,  45,  50,  50,  50
+	db  27,  42,  29,  33,  32,  32
 	;   hp  atk  def  spd  sat  sdf
 
 	db DRAGON, DRAGON ; type

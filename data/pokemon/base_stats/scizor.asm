@@ -1,6 +1,6 @@
 	db SCIZOR ; 212
 
-	db  70, 130, 100,  65,  55,  80
+	db  63, 117,  90,  59,  49,  72
 	;   hp  atk  def  spd  sat  sdf
 
 	db BUG, STEEL ; type

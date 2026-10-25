@@ -1,6 +1,6 @@
 	db ONIX ; 095
 
-	db  35,  45, 160,  70,  30,  45
+	db  22,  29, 102,  44,  19,  29
 	;   hp  atk  def  spd  sat  sdf
 
 	db ROCK, GROUND ; type

@@ -1,6 +1,6 @@
 	db WEEDLE ; 013
 
-	db  40,  35,  30,  50,  20,  20
+	db  61,  54,  46,  77,  31,  31
 	;   hp  atk  def  spd  sat  sdf
 
 	db BUG, POISON ; type

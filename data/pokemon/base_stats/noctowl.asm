@@ -1,6 +1,6 @@
 	db NOCTOWL ; 164
 
-	db 100,  50,  50,  70,  76,  96
+	db 116,  58,  58,  82,  89, 112
 	;   hp  atk  def  spd  sat  sdf
 
 	db NORMAL, FLYING ; type

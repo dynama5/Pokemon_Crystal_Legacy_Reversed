@@ -1,6 +1,6 @@
 	db LARVITAR ; 246
 
-	db  50,  64,  50,  41,  45,  50
+	db  33,  42,  32,  27,  29,  32
 	;   hp  atk  def  spd  sat  sdf
 
 	db ROCK, GROUND ; type

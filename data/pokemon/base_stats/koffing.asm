@@ -1,6 +1,6 @@
 	db KOFFING ; 109
 
-	db  40,  65,  95,  35,  60,  45
+	db  29,  48,  70,  26,  44,  33
 	;   hp  atk  def  spd  sat  sdf
 
 	db POISON, POISON ; type

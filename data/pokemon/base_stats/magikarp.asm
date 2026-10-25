@@ -1,6 +1,6 @@
 	db MAGIKARP ; 129
 
-	db  20,  10,  55,  80,  15,  20
+	db  25,  13,  70, 101,  19,  25
 	;   hp  atk  def  spd  sat  sdf
 
 	db WATER, WATER ; type

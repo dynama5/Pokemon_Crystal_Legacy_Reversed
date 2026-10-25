@@ -1,6 +1,6 @@
 	db POLIWAG ; 060
 
-	db  40,  50,  40,  90,  40,  40
+	db  38,  47,  37,  84,  37,  37
 	;   hp  atk  def  spd  sat  sdf
 
 	db WATER, WATER ; type

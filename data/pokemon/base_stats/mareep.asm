@@ -1,6 +1,6 @@
 	db MAREEP ; 179
 
-	db  55,  40,  40,  35,  65,  45
+	db  59,  43,  43,  37,  70,  48
 	;   hp  atk  def  spd  sat  sdf
 
 	db ELECTRIC, ELECTRIC ; type

@@ -1,6 +1,6 @@
 	db RATTATA ; 019
 
-	db  30,  56,  35,  72,  25,  35
+	db  24,  44,  28,  57,  20,  27
 	;   hp  atk  def  spd  sat  sdf
 
 	db NORMAL, NORMAL ; type

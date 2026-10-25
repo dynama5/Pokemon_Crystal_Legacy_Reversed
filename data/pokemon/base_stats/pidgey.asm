@@ -1,6 +1,6 @@
 	db PIDGEY ; 016
 
-	db  40,  45,  40,  56,  35,  35
+	db  49,  56,  49,  69,  43,  43
 	;   hp  atk  def  spd  sat  sdf
 
 	db NORMAL, FLYING ; type

@@ -1,6 +1,6 @@
 	db BLISSEY ; 242
 
-	db 255,  10,  10,  55,  75, 135
+	db 194,   8,   7,  42,  57, 102
 	;   hp  atk  def  spd  sat  sdf
 
 	db NORMAL, NORMAL ; type

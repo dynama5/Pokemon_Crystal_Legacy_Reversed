@@ -1,6 +1,6 @@
 	db SPEAROW ; 021
 
-	db  40,  60,  30,  70,  31,  31
+	db  60,  90,  45, 106,  47,  47
 	;   hp  atk  def  spd  sat  sdf
 
 	db NORMAL, FLYING ; type

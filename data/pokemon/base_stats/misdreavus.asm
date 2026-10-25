@@ -1,6 +1,6 @@
 	db MISDREAVUS ; 200
 
-	db  60,  60,  60,  90,  95,  95
+	db  60,  59,  59,  89,  94,  94
 	;   hp  atk  def  spd  sat  sdf
 
 	db GHOST, GHOST ; type

@@ -1,6 +1,6 @@
 	db NIDORAN_M ; 032
 
-	db  46,  57,  40,  50,  40,  40
+	db  55,  68,  48,  59,  48,  47
 	;   hp  atk  def  spd  sat  sdf
 
 	db POISON, POISON ; type

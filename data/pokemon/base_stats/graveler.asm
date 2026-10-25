@@ -1,6 +1,6 @@
 	db GRAVELER ; 075
 
-	db  55,  95, 115,  35,  45,  45
+	db  57,  99, 119,  36,  47,  47
 	;   hp  atk  def  spd  sat  sdf
 
 	db ROCK, GROUND ; type

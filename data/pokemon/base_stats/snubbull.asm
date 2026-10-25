@@ -1,6 +1,6 @@
 	db SNUBBULL ; 209
 
-	db  60,  80,  50,  30,  40,  40
+	db  64,  85,  53,  32,  43,  43
 	;   hp  atk  def  spd  sat  sdf
 
 	db NORMAL, NORMAL ; type

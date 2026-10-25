@@ -1,6 +1,6 @@
 	db STARYU ; 120
 
-	db  30,  45,  55,  85,  70,  55
+	db  28,  42,  52,  80,  66,  52
 	;   hp  atk  def  spd  sat  sdf
 
 	db WATER, WATER ; type

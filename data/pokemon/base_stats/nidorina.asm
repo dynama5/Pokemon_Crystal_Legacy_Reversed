@@ -1,6 +1,6 @@
 	db NIDORINA ; 030
 
-	db  70,  62,  67,  56,  55,  55
+	db  78,  69,  74,  62,  61,  61
 	;   hp  atk  def  spd  sat  sdf
 
 	db POISON, POISON ; type

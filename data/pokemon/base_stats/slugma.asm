@@ -1,6 +1,6 @@
 	db SLUGMA ; 218
 
-	db  50,  70,  60,  20,  70,  60
+	db  50,  69,  60,  20,  69,  60
 	;   hp  atk  def  spd  sat  sdf
 
 	db FIRE, FIRE ; type

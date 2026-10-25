@@ -1,6 +1,6 @@
 	db PORYGON2 ; 233
 
-	db  85,  80,  90,  60, 105,  95
+	db  73,  69,  77,  51,  90,  82
 	;   hp  atk  def  spd  sat  sdf
 
 	db NORMAL, NORMAL ; type

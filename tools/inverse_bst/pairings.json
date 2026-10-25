@@ -1,0 +1,10158 @@
+{
+ "rows": [
+  {
+   "dex": 1,
+   "species": "BULBASAUR",
+   "type": "GRASS/POISON",
+   "line_root": "BULBASAUR",
+   "line_stages": 3,
+   "stage": 1,
+   "rank": 9,
+   "bucket_size": 27,
+   "line_final_bst": 525,
+   "partner_root": "GEODUDE",
+   "swapped": true,
+   "old_stats": [
+    45,
+    49,
+    49,
+    45,
+    65,
+    65
+   ],
+   "old_bst": 318,
+   "target_bst": 300,
+   "new_stats": [
+    43,
+    46,
+    46,
+    43,
+    61,
+    61
+   ],
+   "new_bst": 300,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "16",
+     "IVYSAUR"
+    ]
+   ],
+   "where": "\u2014",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "25",
+     "IVYSAUR"
+    ]
+   ]
+  },
+  {
+   "dex": 2,
+   "species": "IVYSAUR",
+   "type": "GRASS/POISON",
+   "line_root": "BULBASAUR",
+   "line_stages": 3,
+   "stage": 2,
+   "rank": 9,
+   "bucket_size": 27,
+   "line_final_bst": 525,
+   "partner_root": "GEODUDE",
+   "swapped": true,
+   "old_stats": [
+    60,
+    62,
+    63,
+    60,
+    80,
+    80
+   ],
+   "old_bst": 405,
+   "target_bst": 390,
+   "new_stats": [
+    58,
+    60,
+    60,
+    58,
+    77,
+    77
+   ],
+   "new_bst": 390,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "32",
+     "VENUSAUR"
+    ]
+   ],
+   "where": "\u2014",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "38",
+     "VENUSAUR"
+    ]
+   ]
+  },
+  {
+   "dex": 3,
+   "species": "VENUSAUR",
+   "type": "GRASS/POISON",
+   "line_root": "BULBASAUR",
+   "line_stages": 3,
+   "stage": 3,
+   "rank": 9,
+   "bucket_size": 27,
+   "line_final_bst": 525,
+   "partner_root": "GEODUDE",
+   "swapped": true,
+   "old_stats": [
+    80,
+    82,
+    83,
+    80,
+    100,
+    100
+   ],
+   "old_bst": 525,
+   "target_bst": 485,
+   "new_stats": [
+    74,
+    76,
+    77,
+    74,
+    92,
+    92
+   ],
+   "new_bst": 485,
+   "capped": [],
+   "evos": [],
+   "where": "Silver Cave Outside Lv50",
+   "new_evos": []
+  },
+  {
+   "dex": 4,
+   "species": "CHARMANDER",
+   "type": "FIRE",
+   "line_root": "CHARMANDER",
+   "line_stages": 3,
+   "stage": 1,
+   "rank": 5,
+   "bucket_size": 27,
+   "line_final_bst": 534,
+   "partner_root": "PIDGEY",
+   "swapped": true,
+   "old_stats": [
+    39,
+    52,
+    43,
+    65,
+    60,
+    50
+   ],
+   "old_bst": 309,
+   "target_bst": 251,
+   "new_stats": [
+    32,
+    42,
+    35,
+    53,
+    49,
+    40
+   ],
+   "new_bst": 251,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "16",
+     "CHARMELEON"
+    ]
+   ],
+   "where": "\u2014",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "18",
+     "CHARMELEON"
+    ]
+   ]
+  },
+  {
+   "dex": 5,
+   "species": "CHARMELEON",
+   "type": "FIRE",
+   "line_root": "CHARMANDER",
+   "line_stages": 3,
+   "stage": 2,
+   "rank": 5,
+   "bucket_size": 27,
+   "line_final_bst": 534,
+   "partner_root": "PIDGEY",
+   "swapped": true,
+   "old_stats": [
+    58,
+    64,
+    58,
+    80,
+    80,
+    65
+   ],
+   "old_bst": 405,
+   "target_bst": 349,
+   "new_stats": [
+    50,
+    55,
+    50,
+    69,
+    69,
+    56
+   ],
+   "new_bst": 349,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "36",
+     "CHARIZARD"
+    ]
+   ],
+   "where": "\u2014",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "36",
+     "CHARIZARD"
+    ]
+   ]
+  },
+  {
+   "dex": 6,
+   "species": "CHARIZARD",
+   "type": "FIRE/FLYING",
+   "line_root": "CHARMANDER",
+   "line_stages": 3,
+   "stage": 3,
+   "rank": 5,
+   "bucket_size": 27,
+   "line_final_bst": 534,
+   "partner_root": "PIDGEY",
+   "swapped": true,
+   "old_stats": [
+    78,
+    84,
+    78,
+    100,
+    109,
+    85
+   ],
+   "old_bst": 534,
+   "target_bst": 469,
+   "new_stats": [
+    68,
+    74,
+    68,
+    88,
+    96,
+    75
+   ],
+   "new_bst": 469,
+   "capped": [],
+   "evos": [],
+   "where": "Silver Cave Outside Lv50",
+   "new_evos": []
+  },
+  {
+   "dex": 7,
+   "species": "SQUIRTLE",
+   "type": "WATER",
+   "line_root": "SQUIRTLE",
+   "line_stages": 3,
+   "stage": 1,
+   "rank": 7,
+   "bucket_size": 27,
+   "line_final_bst": 530,
+   "partner_root": "BELLSPROUT",
+   "swapped": true,
+   "old_stats": [
+    44,
+    48,
+    65,
+    43,
+    50,
+    64
+   ],
+   "old_bst": 314,
+   "target_bst": 300,
+   "new_stats": [
+    42,
+    46,
+    62,
+    41,
+    48,
+    61
+   ],
+   "new_bst": 300,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "16",
+     "WARTORTLE"
+    ]
+   ],
+   "where": "\u2014",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "21",
+     "WARTORTLE"
+    ]
+   ]
+  },
+  {
+   "dex": 8,
+   "species": "WARTORTLE",
+   "type": "WATER",
+   "line_root": "SQUIRTLE",
+   "line_stages": 3,
+   "stage": 2,
+   "rank": 7,
+   "bucket_size": 27,
+   "line_final_bst": 530,
+   "partner_root": "BELLSPROUT",
+   "swapped": true,
+   "old_stats": [
+    59,
+    63,
+    80,
+    58,
+    65,
+    80
+   ],
+   "old_bst": 405,
+   "target_bst": 390,
+   "new_stats": [
+    57,
+    61,
+    77,
+    56,
+    62,
+    77
+   ],
+   "new_bst": 390,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "36",
+     "BLASTOISE"
+    ]
+   ],
+   "where": "\u2014",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "36",
+     "BLASTOISE"
+    ]
+   ]
+  },
+  {
+   "dex": 9,
+   "species": "BLASTOISE",
+   "type": "WATER",
+   "line_root": "SQUIRTLE",
+   "line_stages": 3,
+   "stage": 3,
+   "rank": 7,
+   "bucket_size": 27,
+   "line_final_bst": 530,
+   "partner_root": "BELLSPROUT",
+   "swapped": true,
+   "old_stats": [
+    79,
+    83,
+    100,
+    78,
+    85,
+    105
+   ],
+   "old_bst": 530,
+   "target_bst": 480,
+   "new_stats": [
+    71,
+    75,
+    91,
+    71,
+    77,
+    95
+   ],
+   "new_bst": 480,
+   "capped": [],
+   "evos": [],
+   "where": "Silver Cave Outside Lv50",
+   "new_evos": []
+  },
+  {
+   "dex": 10,
+   "species": "CATERPIE",
+   "type": "BUG",
+   "line_root": "CATERPIE",
+   "line_stages": 3,
+   "stage": 1,
+   "rank": 26,
+   "bucket_size": 27,
+   "line_final_bst": 385,
+   "partner_root": "LARVITAR",
+   "swapped": true,
+   "old_stats": [
+    45,
+    30,
+    35,
+    45,
+    20,
+    20
+   ],
+   "old_bst": 195,
+   "target_bst": 300,
+   "new_stats": [
+    69,
+    46,
+    54,
+    69,
+    31,
+    31
+   ],
+   "new_bst": 300,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "7",
+     "METAPOD"
+    ]
+   ],
+   "where": "Route 2 Lv3; Route 30 Lv3; Route 31 Lv4 (+3 more)",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "30",
+     "METAPOD"
+    ]
+   ]
+  },
+  {
+   "dex": 11,
+   "species": "METAPOD",
+   "type": "BUG",
+   "line_root": "CATERPIE",
+   "line_stages": 3,
+   "stage": 2,
+   "rank": 26,
+   "bucket_size": 27,
+   "line_final_bst": 385,
+   "partner_root": "LARVITAR",
+   "swapped": true,
+   "old_stats": [
+    50,
+    20,
+    55,
+    30,
+    25,
+    25
+   ],
+   "old_bst": 205,
+   "target_bst": 410,
+   "new_stats": [
+    100,
+    40,
+    110,
+    60,
+    50,
+    50
+   ],
+   "new_bst": 410,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "10",
+     "BUTTERFREE"
+    ]
+   ],
+   "where": "Route 24 Lv12; Route 25 Lv12",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "55",
+     "BUTTERFREE"
+    ]
+   ]
+  },
+  {
+   "dex": 12,
+   "species": "BUTTERFREE",
+   "type": "BUG/FLYING",
+   "line_root": "CATERPIE",
+   "line_stages": 3,
+   "stage": 3,
+   "rank": 26,
+   "bucket_size": 27,
+   "line_final_bst": 385,
+   "partner_root": "LARVITAR",
+   "swapped": true,
+   "old_stats": [
+    60,
+    45,
+    50,
+    70,
+    80,
+    80
+   ],
+   "old_bst": 385,
+   "target_bst": 600,
+   "new_stats": [
+    93,
+    70,
+    78,
+    109,
+    125,
+    125
+   ],
+   "new_bst": 600,
+   "capped": [],
+   "evos": [],
+   "where": "Route 2 Lv7; Route 24 Lv14; Route 25 Lv14",
+   "new_evos": []
+  },
+  {
+   "dex": 13,
+   "species": "WEEDLE",
+   "type": "BUG/POISON",
+   "line_root": "WEEDLE",
+   "line_stages": 3,
+   "stage": 1,
+   "rank": 27,
+   "bucket_size": 27,
+   "line_final_bst": 385,
+   "partner_root": "DRATINI",
+   "swapped": true,
+   "old_stats": [
+    40,
+    35,
+    30,
+    50,
+    20,
+    20
+   ],
+   "old_bst": 195,
+   "target_bst": 300,
+   "new_stats": [
+    61,
+    54,
+    46,
+    77,
+    31,
+    31
+   ],
+   "new_bst": 300,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "7",
+     "KAKUNA"
+    ]
+   ],
+   "where": "Route 30 Lv3; Route 31 Lv4; National Park Lv10",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "30",
+     "KAKUNA"
+    ]
+   ]
+  },
+  {
+   "dex": 14,
+   "species": "KAKUNA",
+   "type": "BUG/POISON",
+   "line_root": "WEEDLE",
+   "line_stages": 3,
+   "stage": 2,
+   "rank": 27,
+   "bucket_size": 27,
+   "line_final_bst": 385,
+   "partner_root": "DRATINI",
+   "swapped": true,
+   "old_stats": [
+    45,
+    25,
+    50,
+    35,
+    25,
+    25
+   ],
+   "old_bst": 205,
+   "target_bst": 420,
+   "new_stats": [
+    92,
+    51,
+    103,
+    72,
+    51,
+    51
+   ],
+   "new_bst": 420,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "10",
+     "BEEDRILL"
+    ]
+   ],
+   "where": "\u2014",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "55",
+     "BEEDRILL"
+    ]
+   ]
+  },
+  {
+   "dex": 15,
+   "species": "BEEDRILL",
+   "type": "BUG/POISON",
+   "line_root": "WEEDLE",
+   "line_stages": 3,
+   "stage": 3,
+   "rank": 27,
+   "bucket_size": 27,
+   "line_final_bst": 385,
+   "partner_root": "DRATINI",
+   "swapped": true,
+   "old_stats": [
+    65,
+    80,
+    40,
+    75,
+    45,
+    80
+   ],
+   "old_bst": 385,
+   "target_bst": 600,
+   "new_stats": [
+    101,
+    125,
+    62,
+    117,
+    70,
+    125
+   ],
+   "new_bst": 600,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 16,
+   "species": "PIDGEY",
+   "type": "NORMAL/FLYING",
+   "line_root": "PIDGEY",
+   "line_stages": 3,
+   "stage": 1,
+   "rank": 23,
+   "bucket_size": 27,
+   "line_final_bst": 469,
+   "partner_root": "CHARMANDER",
+   "swapped": true,
+   "old_stats": [
+    40,
+    45,
+    40,
+    56,
+    35,
+    35
+   ],
+   "old_bst": 251,
+   "target_bst": 309,
+   "new_stats": [
+    49,
+    56,
+    49,
+    69,
+    43,
+    43
+   ],
+   "new_bst": 309,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "18",
+     "PIDGEOTTO"
+    ]
+   ],
+   "where": "Route 1 Lv2; Route 29 Lv2; Route 2 Lv3 (+8 more)",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "16",
+     "PIDGEOTTO"
+    ]
+   ]
+  },
+  {
+   "dex": 17,
+   "species": "PIDGEOTTO",
+   "type": "NORMAL/FLYING",
+   "line_root": "PIDGEY",
+   "line_stages": 3,
+   "stage": 2,
+   "rank": 23,
+   "bucket_size": 27,
+   "line_final_bst": 469,
+   "partner_root": "CHARMANDER",
+   "swapped": true,
+   "old_stats": [
+    63,
+    60,
+    55,
+    71,
+    50,
+    50
+   ],
+   "old_bst": 349,
+   "target_bst": 405,
+   "new_stats": [
+    73,
+    70,
+    64,
+    82,
+    58,
+    58
+   ],
+   "new_bst": 405,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "36",
+     "PIDGEOT"
+    ]
+   ],
+   "where": "Route 2 Lv7; Route 25 Lv12; Route 5 Lv15 (+7 more)",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "36",
+     "PIDGEOT"
+    ]
+   ]
+  },
+  {
+   "dex": 18,
+   "species": "PIDGEOT",
+   "type": "NORMAL/FLYING",
+   "line_root": "PIDGEY",
+   "line_stages": 3,
+   "stage": 3,
+   "rank": 23,
+   "bucket_size": 27,
+   "line_final_bst": 469,
+   "partner_root": "CHARMANDER",
+   "swapped": true,
+   "old_stats": [
+    83,
+    80,
+    75,
+    91,
+    70,
+    70
+   ],
+   "old_bst": 469,
+   "target_bst": 534,
+   "new_stats": [
+    94,
+    91,
+    85,
+    104,
+    80,
+    80
+   ],
+   "new_bst": 534,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 19,
+   "species": "RATTATA",
+   "type": "NORMAL",
+   "line_root": "RATTATA",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 57,
+   "bucket_size": 59,
+   "line_final_bst": 413,
+   "partner_root": "MAGIKARP",
+   "swapped": true,
+   "old_stats": [
+    30,
+    56,
+    35,
+    72,
+    25,
+    35
+   ],
+   "old_bst": 253,
+   "target_bst": 200,
+   "new_stats": [
+    24,
+    44,
+    28,
+    57,
+    20,
+    27
+   ],
+   "new_bst": 200,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "20",
+     "RATICATE"
+    ]
+   ],
+   "where": "Route 1 Lv2; Route 29 Lv2; Route 46 Lv2 (+22 more)",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "20",
+     "RATICATE"
+    ]
+   ]
+  },
+  {
+   "dex": 20,
+   "species": "RATICATE",
+   "type": "NORMAL",
+   "line_root": "RATTATA",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 57,
+   "bucket_size": 59,
+   "line_final_bst": 413,
+   "partner_root": "MAGIKARP",
+   "swapped": true,
+   "old_stats": [
+    55,
+    81,
+    60,
+    97,
+    50,
+    70
+   ],
+   "old_bst": 413,
+   "target_bst": 540,
+   "new_stats": [
+    72,
+    106,
+    78,
+    127,
+    65,
+    92
+   ],
+   "new_bst": 540,
+   "capped": [],
+   "evos": [],
+   "where": "Route 1 Lv6; Route 3 Lv10; Route 4 Lv10 (+14 more)",
+   "new_evos": []
+  },
+  {
+   "dex": 21,
+   "species": "SPEAROW",
+   "type": "NORMAL/FLYING",
+   "line_root": "SPEAROW",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 50,
+   "bucket_size": 59,
+   "line_final_bst": 442,
+   "partner_root": "PORYGON",
+   "swapped": true,
+   "old_stats": [
+    40,
+    60,
+    30,
+    70,
+    31,
+    31
+   ],
+   "old_bst": 262,
+   "target_bst": 395,
+   "new_stats": [
+    60,
+    90,
+    45,
+    106,
+    47,
+    47
+   ],
+   "new_bst": 395,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "20",
+     "FEAROW"
+    ]
+   ],
+   "where": "Route 46 Lv2; Route 22 Lv3; Route 3 Lv5 (+5 more)",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "20",
+     "FEAROW"
+    ]
+   ]
+  },
+  {
+   "dex": 22,
+   "species": "FEAROW",
+   "type": "NORMAL/FLYING",
+   "line_root": "SPEAROW",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 50,
+   "bucket_size": 59,
+   "line_final_bst": 442,
+   "partner_root": "PORYGON",
+   "swapped": true,
+   "old_stats": [
+    65,
+    90,
+    65,
+    100,
+    61,
+    61
+   ],
+   "old_bst": 442,
+   "target_bst": 515,
+   "new_stats": [
+    76,
+    105,
+    76,
+    116,
+    71,
+    71
+   ],
+   "new_bst": 515,
+   "capped": [],
+   "evos": [],
+   "where": "Route 22 Lv7; Route 9 Lv15; Route 42 Lv20 (+4 more)",
+   "new_evos": []
+  },
+  {
+   "dex": 23,
+   "species": "EKANS",
+   "type": "POISON",
+   "line_root": "EKANS",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 37,
+   "bucket_size": 59,
+   "line_final_bst": 460,
+   "partner_root": "SLOWPOKE",
+   "swapped": true,
+   "old_stats": [
+    40,
+    65,
+    44,
+    60,
+    40,
+    54
+   ],
+   "old_bst": 303,
+   "target_bst": 315,
+   "new_stats": [
+    42,
+    67,
+    46,
+    62,
+    42,
+    56
+   ],
+   "new_bst": 315,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "22",
+     "ARBOK"
+    ]
+   ],
+   "where": "Route 32 Lv6; Route 3 Lv8; Route 33 Lv8 (+2 more)",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "37",
+     "ARBOK"
+    ]
+   ]
+  },
+  {
+   "dex": 24,
+   "species": "ARBOK",
+   "type": "POISON",
+   "line_root": "EKANS",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 37,
+   "bucket_size": 59,
+   "line_final_bst": 460,
+   "partner_root": "SLOWPOKE",
+   "swapped": true,
+   "old_stats": [
+    62,
+    95,
+    69,
+    90,
+    65,
+    79
+   ],
+   "old_bst": 460,
+   "target_bst": 490,
+   "new_stats": [
+    66,
+    101,
+    74,
+    96,
+    69,
+    84
+   ],
+   "new_bst": 490,
+   "capped": [],
+   "evos": [],
+   "where": "Route 3 Lv10; Route 4 Lv10; Route 42 Lv22 (+3 more)",
+   "new_evos": []
+  },
+  {
+   "dex": 25,
+   "species": "PIKACHU",
+   "type": "ELECTRIC",
+   "line_root": "PICHU",
+   "line_stages": 3,
+   "stage": 2,
+   "rank": 22,
+   "bucket_size": 27,
+   "line_final_bst": 475,
+   "partner_root": "CYNDAQUIL",
+   "swapped": true,
+   "old_stats": [
+    35,
+    55,
+    40,
+    90,
+    50,
+    50
+   ],
+   "old_bst": 320,
+   "target_bst": 405,
+   "new_stats": [
+    44,
+    70,
+    51,
+    114,
+    63,
+    63
+   ],
+   "new_bst": 405,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_ITEM",
+     "THUNDERSTONE",
+     "RAICHU"
+    ]
+   ],
+   "where": "Route 2 Lv4",
+   "new_evos": [
+    [
+     "EVOLVE_ITEM",
+     "THUNDERSTONE",
+     "RAICHU"
+    ]
+   ]
+  },
+  {
+   "dex": 26,
+   "species": "RAICHU",
+   "type": "ELECTRIC",
+   "line_root": "PICHU",
+   "line_stages": 3,
+   "stage": 3,
+   "rank": 22,
+   "bucket_size": 27,
+   "line_final_bst": 475,
+   "partner_root": "CYNDAQUIL",
+   "swapped": true,
+   "old_stats": [
+    60,
+    90,
+    55,
+    100,
+    90,
+    80
+   ],
+   "old_bst": 475,
+   "target_bst": 534,
+   "new_stats": [
+    68,
+    101,
+    62,
+    112,
+    101,
+    90
+   ],
+   "new_bst": 534,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 27,
+   "species": "SANDSHREW",
+   "type": "GROUND",
+   "line_root": "SANDSHREW",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 43,
+   "bucket_size": 59,
+   "line_final_bst": 450,
+   "partner_root": "TEDDIURSA",
+   "swapped": true,
+   "old_stats": [
+    50,
+    75,
+    85,
+    40,
+    20,
+    30
+   ],
+   "old_bst": 300,
+   "target_bst": 330,
+   "new_stats": [
+    55,
+    83,
+    93,
+    44,
+    22,
+    33
+   ],
+   "new_bst": 330,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "22",
+     "SANDSLASH"
+    ]
+   ],
+   "where": "Mount Moon Lv8; Union Cave 1F Lv8; Route 3 Lv10 (+1 more)",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "30",
+     "SANDSLASH"
+    ]
+   ]
+  },
+  {
+   "dex": 28,
+   "species": "SANDSLASH",
+   "type": "GROUND",
+   "line_root": "SANDSHREW",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 43,
+   "bucket_size": 59,
+   "line_final_bst": 450,
+   "partner_root": "TEDDIURSA",
+   "swapped": true,
+   "old_stats": [
+    75,
+    100,
+    110,
+    65,
+    45,
+    55
+   ],
+   "old_bst": 450,
+   "target_bst": 500,
+   "new_stats": [
+    84,
+    111,
+    122,
+    72,
+    50,
+    61
+   ],
+   "new_bst": 500,
+   "capped": [],
+   "evos": [],
+   "where": "Victory Road Lv45",
+   "new_evos": []
+  },
+  {
+   "dex": 29,
+   "species": "NIDORAN_F",
+   "type": "POISON",
+   "line_root": "NIDORAN_F",
+   "line_stages": 3,
+   "stage": 1,
+   "rank": 16,
+   "bucket_size": 27,
+   "line_final_bst": 495,
+   "partner_root": "MACHOP",
+   "swapped": true,
+   "old_stats": [
+    55,
+    47,
+    52,
+    41,
+    40,
+    40
+   ],
+   "old_bst": 275,
+   "target_bst": 305,
+   "new_stats": [
+    61,
+    52,
+    58,
+    46,
+    44,
+    44
+   ],
+   "new_bst": 305,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "16",
+     "NIDORINA"
+    ]
+   ],
+   "where": "National Park Lv15",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "28",
+     "NIDORINA"
+    ]
+   ]
+  },
+  {
+   "dex": 30,
+   "species": "NIDORINA",
+   "type": "POISON",
+   "line_root": "NIDORAN_F",
+   "line_stages": 3,
+   "stage": 2,
+   "rank": 16,
+   "bucket_size": 27,
+   "line_final_bst": 495,
+   "partner_root": "MACHOP",
+   "swapped": true,
+   "old_stats": [
+    70,
+    62,
+    67,
+    56,
+    55,
+    55
+   ],
+   "old_bst": 365,
+   "target_bst": 405,
+   "new_stats": [
+    78,
+    69,
+    74,
+    62,
+    61,
+    61
+   ],
+   "new_bst": 405,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_ITEM",
+     "MOON_STONE",
+     "NIDOQUEEN"
+    ]
+   ],
+   "where": "Route 13 Lv23; Route 15 Lv23; Route 14 Lv26",
+   "new_evos": [
+    [
+     "EVOLVE_ITEM",
+     "MOON_STONE",
+     "NIDOQUEEN"
+    ]
+   ]
+  },
+  {
+   "dex": 31,
+   "species": "NIDOQUEEN",
+   "type": "POISON/GROUND",
+   "line_root": "NIDORAN_F",
+   "line_stages": 3,
+   "stage": 3,
+   "rank": 16,
+   "bucket_size": 27,
+   "line_final_bst": 495,
+   "partner_root": "MACHOP",
+   "swapped": true,
+   "old_stats": [
+    90,
+    82,
+    87,
+    76,
+    75,
+    85
+   ],
+   "old_bst": 495,
+   "target_bst": 505,
+   "new_stats": [
+    92,
+    84,
+    89,
+    77,
+    76,
+    87
+   ],
+   "new_bst": 505,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 32,
+   "species": "NIDORAN_M",
+   "type": "POISON",
+   "line_root": "NIDORAN_M",
+   "line_stages": 3,
+   "stage": 1,
+   "rank": 17,
+   "bucket_size": 27,
+   "line_final_bst": 495,
+   "partner_root": "ODDISH",
+   "swapped": true,
+   "old_stats": [
+    46,
+    57,
+    40,
+    50,
+    40,
+    40
+   ],
+   "old_bst": 273,
+   "target_bst": 325,
+   "new_stats": [
+    55,
+    68,
+    48,
+    59,
+    48,
+    47
+   ],
+   "new_bst": 325,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "16",
+     "NIDORINO"
+    ]
+   ],
+   "where": "National Park Lv14",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "21",
+     "NIDORINO"
+    ]
+   ]
+  },
+  {
+   "dex": 33,
+   "species": "NIDORINO",
+   "type": "POISON",
+   "line_root": "NIDORAN_M",
+   "line_stages": 3,
+   "stage": 2,
+   "rank": 17,
+   "bucket_size": 27,
+   "line_final_bst": 495,
+   "partner_root": "ODDISH",
+   "swapped": true,
+   "old_stats": [
+    61,
+    72,
+    57,
+    65,
+    55,
+    55
+   ],
+   "old_bst": 365,
+   "target_bst": 405,
+   "new_stats": [
+    68,
+    80,
+    63,
+    72,
+    61,
+    61
+   ],
+   "new_bst": 405,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_ITEM",
+     "MOON_STONE",
+     "NIDOKING"
+    ]
+   ],
+   "where": "Route 13 Lv23; Route 15 Lv23; Route 14 Lv26",
+   "new_evos": [
+    [
+     "EVOLVE_ITEM",
+     "MOON_STONE",
+     "NIDOKING"
+    ]
+   ]
+  },
+  {
+   "dex": 34,
+   "species": "NIDOKING",
+   "type": "POISON/GROUND",
+   "line_root": "NIDORAN_M",
+   "line_stages": 3,
+   "stage": 3,
+   "rank": 17,
+   "bucket_size": 27,
+   "line_final_bst": 495,
+   "partner_root": "ODDISH",
+   "swapped": true,
+   "old_stats": [
+    81,
+    92,
+    77,
+    85,
+    85,
+    75
+   ],
+   "old_bst": 495,
+   "target_bst": 505,
+   "new_stats": [
+    83,
+    94,
+    78,
+    87,
+    87,
+    76
+   ],
+   "new_bst": 505,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 35,
+   "species": "CLEFAIRY",
+   "type": "NORMAL",
+   "line_root": "CLEFFA",
+   "line_stages": 3,
+   "stage": 2,
+   "rank": 20,
+   "bucket_size": 27,
+   "line_final_bst": 483,
+   "partner_root": "TOTODILE",
+   "swapped": true,
+   "old_stats": [
+    70,
+    45,
+    48,
+    35,
+    60,
+    65
+   ],
+   "old_bst": 323,
+   "target_bst": 405,
+   "new_stats": [
+    88,
+    56,
+    60,
+    44,
+    75,
+    82
+   ],
+   "new_bst": 405,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_ITEM",
+     "MOON_STONE",
+     "CLEFABLE"
+    ]
+   ],
+   "where": "Route 3 Lv6; Route 4 Lv6; Mount Moon Lv8",
+   "new_evos": [
+    [
+     "EVOLVE_ITEM",
+     "MOON_STONE",
+     "CLEFABLE"
+    ]
+   ]
+  },
+  {
+   "dex": 36,
+   "species": "CLEFABLE",
+   "type": "NORMAL",
+   "line_root": "CLEFFA",
+   "line_stages": 3,
+   "stage": 3,
+   "rank": 20,
+   "bucket_size": 27,
+   "line_final_bst": 483,
+   "partner_root": "TOTODILE",
+   "swapped": true,
+   "old_stats": [
+    95,
+    70,
+    73,
+    60,
+    95,
+    90
+   ],
+   "old_bst": 483,
+   "target_bst": 530,
+   "new_stats": [
+    104,
+    77,
+    80,
+    66,
+    104,
+    99
+   ],
+   "new_bst": 530,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 37,
+   "species": "VULPIX",
+   "type": "FIRE",
+   "line_root": "VULPIX",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 8,
+   "bucket_size": 59,
+   "line_final_bst": 515,
+   "partner_root": "MEOWTH",
+   "swapped": true,
+   "old_stats": [
+    45,
+    41,
+    45,
+    75,
+    60,
+    70
+   ],
+   "old_bst": 336,
+   "target_bst": 290,
+   "new_stats": [
+    39,
+    35,
+    39,
+    65,
+    52,
+    60
+   ],
+   "new_bst": 290,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_ITEM",
+     "FIRE_STONE",
+     "NINETALES"
+    ]
+   ],
+   "where": "Route 37 Lv17",
+   "new_evos": [
+    [
+     "EVOLVE_ITEM",
+     "FIRE_STONE",
+     "NINETALES"
+    ]
+   ]
+  },
+  {
+   "dex": 38,
+   "species": "NINETALES",
+   "type": "FIRE",
+   "line_root": "VULPIX",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 8,
+   "bucket_size": 59,
+   "line_final_bst": 515,
+   "partner_root": "MEOWTH",
+   "swapped": true,
+   "old_stats": [
+    78,
+    71,
+    80,
+    100,
+    86,
+    100
+   ],
+   "old_bst": 515,
+   "target_bst": 440,
+   "new_stats": [
+    67,
+    61,
+    68,
+    85,
+    74,
+    85
+   ],
+   "new_bst": 440,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 39,
+   "species": "JIGGLYPUFF",
+   "type": "NORMAL",
+   "line_root": "IGGLYBUFF",
+   "line_stages": 3,
+   "stage": 2,
+   "rank": 24,
+   "bucket_size": 27,
+   "line_final_bst": 450,
+   "partner_root": "ZUBAT",
+   "swapped": true,
+   "old_stats": [
+    115,
+    45,
+    20,
+    20,
+    45,
+    25
+   ],
+   "old_bst": 270,
+   "target_bst": 455,
+   "new_stats": [
+    194,
+    76,
+    34,
+    33,
+    76,
+    42
+   ],
+   "new_bst": 455,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_ITEM",
+     "MOON_STONE",
+     "WIGGLYTUFF"
+    ]
+   ],
+   "where": "Route 6 Lv12; Route 34 Lv14; Route 5 Lv14 (+2 more)",
+   "new_evos": [
+    [
+     "EVOLVE_ITEM",
+     "MOON_STONE",
+     "WIGGLYTUFF"
+    ]
+   ]
+  },
+  {
+   "dex": 40,
+   "species": "WIGGLYTUFF",
+   "type": "NORMAL",
+   "line_root": "IGGLYBUFF",
+   "line_stages": 3,
+   "stage": 3,
+   "rank": 24,
+   "bucket_size": 27,
+   "line_final_bst": 450,
+   "partner_root": "ZUBAT",
+   "swapped": true,
+   "old_stats": [
+    140,
+    70,
+    55,
+    45,
+    85,
+    55
+   ],
+   "old_bst": 450,
+   "target_bst": 535,
+   "new_stats": [
+    167,
+    83,
+    65,
+    54,
+    101,
+    65
+   ],
+   "new_bst": 535,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 41,
+   "species": "ZUBAT",
+   "type": "POISON/FLYING",
+   "line_root": "ZUBAT",
+   "line_stages": 3,
+   "stage": 1,
+   "rank": 4,
+   "bucket_size": 27,
+   "line_final_bst": 535,
+   "partner_root": "IGGLYBUFF",
+   "swapped": true,
+   "old_stats": [
+    40,
+    45,
+    35,
+    55,
+    30,
+    40
+   ],
+   "old_bst": 245,
+   "target_bst": 210,
+   "new_stats": [
+    34,
+    39,
+    30,
+    47,
+    26,
+    34
+   ],
+   "new_bst": 210,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "22",
+     "GOLBAT"
+    ]
+   ],
+   "where": "Dark Cave Violet Entrance Lv2; Route 30 Lv3; Route 31 Lv4 (+23 more)",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "22",
+     "GOLBAT"
+    ]
+   ]
+  },
+  {
+   "dex": 42,
+   "species": "GOLBAT",
+   "type": "POISON/FLYING",
+   "line_root": "ZUBAT",
+   "line_stages": 3,
+   "stage": 2,
+   "rank": 4,
+   "bucket_size": 27,
+   "line_final_bst": 535,
+   "partner_root": "IGGLYBUFF",
+   "swapped": true,
+   "old_stats": [
+    75,
+    80,
+    70,
+    90,
+    65,
+    75
+   ],
+   "old_bst": 455,
+   "target_bst": 270,
+   "new_stats": [
+    45,
+    47,
+    42,
+    53,
+    39,
+    44
+   ],
+   "new_bst": 270,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_HAPPINESS",
+     "TR_ANYTIME",
+     "CROBAT"
+    ]
+   ],
+   "where": "Ice Path 1F Lv22; Mount Mortar 1F Inside Lv22; Mount Mortar 1F Outside Lv22 (+28 more)",
+   "new_evos": [
+    [
+     "EVOLVE_HAPPINESS",
+     "TR_ANYTIME",
+     "CROBAT"
+    ]
+   ]
+  },
+  {
+   "dex": 43,
+   "species": "ODDISH",
+   "type": "GRASS/POISON",
+   "line_root": "ODDISH",
+   "line_stages": 3,
+   "stage": 1,
+   "rank": 11,
+   "bucket_size": 27,
+   "line_final_bst": 505,
+   "partner_root": "NIDORAN_M",
+   "swapped": true,
+   "old_stats": [
+    50,
+    50,
+    55,
+    30,
+    75,
+    65
+   ],
+   "old_bst": 325,
+   "target_bst": 273,
+   "new_stats": [
+    42,
+    42,
+    46,
+    25,
+    63,
+    55
+   ],
+   "new_bst": 273,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "21",
+     "GLOOM"
+    ]
+   ],
+   "where": "Route 24 Lv10; Route 25 Lv10; Ilex Forest Lv12",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "16",
+     "GLOOM"
+    ]
+   ]
+  },
+  {
+   "dex": 44,
+   "species": "GLOOM",
+   "type": "GRASS/POISON",
+   "line_root": "ODDISH",
+   "line_stages": 3,
+   "stage": 2,
+   "rank": 11,
+   "bucket_size": 27,
+   "line_final_bst": 505,
+   "partner_root": "NIDORAN_M",
+   "swapped": true,
+   "old_stats": [
+    70,
+    65,
+    70,
+    40,
+    85,
+    75
+   ],
+   "old_bst": 405,
+   "target_bst": 365,
+   "new_stats": [
+    63,
+    58,
+    63,
+    36,
+    77,
+    68
+   ],
+   "new_bst": 365,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_ITEM",
+     "LEAF_STONE",
+     "VILEPLUME"
+    ],
+    [
+     "EVOLVE_ITEM",
+     "SUN_STONE",
+     "BELLOSSOM"
+    ]
+   ],
+   "where": "Route 24 Lv14",
+   "new_evos": [
+    [
+     "EVOLVE_ITEM",
+     "LEAF_STONE",
+     "VILEPLUME"
+    ],
+    [
+     "EVOLVE_ITEM",
+     "SUN_STONE",
+     "BELLOSSOM"
+    ]
+   ]
+  },
+  {
+   "dex": 45,
+   "species": "VILEPLUME",
+   "type": "GRASS/POISON",
+   "line_root": "ODDISH",
+   "line_stages": 3,
+   "stage": 3,
+   "rank": 11,
+   "bucket_size": 27,
+   "line_final_bst": 505,
+   "partner_root": "NIDORAN_M",
+   "swapped": true,
+   "old_stats": [
+    90,
+    80,
+    95,
+    50,
+    100,
+    90
+   ],
+   "old_bst": 505,
+   "target_bst": 495,
+   "new_stats": [
+    88,
+    79,
+    93,
+    49,
+    98,
+    88
+   ],
+   "new_bst": 495,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 46,
+   "species": "PARAS",
+   "type": "BUG/GRASS",
+   "line_root": "PARAS",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 59,
+   "bucket_size": 59,
+   "line_final_bst": 405,
+   "partner_root": "GROWLITHE",
+   "swapped": true,
+   "old_stats": [
+    35,
+    70,
+    55,
+    25,
+    45,
+    55
+   ],
+   "old_bst": 285,
+   "target_bst": 350,
+   "new_stats": [
+    43,
+    86,
+    68,
+    31,
+    55,
+    67
+   ],
+   "new_bst": 350,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "24",
+     "PARASECT"
+    ]
+   ],
+   "where": "Ilex Forest Lv12; Mount Moon Lv12",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "24",
+     "PARASECT"
+    ]
+   ]
+  },
+  {
+   "dex": 47,
+   "species": "PARASECT",
+   "type": "BUG/GRASS",
+   "line_root": "PARAS",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 59,
+   "bucket_size": 59,
+   "line_final_bst": 405,
+   "partner_root": "GROWLITHE",
+   "swapped": true,
+   "old_stats": [
+    60,
+    95,
+    80,
+    30,
+    60,
+    80
+   ],
+   "old_bst": 405,
+   "target_bst": 555,
+   "new_stats": [
+    82,
+    130,
+    110,
+    41,
+    82,
+    110
+   ],
+   "new_bst": 555,
+   "capped": [],
+   "evos": [],
+   "where": "Silver Cave Item Rooms Lv60; Silver Cave Room 2 Lv66",
+   "new_evos": []
+  },
+  {
+   "dex": 48,
+   "species": "VENONAT",
+   "type": "BUG/POISON",
+   "line_root": "VENONAT",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 30,
+   "bucket_size": 59,
+   "line_final_bst": 475,
+   "partner_root": "VENONAT",
+   "swapped": false,
+   "old_stats": [
+    60,
+    55,
+    50,
+    45,
+    40,
+    55
+   ],
+   "old_bst": 305,
+   "target_bst": 305,
+   "new_stats": [
+    60,
+    55,
+    50,
+    45,
+    40,
+    55
+   ],
+   "new_bst": 305,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "31",
+     "VENOMOTH"
+    ]
+   ],
+   "where": "Route 24 Lv10; Route 25 Lv10; Ilex Forest Lv12 (+7 more)",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "31",
+     "VENOMOTH"
+    ]
+   ]
+  },
+  {
+   "dex": 49,
+   "species": "VENOMOTH",
+   "type": "BUG/POISON",
+   "line_root": "VENONAT",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 30,
+   "bucket_size": 59,
+   "line_final_bst": 475,
+   "partner_root": "VENONAT",
+   "swapped": false,
+   "old_stats": [
+    70,
+    75,
+    60,
+    100,
+    95,
+    75
+   ],
+   "old_bst": 475,
+   "target_bst": 475,
+   "new_stats": [
+    70,
+    75,
+    60,
+    100,
+    95,
+    75
+   ],
+   "new_bst": 475,
+   "capped": [],
+   "evos": [],
+   "where": "Route 9 Lv15; Route 43 Lv23; Route 13 Lv25 (+3 more)",
+   "new_evos": []
+  },
+  {
+   "dex": 50,
+   "species": "DIGLETT",
+   "type": "GROUND",
+   "line_root": "DIGLETT",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 56,
+   "bucket_size": 59,
+   "line_final_bst": 415,
+   "partner_root": "SHELLDER",
+   "swapped": true,
+   "old_stats": [
+    10,
+    55,
+    25,
+    95,
+    35,
+    45
+   ],
+   "old_bst": 265,
+   "target_bst": 310,
+   "new_stats": [
+    12,
+    64,
+    29,
+    111,
+    41,
+    53
+   ],
+   "new_bst": 310,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "26",
+     "DUGTRIO"
+    ]
+   ],
+   "where": "Digletts Cave Lv2; Union Cave B2F Lv22",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "26",
+     "DUGTRIO"
+    ]
+   ]
+  },
+  {
+   "dex": 51,
+   "species": "DUGTRIO",
+   "type": "GROUND",
+   "line_root": "DIGLETT",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 56,
+   "bucket_size": 59,
+   "line_final_bst": 415,
+   "partner_root": "SHELLDER",
+   "swapped": true,
+   "old_stats": [
+    35,
+    90,
+    50,
+    120,
+    50,
+    70
+   ],
+   "old_bst": 415,
+   "target_bst": 525,
+   "new_stats": [
+    44,
+    114,
+    63,
+    152,
+    63,
+    89
+   ],
+   "new_bst": 525,
+   "capped": [],
+   "evos": [],
+   "where": "Digletts Cave Lv16",
+   "new_evos": []
+  },
+  {
+   "dex": 52,
+   "species": "MEOWTH",
+   "type": "NORMAL",
+   "line_root": "MEOWTH",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 52,
+   "bucket_size": 59,
+   "line_final_bst": 440,
+   "partner_root": "VULPIX",
+   "swapped": true,
+   "old_stats": [
+    40,
+    45,
+    35,
+    90,
+    40,
+    40
+   ],
+   "old_bst": 290,
+   "target_bst": 336,
+   "new_stats": [
+    47,
+    52,
+    41,
+    104,
+    46,
+    46
+   ],
+   "new_bst": 336,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "28",
+     "PERSIAN"
+    ]
+   ],
+   "where": "Route 11 Lv13; Route 5 Lv13; Route 6 Lv13 (+4 more)",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "28",
+     "PERSIAN"
+    ]
+   ]
+  },
+  {
+   "dex": 53,
+   "species": "PERSIAN",
+   "type": "NORMAL",
+   "line_root": "MEOWTH",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 52,
+   "bucket_size": 59,
+   "line_final_bst": 440,
+   "partner_root": "VULPIX",
+   "swapped": true,
+   "old_stats": [
+    65,
+    70,
+    60,
+    115,
+    65,
+    65
+   ],
+   "old_bst": 440,
+   "target_bst": 515,
+   "new_stats": [
+    76,
+    82,
+    70,
+    135,
+    76,
+    76
+   ],
+   "new_bst": 515,
+   "capped": [],
+   "evos": [],
+   "where": "Route 7 Lv18",
+   "new_evos": []
+  },
+  {
+   "dex": 54,
+   "species": "PSYDUCK",
+   "type": "WATER",
+   "line_root": "PSYDUCK",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 13,
+   "bucket_size": 59,
+   "line_final_bst": 500,
+   "partner_root": "SNUBBULL",
+   "swapped": true,
+   "old_stats": [
+    50,
+    52,
+    48,
+    55,
+    65,
+    50
+   ],
+   "old_bst": 320,
+   "target_bst": 300,
+   "new_stats": [
+    47,
+    49,
+    45,
+    51,
+    61,
+    47
+   ],
+   "new_bst": 300,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "33",
+     "GOLDUCK"
+    ]
+   ],
+   "where": "Route 6 Lv5; Ilex Forest Lv10; Ilex Forest Lv13 (+4 more)",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "23",
+     "GOLDUCK"
+    ]
+   ]
+  },
+  {
+   "dex": 55,
+   "species": "GOLDUCK",
+   "type": "WATER",
+   "line_root": "PSYDUCK",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 13,
+   "bucket_size": 59,
+   "line_final_bst": 500,
+   "partner_root": "SNUBBULL",
+   "swapped": true,
+   "old_stats": [
+    80,
+    82,
+    78,
+    85,
+    95,
+    80
+   ],
+   "old_bst": 500,
+   "target_bst": 450,
+   "new_stats": [
+    72,
+    74,
+    70,
+    77,
+    85,
+    72
+   ],
+   "new_bst": 450,
+   "capped": [],
+   "evos": [],
+   "where": "Route 6 Lv10; Ilex Forest Lv15; Route 35 Lv20 (+4 more)",
+   "new_evos": []
+  },
+  {
+   "dex": 56,
+   "species": "MANKEY",
+   "type": "FIGHTING",
+   "line_root": "MANKEY",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 41,
+   "bucket_size": 59,
+   "line_final_bst": 455,
+   "partner_root": "PHANPY",
+   "swapped": true,
+   "old_stats": [
+    40,
+    80,
+    35,
+    70,
+    35,
+    45
+   ],
+   "old_bst": 305,
+   "target_bst": 330,
+   "new_stats": [
+    43,
+    86,
+    38,
+    76,
+    38,
+    49
+   ],
+   "new_bst": 330,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "28",
+     "PRIMEAPE"
+    ]
+   ],
+   "where": "Route 34 Lv14",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "25",
+     "PRIMEAPE"
+    ]
+   ]
+  },
+  {
+   "dex": 57,
+   "species": "PRIMEAPE",
+   "type": "FIGHTING",
+   "line_root": "MANKEY",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 41,
+   "bucket_size": 59,
+   "line_final_bst": 455,
+   "partner_root": "PHANPY",
+   "swapped": true,
+   "old_stats": [
+    65,
+    105,
+    60,
+    95,
+    60,
+    70
+   ],
+   "old_bst": 455,
+   "target_bst": 500,
+   "new_stats": [
+    72,
+    115,
+    66,
+    104,
+    66,
+    77
+   ],
+   "new_bst": 500,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 58,
+   "species": "GROWLITHE",
+   "type": "FIRE",
+   "line_root": "GROWLITHE",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 1,
+   "bucket_size": 59,
+   "line_final_bst": 555,
+   "partner_root": "PARAS",
+   "swapped": true,
+   "old_stats": [
+    55,
+    70,
+    45,
+    60,
+    70,
+    50
+   ],
+   "old_bst": 350,
+   "target_bst": 285,
+   "new_stats": [
+    45,
+    57,
+    36,
+    49,
+    57,
+    41
+   ],
+   "new_bst": 285,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_ITEM",
+     "FIRE_STONE",
+     "ARCANINE"
+    ]
+   ],
+   "where": "Route 36 Lv5; Route 35 Lv14; Route 37 Lv16 (+1 more)",
+   "new_evos": [
+    [
+     "EVOLVE_ITEM",
+     "FIRE_STONE",
+     "ARCANINE"
+    ]
+   ]
+  },
+  {
+   "dex": 59,
+   "species": "ARCANINE",
+   "type": "FIRE",
+   "line_root": "GROWLITHE",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 1,
+   "bucket_size": 59,
+   "line_final_bst": 555,
+   "partner_root": "PARAS",
+   "swapped": true,
+   "old_stats": [
+    90,
+    110,
+    80,
+    95,
+    100,
+    80
+   ],
+   "old_bst": 555,
+   "target_bst": 405,
+   "new_stats": [
+    66,
+    80,
+    59,
+    69,
+    73,
+    58
+   ],
+   "new_bst": 405,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 60,
+   "species": "POLIWAG",
+   "type": "WATER",
+   "line_root": "POLIWAG",
+   "line_stages": 3,
+   "stage": 1,
+   "rank": 13,
+   "bucket_size": 27,
+   "line_final_bst": 500,
+   "partner_root": "MAREEP",
+   "swapped": true,
+   "old_stats": [
+    40,
+    50,
+    40,
+    90,
+    40,
+    40
+   ],
+   "old_bst": 300,
+   "target_bst": 280,
+   "new_stats": [
+    38,
+    47,
+    37,
+    84,
+    37,
+    37
+   ],
+   "new_bst": 280,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "25",
+     "POLIWHIRL"
+    ]
+   ],
+   "where": "Route 22 Lv3; Route 30 Lv4; Route 31 Lv4 (+15 more)",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "15",
+     "POLIWHIRL"
+    ]
+   ]
+  },
+  {
+   "dex": 61,
+   "species": "POLIWHIRL",
+   "type": "WATER",
+   "line_root": "POLIWAG",
+   "line_stages": 3,
+   "stage": 2,
+   "rank": 13,
+   "bucket_size": 27,
+   "line_final_bst": 500,
+   "partner_root": "MAREEP",
+   "swapped": true,
+   "old_stats": [
+    65,
+    65,
+    65,
+    90,
+    50,
+    50
+   ],
+   "old_bst": 385,
+   "target_bst": 365,
+   "new_stats": [
+    62,
+    62,
+    62,
+    85,
+    47,
+    47
+   ],
+   "new_bst": 365,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_ITEM",
+     "WATER_STONE",
+     "POLIWRATH"
+    ],
+    [
+     "EVOLVE_ITEM",
+     "KINGS_ROCK",
+     "POLITOED"
+    ]
+   ],
+   "where": "Route 22 Lv10; Viridian City Lv10; Ecruteak City Lv20 (+8 more)",
+   "new_evos": [
+    [
+     "EVOLVE_ITEM",
+     "WATER_STONE",
+     "POLIWRATH"
+    ],
+    [
+     "EVOLVE_ITEM",
+     "KINGS_ROCK",
+     "POLITOED"
+    ]
+   ]
+  },
+  {
+   "dex": 62,
+   "species": "POLIWRATH",
+   "type": "WATER/FIGHTING",
+   "line_root": "POLIWAG",
+   "line_stages": 3,
+   "stage": 3,
+   "rank": 13,
+   "bucket_size": 27,
+   "line_final_bst": 500,
+   "partner_root": "MAREEP",
+   "swapped": true,
+   "old_stats": [
+    90,
+    85,
+    95,
+    70,
+    70,
+    90
+   ],
+   "old_bst": 500,
+   "target_bst": 500,
+   "new_stats": [
+    90,
+    85,
+    95,
+    70,
+    70,
+    90
+   ],
+   "new_bst": 500,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 63,
+   "species": "ABRA",
+   "type": "PSYCHIC_TYPE",
+   "line_root": "ABRA",
+   "line_stages": 3,
+   "stage": 1,
+   "rank": 18,
+   "bucket_size": 27,
+   "line_final_bst": 490,
+   "partner_root": "CHIKORITA",
+   "swapped": true,
+   "old_stats": [
+    25,
+    20,
+    15,
+    90,
+    105,
+    55
+   ],
+   "old_bst": 310,
+   "target_bst": 318,
+   "new_stats": [
+    26,
+    21,
+    15,
+    92,
+    108,
+    56
+   ],
+   "new_bst": 318,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "16",
+     "KADABRA"
+    ]
+   ],
+   "where": "Route 24 Lv12; Route 5 Lv12; Route 34 Lv13 (+3 more)",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "16",
+     "KADABRA"
+    ]
+   ]
+  },
+  {
+   "dex": 64,
+   "species": "KADABRA",
+   "type": "PSYCHIC_TYPE",
+   "line_root": "ABRA",
+   "line_stages": 3,
+   "stage": 2,
+   "rank": 18,
+   "bucket_size": 27,
+   "line_final_bst": 490,
+   "partner_root": "CHIKORITA",
+   "swapped": true,
+   "old_stats": [
+    40,
+    35,
+    30,
+    105,
+    120,
+    70
+   ],
+   "old_bst": 400,
+   "target_bst": 405,
+   "new_stats": [
+    41,
+    35,
+    30,
+    106,
+    122,
+    71
+   ],
+   "new_bst": 405,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "42",
+     "ALAKAZAM"
+    ]
+   ],
+   "where": "Route 8 Lv18",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "32",
+     "ALAKAZAM"
+    ]
+   ]
+  },
+  {
+   "dex": 65,
+   "species": "ALAKAZAM",
+   "type": "PSYCHIC_TYPE",
+   "line_root": "ABRA",
+   "line_stages": 3,
+   "stage": 3,
+   "rank": 18,
+   "bucket_size": 27,
+   "line_final_bst": 490,
+   "partner_root": "CHIKORITA",
+   "swapped": true,
+   "old_stats": [
+    55,
+    50,
+    45,
+    120,
+    135,
+    85
+   ],
+   "old_bst": 490,
+   "target_bst": 525,
+   "new_stats": [
+    59,
+    53,
+    48,
+    129,
+    145,
+    91
+   ],
+   "new_bst": 525,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 66,
+   "species": "MACHOP",
+   "type": "FIGHTING",
+   "line_root": "MACHOP",
+   "line_stages": 3,
+   "stage": 1,
+   "rank": 12,
+   "bucket_size": 27,
+   "line_final_bst": 505,
+   "partner_root": "NIDORAN_F",
+   "swapped": true,
+   "old_stats": [
+    70,
+    80,
+    50,
+    35,
+    35,
+    35
+   ],
+   "old_bst": 305,
+   "target_bst": 275,
+   "new_stats": [
+    63,
+    72,
+    45,
+    32,
+    32,
+    31
+   ],
+   "new_bst": 275,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "28",
+     "MACHOKE"
+    ]
+   ],
+   "where": "Route 33 Lv8; Mount Mortar 1F Inside Lv21; Mount Mortar 1F Outside Lv21 (+3 more)",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "16",
+     "MACHOKE"
+    ]
+   ]
+  },
+  {
+   "dex": 67,
+   "species": "MACHOKE",
+   "type": "FIGHTING",
+   "line_root": "MACHOP",
+   "line_stages": 3,
+   "stage": 2,
+   "rank": 12,
+   "bucket_size": 27,
+   "line_final_bst": 505,
+   "partner_root": "NIDORAN_F",
+   "swapped": true,
+   "old_stats": [
+    80,
+    100,
+    70,
+    45,
+    50,
+    60
+   ],
+   "old_bst": 405,
+   "target_bst": 365,
+   "new_stats": [
+    72,
+    90,
+    63,
+    41,
+    45,
+    54
+   ],
+   "new_bst": 365,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "38",
+     "MACHAMP"
+    ]
+   ],
+   "where": "Mount Mortar 2F Inside Lv32; Rock Tunnel 1F Lv45; Silver Cave Room 2 Lv68",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "38",
+     "MACHAMP"
+    ]
+   ]
+  },
+  {
+   "dex": 68,
+   "species": "MACHAMP",
+   "type": "FIGHTING",
+   "line_root": "MACHOP",
+   "line_stages": 3,
+   "stage": 3,
+   "rank": 12,
+   "bucket_size": 27,
+   "line_final_bst": 505,
+   "partner_root": "NIDORAN_F",
+   "swapped": true,
+   "old_stats": [
+    90,
+    130,
+    80,
+    55,
+    65,
+    85
+   ],
+   "old_bst": 505,
+   "target_bst": 495,
+   "new_stats": [
+    88,
+    128,
+    78,
+    54,
+    64,
+    83
+   ],
+   "new_bst": 495,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 69,
+   "species": "BELLSPROUT",
+   "type": "GRASS/POISON",
+   "line_root": "BELLSPROUT",
+   "line_stages": 3,
+   "stage": 1,
+   "rank": 21,
+   "bucket_size": 27,
+   "line_final_bst": 480,
+   "partner_root": "SQUIRTLE",
+   "swapped": true,
+   "old_stats": [
+    50,
+    75,
+    35,
+    40,
+    70,
+    30
+   ],
+   "old_bst": 300,
+   "target_bst": 314,
+   "new_stats": [
+    52,
+    79,
+    37,
+    42,
+    73,
+    31
+   ],
+   "new_bst": 314,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "21",
+     "WEEPINBELL"
+    ]
+   ],
+   "where": "Route 31 Lv4; Route 36 Lv4; Route 32 Lv7 (+2 more)",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "16",
+     "WEEPINBELL"
+    ]
+   ]
+  },
+  {
+   "dex": 70,
+   "species": "WEEPINBELL",
+   "type": "GRASS/POISON",
+   "line_root": "BELLSPROUT",
+   "line_stages": 3,
+   "stage": 2,
+   "rank": 21,
+   "bucket_size": 27,
+   "line_final_bst": 480,
+   "partner_root": "SQUIRTLE",
+   "swapped": true,
+   "old_stats": [
+    65,
+    90,
+    50,
+    55,
+    85,
+    45
+   ],
+   "old_bst": 390,
+   "target_bst": 405,
+   "new_stats": [
+    68,
+    93,
+    52,
+    57,
+    88,
+    47
+   ],
+   "new_bst": 405,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_ITEM",
+     "LEAF_STONE",
+     "VICTREEBEL"
+    ]
+   ],
+   "where": "Route 44 Lv32",
+   "new_evos": [
+    [
+     "EVOLVE_ITEM",
+     "LEAF_STONE",
+     "VICTREEBEL"
+    ]
+   ]
+  },
+  {
+   "dex": 71,
+   "species": "VICTREEBEL",
+   "type": "GRASS/POISON",
+   "line_root": "BELLSPROUT",
+   "line_stages": 3,
+   "stage": 3,
+   "rank": 21,
+   "bucket_size": 27,
+   "line_final_bst": 480,
+   "partner_root": "SQUIRTLE",
+   "swapped": true,
+   "old_stats": [
+    80,
+    105,
+    65,
+    70,
+    100,
+    60
+   ],
+   "old_bst": 480,
+   "target_bst": 530,
+   "new_stats": [
+    88,
+    116,
+    72,
+    77,
+    111,
+    66
+   ],
+   "new_bst": 530,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 72,
+   "species": "TENTACOOL",
+   "type": "WATER/POISON",
+   "line_root": "TENTACOOL",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 9,
+   "bucket_size": 59,
+   "line_final_bst": 515,
+   "partner_root": "HOOTHOOT",
+   "swapped": true,
+   "old_stats": [
+    40,
+    40,
+    35,
+    70,
+    50,
+    100
+   ],
+   "old_bst": 335,
+   "target_bst": 262,
+   "new_stats": [
+    31,
+    31,
+    28,
+    55,
+    39,
+    78
+   ],
+   "new_bst": 262,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "30",
+     "TENTACRUEL"
+    ]
+   ],
+   "where": "fishing Ocean Old Rod Lv10; fishing Qwilfish Old Rod Lv10; Cherrygrove City Lv15 (+24 more)",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "20",
+     "TENTACRUEL"
+    ]
+   ]
+  },
+  {
+   "dex": 73,
+   "species": "TENTACRUEL",
+   "type": "WATER/POISON",
+   "line_root": "TENTACOOL",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 9,
+   "bucket_size": 59,
+   "line_final_bst": 515,
+   "partner_root": "HOOTHOOT",
+   "swapped": true,
+   "old_stats": [
+    80,
+    70,
+    65,
+    100,
+    80,
+    120
+   ],
+   "old_bst": 515,
+   "target_bst": 442,
+   "new_stats": [
+    69,
+    60,
+    56,
+    86,
+    68,
+    103
+   ],
+   "new_bst": 442,
+   "capped": [],
+   "evos": [],
+   "where": "Cherrygrove City Lv20; Cianwood City Lv20; Olivine City Lv20 (+21 more)",
+   "new_evos": []
+  },
+  {
+   "dex": 74,
+   "species": "GEODUDE",
+   "type": "ROCK/GROUND",
+   "line_root": "GEODUDE",
+   "line_stages": 3,
+   "stage": 1,
+   "rank": 19,
+   "bucket_size": 27,
+   "line_final_bst": 485,
+   "partner_root": "BULBASAUR",
+   "swapped": true,
+   "old_stats": [
+    40,
+    80,
+    100,
+    20,
+    30,
+    30
+   ],
+   "old_bst": 300,
+   "target_bst": 318,
+   "new_stats": [
+    42,
+    85,
+    106,
+    21,
+    32,
+    32
+   ],
+   "new_bst": 318,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "25",
+     "GRAVELER"
+    ]
+   ],
+   "where": "Route 46 Lv2; Dark Cave Violet Entrance Lv3; Mount Moon Lv8 (+9 more)",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "16",
+     "GRAVELER"
+    ]
+   ]
+  },
+  {
+   "dex": 75,
+   "species": "GRAVELER",
+   "type": "ROCK/GROUND",
+   "line_root": "GEODUDE",
+   "line_stages": 3,
+   "stage": 2,
+   "rank": 19,
+   "bucket_size": 27,
+   "line_final_bst": 485,
+   "partner_root": "BULBASAUR",
+   "swapped": true,
+   "old_stats": [
+    55,
+    95,
+    115,
+    35,
+    45,
+    45
+   ],
+   "old_bst": 390,
+   "target_bst": 405,
+   "new_stats": [
+    57,
+    99,
+    119,
+    36,
+    47,
+    47
+   ],
+   "new_bst": 405,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "38",
+     "GOLEM"
+    ]
+   ],
+   "where": "Mount Mortar 2F Inside Lv31; Route 45 Lv34; Dark Cave Blackthorn Entrance Lv35 (+2 more)",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "32",
+     "GOLEM"
+    ]
+   ]
+  },
+  {
+   "dex": 76,
+   "species": "GOLEM",
+   "type": "ROCK/GROUND",
+   "line_root": "GEODUDE",
+   "line_stages": 3,
+   "stage": 3,
+   "rank": 19,
+   "bucket_size": 27,
+   "line_final_bst": 485,
+   "partner_root": "BULBASAUR",
+   "swapped": true,
+   "old_stats": [
+    80,
+    110,
+    130,
+    45,
+    55,
+    65
+   ],
+   "old_bst": 485,
+   "target_bst": 525,
+   "new_stats": [
+    87,
+    119,
+    141,
+    49,
+    59,
+    70
+   ],
+   "new_bst": 525,
+   "capped": [],
+   "evos": [],
+   "where": "Victory Road Lv44; Silver Cave Outside Lv51",
+   "new_evos": []
+  },
+  {
+   "dex": 77,
+   "species": "PONYTA",
+   "type": "FIRE",
+   "line_root": "PONYTA",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 11,
+   "bucket_size": 59,
+   "line_final_bst": 510,
+   "partner_root": "SUNKERN",
+   "swapped": true,
+   "old_stats": [
+    50,
+    85,
+    55,
+    100,
+    65,
+    65
+   ],
+   "old_bst": 420,
+   "target_bst": 180,
+   "new_stats": [
+    21,
+    36,
+    24,
+    43,
+    28,
+    28
+   ],
+   "new_bst": 180,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "40",
+     "RAPIDASH"
+    ]
+   ],
+   "where": "Route 22 Lv6; Route 39 Lv21; Route 26 Lv39 (+2 more)",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "40",
+     "RAPIDASH"
+    ]
+   ]
+  },
+  {
+   "dex": 78,
+   "species": "RAPIDASH",
+   "type": "FIRE",
+   "line_root": "PONYTA",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 11,
+   "bucket_size": 59,
+   "line_final_bst": 510,
+   "partner_root": "SUNKERN",
+   "swapped": true,
+   "old_stats": [
+    65,
+    100,
+    70,
+    115,
+    80,
+    80
+   ],
+   "old_bst": 510,
+   "target_bst": 445,
+   "new_stats": [
+    57,
+    87,
+    61,
+    100,
+    70,
+    70
+   ],
+   "new_bst": 445,
+   "capped": [],
+   "evos": [],
+   "where": "Route 28 Lv40; Route 26 Lv42; Route 27 Lv42 (+1 more)",
+   "new_evos": []
+  },
+  {
+   "dex": 79,
+   "species": "SLOWPOKE",
+   "type": "WATER/PSYCHIC_TYPE",
+   "line_root": "SLOWPOKE",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 23,
+   "bucket_size": 59,
+   "line_final_bst": 490,
+   "partner_root": "EKANS",
+   "swapped": true,
+   "old_stats": [
+    90,
+    65,
+    65,
+    15,
+    40,
+    40
+   ],
+   "old_bst": 315,
+   "target_bst": 303,
+   "new_stats": [
+    87,
+    63,
+    63,
+    14,
+    38,
+    38
+   ],
+   "new_bst": 303,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "37",
+     "SLOWBRO"
+    ],
+    [
+     "EVOLVE_ITEM",
+     "KINGS_ROCK",
+     "SLOWKING"
+    ]
+   ],
+   "where": "Slowpoke Well B1F Lv6; Slowpoke Well B1F Lv10; Slowpoke Well B2F Lv15 (+3 more)",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "22",
+     "SLOWBRO"
+    ],
+    [
+     "EVOLVE_ITEM",
+     "KINGS_ROCK",
+     "SLOWKING"
+    ]
+   ]
+  },
+  {
+   "dex": 80,
+   "species": "SLOWBRO",
+   "type": "WATER/PSYCHIC_TYPE",
+   "line_root": "SLOWPOKE",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 23,
+   "bucket_size": 59,
+   "line_final_bst": 490,
+   "partner_root": "EKANS",
+   "swapped": true,
+   "old_stats": [
+    95,
+    75,
+    110,
+    30,
+    100,
+    80
+   ],
+   "old_bst": 490,
+   "target_bst": 460,
+   "new_stats": [
+    89,
+    71,
+    103,
+    28,
+    94,
+    75
+   ],
+   "new_bst": 460,
+   "capped": [],
+   "evos": [],
+   "where": "Slowpoke Well B2F Lv20",
+   "new_evos": []
+  },
+  {
+   "dex": 81,
+   "species": "MAGNEMITE",
+   "type": "ELECTRIC/STEEL",
+   "line_root": "MAGNEMITE",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 35,
+   "bucket_size": 59,
+   "line_final_bst": 465,
+   "partner_root": "RHYHORN",
+   "swapped": true,
+   "old_stats": [
+    25,
+    35,
+    70,
+    45,
+    95,
+    55
+   ],
+   "old_bst": 325,
+   "target_bst": 345,
+   "new_stats": [
+    27,
+    37,
+    74,
+    48,
+    101,
+    58
+   ],
+   "new_bst": 345,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "30",
+     "MAGNETON"
+    ]
+   ],
+   "where": "Route 6 Lv14; Route 11 Lv15; Route 38 Lv20 (+1 more)",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "42",
+     "MAGNETON"
+    ]
+   ]
+  },
+  {
+   "dex": 82,
+   "species": "MAGNETON",
+   "type": "ELECTRIC/STEEL",
+   "line_root": "MAGNEMITE",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 35,
+   "bucket_size": 59,
+   "line_final_bst": 465,
+   "partner_root": "RHYHORN",
+   "swapped": true,
+   "old_stats": [
+    50,
+    60,
+    95,
+    70,
+    120,
+    70
+   ],
+   "old_bst": 465,
+   "target_bst": 485,
+   "new_stats": [
+    52,
+    63,
+    99,
+    73,
+    125,
+    73
+   ],
+   "new_bst": 485,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 83,
+   "species": "FARFETCH_D",
+   "type": "NORMAL/FLYING",
+   "line_root": "FARFETCH_D",
+   "line_stages": 1,
+   "stage": 1,
+   "rank": 29,
+   "bucket_size": 32,
+   "line_final_bst": 352,
+   "partner_root": "SHUCKLE",
+   "swapped": true,
+   "old_stats": [
+    52,
+    65,
+    55,
+    60,
+    58,
+    62
+   ],
+   "old_bst": 352,
+   "target_bst": 505,
+   "new_stats": [
+    75,
+    93,
+    79,
+    86,
+    83,
+    89
+   ],
+   "new_bst": 505,
+   "capped": [],
+   "evos": [],
+   "where": "Route 43 Lv22",
+   "new_evos": []
+  },
+  {
+   "dex": 84,
+   "species": "DODUO",
+   "type": "NORMAL/FLYING",
+   "line_root": "DODUO",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 38,
+   "bucket_size": 59,
+   "line_final_bst": 460,
+   "partner_root": "MAGBY",
+   "swapped": true,
+   "old_stats": [
+    35,
+    85,
+    45,
+    75,
+    35,
+    35
+   ],
+   "old_bst": 310,
+   "target_bst": 365,
+   "new_stats": [
+    41,
+    100,
+    53,
+    89,
+    41,
+    41
+   ],
+   "new_bst": 365,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "31",
+     "DODRIO"
+    ]
+   ],
+   "where": "Route 22 Lv4; Route 38 Lv20; Route 39 Lv21 (+1 more)",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "30",
+     "DODRIO"
+    ]
+   ]
+  },
+  {
+   "dex": 85,
+   "species": "DODRIO",
+   "type": "NORMAL/FLYING",
+   "line_root": "DODUO",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 38,
+   "bucket_size": 59,
+   "line_final_bst": 460,
+   "partner_root": "MAGBY",
+   "swapped": true,
+   "old_stats": [
+    60,
+    110,
+    70,
+    100,
+    60,
+    60
+   ],
+   "old_bst": 460,
+   "target_bst": 495,
+   "new_stats": [
+    65,
+    118,
+    75,
+    108,
+    65,
+    64
+   ],
+   "new_bst": 495,
+   "capped": [],
+   "evos": [],
+   "where": "Route 26 Lv38; Route 27 Lv38; Route 28 Lv43",
+   "new_evos": []
+  },
+  {
+   "dex": 86,
+   "species": "SEEL",
+   "type": "WATER",
+   "line_root": "SEEL",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 31,
+   "bucket_size": 59,
+   "line_final_bst": 475,
+   "partner_root": "REMORAID",
+   "swapped": true,
+   "old_stats": [
+    65,
+    45,
+    55,
+    45,
+    45,
+    70
+   ],
+   "old_bst": 325,
+   "target_bst": 300,
+   "new_stats": [
+    60,
+    42,
+    51,
+    41,
+    41,
+    65
+   ],
+   "new_bst": 300,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "34",
+     "DEWGONG"
+    ]
+   ],
+   "where": "Whirl Island B1F Lv24; Whirl Island Cave Lv24; Whirl Island Ne Lv24 (+5 more)",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "25",
+     "DEWGONG"
+    ]
+   ]
+  },
+  {
+   "dex": 87,
+   "species": "DEWGONG",
+   "type": "WATER/ICE",
+   "line_root": "SEEL",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 31,
+   "bucket_size": 59,
+   "line_final_bst": 475,
+   "partner_root": "REMORAID",
+   "swapped": true,
+   "old_stats": [
+    90,
+    60,
+    80,
+    70,
+    80,
+    95
+   ],
+   "old_bst": 475,
+   "target_bst": 480,
+   "new_stats": [
+    91,
+    60,
+    81,
+    71,
+    81,
+    96
+   ],
+   "new_bst": 480,
+   "capped": [],
+   "evos": [],
+   "where": "Whirl Island Lugia Chamber Lv31",
+   "new_evos": []
+  },
+  {
+   "dex": 88,
+   "species": "GRIMER",
+   "type": "POISON",
+   "line_root": "GRIMER",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 14,
+   "bucket_size": 59,
+   "line_final_bst": 500,
+   "partner_root": "WOOPER",
+   "swapped": true,
+   "old_stats": [
+    80,
+    80,
+    50,
+    25,
+    40,
+    50
+   ],
+   "old_bst": 325,
+   "target_bst": 210,
+   "new_stats": [
+    52,
+    52,
+    32,
+    16,
+    26,
+    32
+   ],
+   "new_bst": 210,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "38",
+     "MUK"
+    ]
+   ],
+   "where": "Route 34 Lv13; Celadon City Lv15; Route 16 Lv26 (+2 more)",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "20",
+     "MUK"
+    ]
+   ]
+  },
+  {
+   "dex": 89,
+   "species": "MUK",
+   "type": "POISON",
+   "line_root": "GRIMER",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 14,
+   "bucket_size": 59,
+   "line_final_bst": 500,
+   "partner_root": "WOOPER",
+   "swapped": true,
+   "old_stats": [
+    105,
+    105,
+    75,
+    50,
+    65,
+    100
+   ],
+   "old_bst": 500,
+   "target_bst": 450,
+   "new_stats": [
+    95,
+    95,
+    67,
+    45,
+    58,
+    90
+   ],
+   "new_bst": 450,
+   "capped": [],
+   "evos": [],
+   "where": "Celadon City Lv15; Route 16 Lv30; Route 18 Lv30 (+1 more)",
+   "new_evos": []
+  },
+  {
+   "dex": 90,
+   "species": "SHELLDER",
+   "type": "WATER",
+   "line_root": "SHELLDER",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 4,
+   "bucket_size": 59,
+   "line_final_bst": 525,
+   "partner_root": "DIGLETT",
+   "swapped": true,
+   "old_stats": [
+    35,
+    65,
+    100,
+    40,
+    45,
+    25
+   ],
+   "old_bst": 310,
+   "target_bst": 265,
+   "new_stats": [
+    30,
+    56,
+    86,
+    34,
+    38,
+    21
+   ],
+   "new_bst": 265,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_ITEM",
+     "WATER_STONE",
+     "CLOYSTER"
+    ]
+   ],
+   "where": "Route 40 Lv21",
+   "new_evos": [
+    [
+     "EVOLVE_ITEM",
+     "WATER_STONE",
+     "CLOYSTER"
+    ]
+   ]
+  },
+  {
+   "dex": 91,
+   "species": "CLOYSTER",
+   "type": "WATER/ICE",
+   "line_root": "SHELLDER",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 4,
+   "bucket_size": 59,
+   "line_final_bst": 525,
+   "partner_root": "DIGLETT",
+   "swapped": true,
+   "old_stats": [
+    50,
+    95,
+    180,
+    70,
+    85,
+    45
+   ],
+   "old_bst": 525,
+   "target_bst": 415,
+   "new_stats": [
+    40,
+    75,
+    142,
+    55,
+    67,
+    36
+   ],
+   "new_bst": 415,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 92,
+   "species": "GASTLY",
+   "type": "GHOST/POISON",
+   "line_root": "GASTLY",
+   "line_stages": 3,
+   "stage": 1,
+   "rank": 14,
+   "bucket_size": 27,
+   "line_final_bst": 500,
+   "partner_root": "GASTLY",
+   "swapped": false,
+   "old_stats": [
+    30,
+    35,
+    30,
+    80,
+    100,
+    35
+   ],
+   "old_bst": 310,
+   "target_bst": 310,
+   "new_stats": [
+    30,
+    35,
+    30,
+    80,
+    100,
+    35
+   ],
+   "new_bst": 310,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "25",
+     "HAUNTER"
+    ]
+   ],
+   "where": "Route 36 Lv4; Sprout Tower 2F Lv4; Sprout Tower 3F Lv4 (+10 more)",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "25",
+     "HAUNTER"
+    ]
+   ]
+  },
+  {
+   "dex": 93,
+   "species": "HAUNTER",
+   "type": "GHOST/POISON",
+   "line_root": "GASTLY",
+   "line_stages": 3,
+   "stage": 2,
+   "rank": 14,
+   "bucket_size": 27,
+   "line_final_bst": 500,
+   "partner_root": "GASTLY",
+   "swapped": false,
+   "old_stats": [
+    45,
+    50,
+    45,
+    95,
+    115,
+    55
+   ],
+   "old_bst": 405,
+   "target_bst": 405,
+   "new_stats": [
+    45,
+    50,
+    45,
+    95,
+    115,
+    55
+   ],
+   "new_bst": 405,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "42",
+     "GENGAR"
+    ]
+   ],
+   "where": "Route 8 Lv17; Rock Tunnel 1F Lv42; Rock Tunnel B1F Lv45",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "42",
+     "GENGAR"
+    ]
+   ]
+  },
+  {
+   "dex": 94,
+   "species": "GENGAR",
+   "type": "GHOST/POISON",
+   "line_root": "GASTLY",
+   "line_stages": 3,
+   "stage": 3,
+   "rank": 14,
+   "bucket_size": 27,
+   "line_final_bst": 500,
+   "partner_root": "GASTLY",
+   "swapped": false,
+   "old_stats": [
+    60,
+    65,
+    60,
+    110,
+    130,
+    75
+   ],
+   "old_bst": 500,
+   "target_bst": 500,
+   "new_stats": [
+    60,
+    65,
+    60,
+    110,
+    130,
+    75
+   ],
+   "new_bst": 500,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 95,
+   "species": "ONIX",
+   "type": "ROCK/GROUND",
+   "line_root": "ONIX",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 12,
+   "bucket_size": 59,
+   "line_final_bst": 510,
+   "partner_root": "TOGEPI",
+   "swapped": true,
+   "old_stats": [
+    35,
+    45,
+    160,
+    70,
+    30,
+    45
+   ],
+   "old_bst": 385,
+   "target_bst": 245,
+   "new_stats": [
+    22,
+    29,
+    102,
+    44,
+    19,
+    29
+   ],
+   "new_bst": 245,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_ITEM",
+     "METAL_COAT",
+     "STEELIX"
+    ]
+   ],
+   "where": "Union Cave 1F Lv8; Union Cave B1F Lv8; Union Cave B2F Lv22 (+4 more)",
+   "new_evos": [
+    [
+     "EVOLVE_ITEM",
+     "METAL_COAT",
+     "STEELIX"
+    ]
+   ]
+  },
+  {
+   "dex": 96,
+   "species": "DROWZEE",
+   "type": "PSYCHIC_TYPE",
+   "line_root": "DROWZEE",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 26,
+   "bucket_size": 59,
+   "line_final_bst": 483,
+   "partner_root": "SLUGMA",
+   "swapped": true,
+   "old_stats": [
+    60,
+    48,
+    45,
+    42,
+    43,
+    90
+   ],
+   "old_bst": 328,
+   "target_bst": 330,
+   "new_stats": [
+    61,
+    48,
+    45,
+    42,
+    43,
+    91
+   ],
+   "new_bst": 330,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "26",
+     "HYPNO"
+    ]
+   ],
+   "where": "Route 6 Lv13; Route 11 Lv14; Route 34 Lv14",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "27",
+     "HYPNO"
+    ]
+   ]
+  },
+  {
+   "dex": 97,
+   "species": "HYPNO",
+   "type": "PSYCHIC_TYPE",
+   "line_root": "DROWZEE",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 26,
+   "bucket_size": 59,
+   "line_final_bst": 483,
+   "partner_root": "SLUGMA",
+   "swapped": true,
+   "old_stats": [
+    85,
+    73,
+    70,
+    67,
+    73,
+    115
+   ],
+   "old_bst": 483,
+   "target_bst": 470,
+   "new_stats": [
+    83,
+    71,
+    68,
+    65,
+    71,
+    112
+   ],
+   "new_bst": 470,
+   "capped": [],
+   "evos": [],
+   "where": "Route 11 Lv16",
+   "new_evos": []
+  },
+  {
+   "dex": 98,
+   "species": "KRABBY",
+   "type": "WATER",
+   "line_root": "KRABBY",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 32,
+   "bucket_size": 59,
+   "line_final_bst": 475,
+   "partner_root": "SWINUB",
+   "swapped": true,
+   "old_stats": [
+    30,
+    105,
+    90,
+    50,
+    25,
+    25
+   ],
+   "old_bst": 325,
+   "target_bst": 340,
+   "new_stats": [
+    32,
+    110,
+    94,
+    52,
+    26,
+    26
+   ],
+   "new_bst": 340,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "28",
+     "KINGLER"
+    ]
+   ],
+   "where": "fishing Shore Old Rod Lv10; fishing WhirlIslands Old Rod Lv10; fishing Shore Good Rod Lv20 (+11 more)",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "33",
+     "KINGLER"
+    ]
+   ]
+  },
+  {
+   "dex": 99,
+   "species": "KINGLER",
+   "type": "WATER",
+   "line_root": "KRABBY",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 32,
+   "bucket_size": 59,
+   "line_final_bst": 475,
+   "partner_root": "SWINUB",
+   "swapped": true,
+   "old_stats": [
+    55,
+    130,
+    115,
+    75,
+    50,
+    50
+   ],
+   "old_bst": 475,
+   "target_bst": 480,
+   "new_stats": [
+    56,
+    131,
+    116,
+    76,
+    51,
+    50
+   ],
+   "new_bst": 480,
+   "capped": [],
+   "evos": [],
+   "where": "Whirl Island Lugia Chamber Lv25; fishing Shore Super Rod Lv40; fishing WhirlIslands Super Rod Lv40",
+   "new_evos": []
+  },
+  {
+   "dex": 100,
+   "species": "VOLTORB",
+   "type": "ELECTRIC",
+   "line_root": "VOLTORB",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 27,
+   "bucket_size": 59,
+   "line_final_bst": 480,
+   "partner_root": "NATU",
+   "swapped": true,
+   "old_stats": [
+    40,
+    30,
+    50,
+    100,
+    55,
+    55
+   ],
+   "old_bst": 330,
+   "target_bst": 320,
+   "new_stats": [
+    39,
+    29,
+    49,
+    97,
+    53,
+    53
+   ],
+   "new_bst": 320,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "30",
+     "ELECTRODE"
+    ]
+   ],
+   "where": "Route 10 North Lv37",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "25",
+     "ELECTRODE"
+    ]
+   ]
+  },
+  {
+   "dex": 101,
+   "species": "ELECTRODE",
+   "type": "ELECTRIC",
+   "line_root": "VOLTORB",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 27,
+   "bucket_size": 59,
+   "line_final_bst": 480,
+   "partner_root": "NATU",
+   "swapped": true,
+   "old_stats": [
+    60,
+    50,
+    70,
+    140,
+    80,
+    80
+   ],
+   "old_bst": 480,
+   "target_bst": 470,
+   "new_stats": [
+    59,
+    49,
+    69,
+    137,
+    78,
+    78
+   ],
+   "new_bst": 470,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 102,
+   "species": "EXEGGCUTE",
+   "type": "GRASS/PSYCHIC_TYPE",
+   "line_root": "EXEGGCUTE",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 6,
+   "bucket_size": 59,
+   "line_final_bst": 520,
+   "partner_root": "MARILL",
+   "swapped": true,
+   "old_stats": [
+    60,
+    40,
+    80,
+    40,
+    60,
+    45
+   ],
+   "old_bst": 325,
+   "target_bst": 250,
+   "new_stats": [
+    46,
+    31,
+    61,
+    31,
+    46,
+    35
+   ],
+   "new_bst": 250,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_ITEM",
+     "LEAF_STONE",
+     "EXEGGUTOR"
+    ]
+   ],
+   "where": "\u2014",
+   "new_evos": [
+    [
+     "EVOLVE_ITEM",
+     "LEAF_STONE",
+     "EXEGGUTOR"
+    ]
+   ]
+  },
+  {
+   "dex": 103,
+   "species": "EXEGGUTOR",
+   "type": "GRASS/PSYCHIC_TYPE",
+   "line_root": "EXEGGCUTE",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 6,
+   "bucket_size": 59,
+   "line_final_bst": 520,
+   "partner_root": "MARILL",
+   "swapped": true,
+   "old_stats": [
+    95,
+    95,
+    85,
+    55,
+    125,
+    65
+   ],
+   "old_bst": 520,
+   "target_bst": 430,
+   "new_stats": [
+    79,
+    79,
+    70,
+    45,
+    103,
+    54
+   ],
+   "new_bst": 430,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 104,
+   "species": "CUBONE",
+   "type": "GROUND",
+   "line_root": "CUBONE",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 53,
+   "bucket_size": 59,
+   "line_final_bst": 430,
+   "partner_root": "STARYU",
+   "swapped": true,
+   "old_stats": [
+    50,
+    50,
+    95,
+    35,
+    40,
+    50
+   ],
+   "old_bst": 320,
+   "target_bst": 340,
+   "new_stats": [
+    53,
+    53,
+    101,
+    37,
+    43,
+    53
+   ],
+   "new_bst": 340,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "28",
+     "MAROWAK"
+    ]
+   ],
+   "where": "Union Cave 1F Lv8; Mount Mortar 1F Inside Lv22; Mount Mortar 1F Outside Lv22 (+3 more)",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "28",
+     "MAROWAK"
+    ]
+   ]
+  },
+  {
+   "dex": 105,
+   "species": "MAROWAK",
+   "type": "GROUND",
+   "line_root": "CUBONE",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 53,
+   "bucket_size": 59,
+   "line_final_bst": 430,
+   "partner_root": "STARYU",
+   "swapped": true,
+   "old_stats": [
+    65,
+    80,
+    110,
+    45,
+    50,
+    80
+   ],
+   "old_bst": 430,
+   "target_bst": 520,
+   "new_stats": [
+    79,
+    97,
+    133,
+    54,
+    60,
+    97
+   ],
+   "new_bst": 520,
+   "capped": [],
+   "evos": [],
+   "where": "Route 9 Lv18; Rock Tunnel 1F Lv44; Rock Tunnel B1F Lv45 (+1 more)",
+   "new_evos": []
+  },
+  {
+   "dex": 106,
+   "species": "HITMONLEE",
+   "type": "FIGHTING",
+   "line_root": "TYROGUE",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 40,
+   "bucket_size": 59,
+   "line_final_bst": 460,
+   "partner_root": "OMANYTE",
+   "swapped": true,
+   "old_stats": [
+    50,
+    120,
+    58,
+    87,
+    35,
+    110
+   ],
+   "old_bst": 460,
+   "target_bst": 495,
+   "new_stats": [
+    54,
+    129,
+    62,
+    94,
+    38,
+    118
+   ],
+   "new_bst": 495,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 107,
+   "species": "HITMONCHAN",
+   "type": "FIGHTING",
+   "line_root": "TYROGUE",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 40,
+   "bucket_size": 59,
+   "line_final_bst": 460,
+   "partner_root": "OMANYTE",
+   "swapped": true,
+   "old_stats": [
+    50,
+    105,
+    79,
+    81,
+    35,
+    110
+   ],
+   "old_bst": 460,
+   "target_bst": 495,
+   "new_stats": [
+    54,
+    113,
+    85,
+    87,
+    38,
+    118
+   ],
+   "new_bst": 495,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 108,
+   "species": "LICKITUNG",
+   "type": "NORMAL",
+   "line_root": "LICKITUNG",
+   "line_stages": 1,
+   "stage": 1,
+   "rank": 21,
+   "bucket_size": 32,
+   "line_final_bst": 440,
+   "partner_root": "SNEASEL",
+   "swapped": true,
+   "old_stats": [
+    95,
+    70,
+    85,
+    30,
+    75,
+    85
+   ],
+   "old_bst": 440,
+   "target_bst": 465,
+   "new_stats": [
+    100,
+    74,
+    90,
+    32,
+    79,
+    90
+   ],
+   "new_bst": 465,
+   "capped": [],
+   "evos": [],
+   "where": "Route 44 Lv32",
+   "new_evos": []
+  },
+  {
+   "dex": 109,
+   "species": "KOFFING",
+   "type": "POISON",
+   "line_root": "KOFFING",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 15,
+   "bucket_size": 59,
+   "line_final_bst": 500,
+   "partner_root": "SPINARAK",
+   "swapped": true,
+   "old_stats": [
+    40,
+    65,
+    95,
+    35,
+    60,
+    45
+   ],
+   "old_bst": 340,
+   "target_bst": 250,
+   "new_stats": [
+    29,
+    48,
+    70,
+    26,
+    44,
+    33
+   ],
+   "new_bst": 250,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "35",
+     "WEEZING"
+    ]
+   ],
+   "where": "Burned Tower 1F Lv14; Burned Tower B1F Lv16",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "21",
+     "WEEZING"
+    ]
+   ]
+  },
+  {
+   "dex": 110,
+   "species": "WEEZING",
+   "type": "POISON",
+   "line_root": "KOFFING",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 15,
+   "bucket_size": 59,
+   "line_final_bst": 500,
+   "partner_root": "SPINARAK",
+   "swapped": true,
+   "old_stats": [
+    75,
+    90,
+    120,
+    60,
+    85,
+    70
+   ],
+   "old_bst": 500,
+   "target_bst": 450,
+   "new_stats": [
+    68,
+    81,
+    108,
+    54,
+    76,
+    63
+   ],
+   "new_bst": 450,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 111,
+   "species": "RHYHORN",
+   "type": "GROUND/ROCK",
+   "line_root": "RHYHORN",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 25,
+   "bucket_size": 59,
+   "line_final_bst": 485,
+   "partner_root": "MAGNEMITE",
+   "swapped": true,
+   "old_stats": [
+    80,
+    85,
+    95,
+    25,
+    30,
+    30
+   ],
+   "old_bst": 345,
+   "target_bst": 325,
+   "new_stats": [
+    75,
+    80,
+    90,
+    24,
+    28,
+    28
+   ],
+   "new_bst": 325,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "42",
+     "RHYDON"
+    ]
+   ],
+   "where": "Mount Mortar 1F Inside Lv21; Mount Mortar 1F Outside Lv21; Mount Mortar B1F Lv21",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "30",
+     "RHYDON"
+    ]
+   ]
+  },
+  {
+   "dex": 112,
+   "species": "RHYDON",
+   "type": "GROUND/ROCK",
+   "line_root": "RHYHORN",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 25,
+   "bucket_size": 59,
+   "line_final_bst": 485,
+   "partner_root": "MAGNEMITE",
+   "swapped": true,
+   "old_stats": [
+    105,
+    130,
+    120,
+    40,
+    45,
+    45
+   ],
+   "old_bst": 485,
+   "target_bst": 465,
+   "new_stats": [
+    101,
+    125,
+    115,
+    38,
+    43,
+    43
+   ],
+   "new_bst": 465,
+   "capped": [],
+   "evos": [],
+   "where": "Victory Road Lv42",
+   "new_evos": []
+  },
+  {
+   "dex": 113,
+   "species": "CHANSEY",
+   "type": "NORMAL",
+   "line_root": "CHANSEY",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 2,
+   "bucket_size": 59,
+   "line_final_bst": 540,
+   "partner_root": "LEDYBA",
+   "swapped": true,
+   "old_stats": [
+    250,
+    5,
+    5,
+    50,
+    35,
+    105
+   ],
+   "old_bst": 450,
+   "target_bst": 265,
+   "new_stats": [
+    147,
+    3,
+    3,
+    29,
+    21,
+    62
+   ],
+   "new_bst": 265,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_HAPPINESS",
+     "TR_ANYTIME",
+     "BLISSEY"
+    ]
+   ],
+   "where": "Route 13 Lv25; Route 15 Lv25; Route 14 Lv28",
+   "new_evos": [
+    [
+     "EVOLVE_HAPPINESS",
+     "TR_ANYTIME",
+     "BLISSEY"
+    ]
+   ]
+  },
+  {
+   "dex": 114,
+   "species": "TANGELA",
+   "type": "GRASS",
+   "line_root": "TANGELA",
+   "line_stages": 1,
+   "stage": 1,
+   "rank": 23,
+   "bucket_size": 32,
+   "line_final_bst": 435,
+   "partner_root": "QWILFISH",
+   "swapped": true,
+   "old_stats": [
+    65,
+    55,
+    115,
+    60,
+    100,
+    40
+   ],
+   "old_bst": 435,
+   "target_bst": 480,
+   "new_stats": [
+    72,
+    61,
+    127,
+    66,
+    110,
+    44
+   ],
+   "new_bst": 480,
+   "capped": [],
+   "evos": [],
+   "where": "Route 21 Lv28; Route 44 Lv33; Route 28 Lv39",
+   "new_evos": []
+  },
+  {
+   "dex": 115,
+   "species": "KANGASKHAN",
+   "type": "NORMAL",
+   "line_root": "KANGASKHAN",
+   "line_stages": 1,
+   "stage": 1,
+   "rank": 7,
+   "bucket_size": 32,
+   "line_final_bst": 490,
+   "partner_root": "DUNSPARCE",
+   "swapped": true,
+   "old_stats": [
+    105,
+    95,
+    80,
+    90,
+    40,
+    80
+   ],
+   "old_bst": 490,
+   "target_bst": 415,
+   "new_stats": [
+    89,
+    80,
+    68,
+    76,
+    34,
+    68
+   ],
+   "new_bst": 415,
+   "capped": [],
+   "evos": [],
+   "where": "Union Cave B2F Lv23; Rock Tunnel B1F Lv45",
+   "new_evos": []
+  },
+  {
+   "dex": 116,
+   "species": "HORSEA",
+   "type": "WATER",
+   "line_root": "HORSEA",
+   "line_stages": 3,
+   "stage": 1,
+   "rank": 3,
+   "bucket_size": 27,
+   "line_final_bst": 540,
+   "partner_root": "HOPPIP",
+   "swapped": true,
+   "old_stats": [
+    30,
+    40,
+    70,
+    60,
+    70,
+    25
+   ],
+   "old_bst": 295,
+   "target_bst": 250,
+   "new_stats": [
+    26,
+    34,
+    59,
+    51,
+    59,
+    21
+   ],
+   "new_bst": 250,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "32",
+     "SEADRA"
+    ]
+   ],
+   "where": "Whirl Island B2F Lv15; Whirl Island Sw Lv15; Whirl Island Lugia Chamber Lv20 (+1 more)",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "18",
+     "SEADRA"
+    ]
+   ]
+  },
+  {
+   "dex": 117,
+   "species": "SEADRA",
+   "type": "WATER",
+   "line_root": "HORSEA",
+   "line_stages": 3,
+   "stage": 2,
+   "rank": 3,
+   "bucket_size": 27,
+   "line_final_bst": 540,
+   "partner_root": "HOPPIP",
+   "swapped": true,
+   "old_stats": [
+    55,
+    65,
+    95,
+    85,
+    95,
+    45
+   ],
+   "old_bst": 440,
+   "target_bst": 340,
+   "new_stats": [
+    43,
+    50,
+    73,
+    66,
+    73,
+    35
+   ],
+   "new_bst": 340,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_ITEM",
+     "DRAGON_SCALE",
+     "KINGDRA"
+    ]
+   ],
+   "where": "Whirl Island Lugia Chamber Lv20; fishing WhirlIslands Super Rod Lv40",
+   "new_evos": [
+    [
+     "EVOLVE_ITEM",
+     "DRAGON_SCALE",
+     "KINGDRA"
+    ]
+   ]
+  },
+  {
+   "dex": 118,
+   "species": "GOLDEEN",
+   "type": "WATER",
+   "line_root": "GOLDEEN",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 44,
+   "bucket_size": 59,
+   "line_final_bst": 450,
+   "partner_root": "SCYTHER",
+   "swapped": true,
+   "old_stats": [
+    45,
+    67,
+    60,
+    63,
+    35,
+    50
+   ],
+   "old_bst": 320,
+   "target_bst": 500,
+   "new_stats": [
+    70,
+    105,
+    94,
+    98,
+    55,
+    78
+   ],
+   "new_bst": 500,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "28",
+     "SEAKING"
+    ]
+   ],
+   "where": "Cerulean City Lv5; Route 24 Lv5; Route 25 Lv5 (+12 more)",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "28",
+     "SEAKING"
+    ]
+   ]
+  },
+  {
+   "dex": 119,
+   "species": "SEAKING",
+   "type": "WATER",
+   "line_root": "GOLDEEN",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 44,
+   "bucket_size": 59,
+   "line_final_bst": 450,
+   "partner_root": "SCYTHER",
+   "swapped": true,
+   "old_stats": [
+    80,
+    92,
+    65,
+    68,
+    65,
+    80
+   ],
+   "old_bst": 450,
+   "target_bst": 500,
+   "new_stats": [
+    89,
+    102,
+    72,
+    76,
+    72,
+    89
+   ],
+   "new_bst": 500,
+   "capped": [],
+   "evos": [],
+   "where": "Cerulean City Lv10; Route 24 Lv10; Route 25 Lv10 (+10 more)",
+   "new_evos": []
+  },
+  {
+   "dex": 120,
+   "species": "STARYU",
+   "type": "WATER",
+   "line_root": "STARYU",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 7,
+   "bucket_size": 59,
+   "line_final_bst": 520,
+   "partner_root": "CUBONE",
+   "swapped": true,
+   "old_stats": [
+    30,
+    45,
+    55,
+    85,
+    70,
+    55
+   ],
+   "old_bst": 340,
+   "target_bst": 320,
+   "new_stats": [
+    28,
+    42,
+    52,
+    80,
+    66,
+    52
+   ],
+   "new_bst": 320,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_ITEM",
+     "WATER_STONE",
+     "STARMIE"
+    ]
+   ],
+   "where": "\u2014",
+   "new_evos": [
+    [
+     "EVOLVE_ITEM",
+     "WATER_STONE",
+     "STARMIE"
+    ]
+   ]
+  },
+  {
+   "dex": 121,
+   "species": "STARMIE",
+   "type": "WATER/PSYCHIC_TYPE",
+   "line_root": "STARYU",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 7,
+   "bucket_size": 59,
+   "line_final_bst": 520,
+   "partner_root": "CUBONE",
+   "swapped": true,
+   "old_stats": [
+    60,
+    75,
+    85,
+    115,
+    100,
+    85
+   ],
+   "old_bst": 520,
+   "target_bst": 430,
+   "new_stats": [
+    50,
+    62,
+    70,
+    95,
+    83,
+    70
+   ],
+   "new_bst": 430,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 122,
+   "species": "MR__MIME",
+   "type": "PSYCHIC_TYPE",
+   "line_root": "MR__MIME",
+   "line_stages": 1,
+   "stage": 1,
+   "rank": 15,
+   "bucket_size": 32,
+   "line_final_bst": 460,
+   "partner_root": "YANMA",
+   "swapped": true,
+   "old_stats": [
+    40,
+    45,
+    65,
+    90,
+    100,
+    120
+   ],
+   "old_bst": 460,
+   "target_bst": 450,
+   "new_stats": [
+    39,
+    44,
+    64,
+    88,
+    98,
+    117
+   ],
+   "new_bst": 450,
+   "capped": [],
+   "evos": [],
+   "where": "Route 21 Lv28",
+   "new_evos": []
+  },
+  {
+   "dex": 123,
+   "species": "SCYTHER",
+   "type": "BUG/FLYING",
+   "line_root": "SCYTHER",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 16,
+   "bucket_size": 59,
+   "line_final_bst": 500,
+   "partner_root": "GOLDEEN",
+   "swapped": true,
+   "old_stats": [
+    70,
+    110,
+    80,
+    105,
+    55,
+    80
+   ],
+   "old_bst": 500,
+   "target_bst": 320,
+   "new_stats": [
+    45,
+    71,
+    51,
+    67,
+    35,
+    51
+   ],
+   "new_bst": 320,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_ITEM",
+     "METAL_COAT",
+     "SCIZOR"
+    ]
+   ],
+   "where": "National Park Lv16",
+   "new_evos": [
+    [
+     "EVOLVE_ITEM",
+     "METAL_COAT",
+     "SCIZOR"
+    ]
+   ]
+  },
+  {
+   "dex": 124,
+   "species": "JYNX",
+   "type": "ICE/PSYCHIC_TYPE",
+   "line_root": "SMOOCHUM",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 42,
+   "bucket_size": 59,
+   "line_final_bst": 455,
+   "partner_root": "HOUNDOUR",
+   "swapped": true,
+   "old_stats": [
+    65,
+    50,
+    35,
+    95,
+    115,
+    95
+   ],
+   "old_bst": 455,
+   "target_bst": 500,
+   "new_stats": [
+    72,
+    55,
+    39,
+    104,
+    126,
+    104
+   ],
+   "new_bst": 500,
+   "capped": [],
+   "evos": [],
+   "where": "Ice Path B1F Lv32; Ice Path B3F Lv32; Ice Path B2F Blackthorn Side Lv33 (+1 more)",
+   "new_evos": []
+  },
+  {
+   "dex": 125,
+   "species": "ELECTABUZZ",
+   "type": "ELECTRIC",
+   "line_root": "ELEKID",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 24,
+   "bucket_size": 59,
+   "line_final_bst": 490,
+   "partner_root": "PINECO",
+   "swapped": true,
+   "old_stats": [
+    65,
+    83,
+    57,
+    105,
+    95,
+    85
+   ],
+   "old_bst": 490,
+   "target_bst": 465,
+   "new_stats": [
+    62,
+    79,
+    54,
+    99,
+    90,
+    81
+   ],
+   "new_bst": 465,
+   "capped": [],
+   "evos": [],
+   "where": "Route 44 Lv36; Route 10 North Lv46",
+   "new_evos": []
+  },
+  {
+   "dex": 126,
+   "species": "MAGMAR",
+   "type": "FIRE",
+   "line_root": "MAGBY",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 22,
+   "bucket_size": 59,
+   "line_final_bst": 495,
+   "partner_root": "DODUO",
+   "swapped": true,
+   "old_stats": [
+    75,
+    85,
+    57,
+    93,
+    100,
+    85
+   ],
+   "old_bst": 495,
+   "target_bst": 460,
+   "new_stats": [
+    70,
+    79,
+    53,
+    86,
+    93,
+    79
+   ],
+   "new_bst": 460,
+   "capped": [],
+   "evos": [],
+   "where": "Burned Tower B1F Lv16; Silver Cave Room 1 Lv65",
+   "new_evos": []
+  },
+  {
+   "dex": 127,
+   "species": "PINSIR",
+   "type": "BUG",
+   "line_root": "PINSIR",
+   "line_stages": 1,
+   "stage": 1,
+   "rank": 5,
+   "bucket_size": 32,
+   "line_final_bst": 500,
+   "partner_root": "DELIBIRD",
+   "swapped": true,
+   "old_stats": [
+    65,
+    125,
+    100,
+    85,
+    55,
+    70
+   ],
+   "old_bst": 500,
+   "target_bst": 400,
+   "new_stats": [
+    52,
+    100,
+    80,
+    68,
+    44,
+    56
+   ],
+   "new_bst": 400,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 128,
+   "species": "TAUROS",
+   "type": "NORMAL",
+   "line_root": "TAUROS",
+   "line_stages": 1,
+   "stage": 1,
+   "rank": 8,
+   "bucket_size": 32,
+   "line_final_bst": 490,
+   "partner_root": "AIPOM",
+   "swapped": true,
+   "old_stats": [
+    75,
+    100,
+    95,
+    110,
+    40,
+    70
+   ],
+   "old_bst": 490,
+   "target_bst": 420,
+   "new_stats": [
+    64,
+    86,
+    82,
+    94,
+    34,
+    60
+   ],
+   "new_bst": 420,
+   "capped": [],
+   "evos": [],
+   "where": "Route 38 Lv21; Route 39 Lv21",
+   "new_evos": []
+  },
+  {
+   "dex": 129,
+   "species": "MAGIKARP",
+   "type": "WATER",
+   "line_root": "MAGIKARP",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 3,
+   "bucket_size": 59,
+   "line_final_bst": 540,
+   "partner_root": "RATTATA",
+   "swapped": true,
+   "old_stats": [
+    20,
+    10,
+    55,
+    80,
+    15,
+    20
+   ],
+   "old_bst": 200,
+   "target_bst": 253,
+   "new_stats": [
+    25,
+    13,
+    70,
+    101,
+    19,
+    25
+   ],
+   "new_bst": 253,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "20",
+     "GYARADOS"
+    ]
+   ],
+   "where": "Blackthorn City Lv5; Dark Cave Blackthorn Entrance Lv5; Dark Cave Violet Entrance Lv5 (+36 more)",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "20",
+     "GYARADOS"
+    ]
+   ]
+  },
+  {
+   "dex": 130,
+   "species": "GYARADOS",
+   "type": "WATER/FLYING",
+   "line_root": "MAGIKARP",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 3,
+   "bucket_size": 59,
+   "line_final_bst": 540,
+   "partner_root": "RATTATA",
+   "swapped": true,
+   "old_stats": [
+    95,
+    125,
+    79,
+    81,
+    60,
+    100
+   ],
+   "old_bst": 540,
+   "target_bst": 413,
+   "new_stats": [
+    73,
+    96,
+    60,
+    62,
+    46,
+    76
+   ],
+   "new_bst": 413,
+   "capped": [],
+   "evos": [],
+   "where": "Lake Of Rage Lv15",
+   "new_evos": []
+  },
+  {
+   "dex": 131,
+   "species": "LAPRAS",
+   "type": "WATER/ICE",
+   "line_root": "LAPRAS",
+   "line_stages": 1,
+   "stage": 1,
+   "rank": 2,
+   "bucket_size": 32,
+   "line_final_bst": 535,
+   "partner_root": "DITTO",
+   "swapped": true,
+   "old_stats": [
+    130,
+    85,
+    80,
+    60,
+    85,
+    95
+   ],
+   "old_bst": 535,
+   "target_bst": 288,
+   "new_stats": [
+    70,
+    46,
+    43,
+    32,
+    46,
+    51
+   ],
+   "new_bst": 288,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 132,
+   "species": "DITTO",
+   "type": "NORMAL",
+   "line_root": "DITTO",
+   "line_stages": 1,
+   "stage": 1,
+   "rank": 31,
+   "bucket_size": 32,
+   "line_final_bst": 288,
+   "partner_root": "LAPRAS",
+   "swapped": true,
+   "old_stats": [
+    48,
+    48,
+    48,
+    48,
+    48,
+    48
+   ],
+   "old_bst": 288,
+   "target_bst": 535,
+   "new_stats": [
+    90,
+    89,
+    89,
+    89,
+    89,
+    89
+   ],
+   "new_bst": 535,
+   "capped": [],
+   "evos": [],
+   "where": "Route 34 Lv10; Route 35 Lv14",
+   "new_evos": []
+  },
+  {
+   "dex": 133,
+   "species": "EEVEE",
+   "type": "NORMAL",
+   "line_root": "EEVEE",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 5,
+   "bucket_size": 59,
+   "line_final_bst": 525,
+   "partner_root": "SENTRET",
+   "swapped": true,
+   "old_stats": [
+    55,
+    55,
+    50,
+    55,
+    45,
+    65
+   ],
+   "old_bst": 325,
+   "target_bst": 215,
+   "new_stats": [
+    37,
+    36,
+    33,
+    36,
+    30,
+    43
+   ],
+   "new_bst": 215,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_ITEM",
+     "THUNDERSTONE",
+     "JOLTEON"
+    ],
+    [
+     "EVOLVE_ITEM",
+     "WATER_STONE",
+     "VAPOREON"
+    ],
+    [
+     "EVOLVE_ITEM",
+     "FIRE_STONE",
+     "FLAREON"
+    ],
+    [
+     "EVOLVE_HAPPINESS",
+     "TR_MORNDAY",
+     "ESPEON"
+    ],
+    [
+     "EVOLVE_HAPPINESS",
+     "TR_NITE",
+     "UMBREON"
+    ]
+   ],
+   "where": "\u2014",
+   "new_evos": [
+    [
+     "EVOLVE_ITEM",
+     "THUNDERSTONE",
+     "JOLTEON"
+    ],
+    [
+     "EVOLVE_ITEM",
+     "WATER_STONE",
+     "VAPOREON"
+    ],
+    [
+     "EVOLVE_ITEM",
+     "FIRE_STONE",
+     "FLAREON"
+    ],
+    [
+     "EVOLVE_HAPPINESS",
+     "TR_MORNDAY",
+     "ESPEON"
+    ],
+    [
+     "EVOLVE_HAPPINESS",
+     "TR_NITE",
+     "UMBREON"
+    ]
+   ]
+  },
+  {
+   "dex": 134,
+   "species": "VAPOREON",
+   "type": "WATER",
+   "line_root": "EEVEE",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 5,
+   "bucket_size": 59,
+   "line_final_bst": 525,
+   "partner_root": "SENTRET",
+   "swapped": true,
+   "old_stats": [
+    130,
+    65,
+    60,
+    65,
+    110,
+    95
+   ],
+   "old_bst": 525,
+   "target_bst": 425,
+   "new_stats": [
+    105,
+    53,
+    48,
+    53,
+    89,
+    77
+   ],
+   "new_bst": 425,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 135,
+   "species": "JOLTEON",
+   "type": "ELECTRIC",
+   "line_root": "EEVEE",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 5,
+   "bucket_size": 59,
+   "line_final_bst": 525,
+   "partner_root": "SENTRET",
+   "swapped": true,
+   "old_stats": [
+    65,
+    65,
+    60,
+    130,
+    110,
+    95
+   ],
+   "old_bst": 525,
+   "target_bst": 425,
+   "new_stats": [
+    53,
+    53,
+    48,
+    105,
+    89,
+    77
+   ],
+   "new_bst": 425,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 136,
+   "species": "FLAREON",
+   "type": "FIRE",
+   "line_root": "EEVEE",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 5,
+   "bucket_size": 59,
+   "line_final_bst": 525,
+   "partner_root": "SENTRET",
+   "swapped": true,
+   "old_stats": [
+    65,
+    130,
+    60,
+    65,
+    110,
+    95
+   ],
+   "old_bst": 525,
+   "target_bst": 425,
+   "new_stats": [
+    53,
+    105,
+    48,
+    53,
+    89,
+    77
+   ],
+   "new_bst": 425,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 137,
+   "species": "PORYGON",
+   "type": "NORMAL",
+   "line_root": "PORYGON",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 10,
+   "bucket_size": 59,
+   "line_final_bst": 515,
+   "partner_root": "SPEAROW",
+   "swapped": true,
+   "old_stats": [
+    65,
+    60,
+    70,
+    40,
+    85,
+    75
+   ],
+   "old_bst": 395,
+   "target_bst": 262,
+   "new_stats": [
+    43,
+    40,
+    46,
+    27,
+    56,
+    50
+   ],
+   "new_bst": 262,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_ITEM",
+     "UP_GRADE",
+     "PORYGON2"
+    ]
+   ],
+   "where": "\u2014",
+   "new_evos": [
+    [
+     "EVOLVE_ITEM",
+     "UP_GRADE",
+     "PORYGON2"
+    ]
+   ]
+  },
+  {
+   "dex": 138,
+   "species": "OMANYTE",
+   "type": "ROCK/WATER",
+   "line_root": "OMANYTE",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 20,
+   "bucket_size": 59,
+   "line_final_bst": 495,
+   "partner_root": "TYROGUE",
+   "swapped": true,
+   "old_stats": [
+    35,
+    40,
+    100,
+    35,
+    90,
+    55
+   ],
+   "old_bst": 355,
+   "target_bst": 210,
+   "new_stats": [
+    21,
+    24,
+    59,
+    21,
+    53,
+    32
+   ],
+   "new_bst": 210,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "40",
+     "OMASTAR"
+    ]
+   ],
+   "where": "\u2014",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "40",
+     "OMASTAR"
+    ]
+   ]
+  },
+  {
+   "dex": 139,
+   "species": "OMASTAR",
+   "type": "ROCK/WATER",
+   "line_root": "OMANYTE",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 20,
+   "bucket_size": 59,
+   "line_final_bst": 495,
+   "partner_root": "TYROGUE",
+   "swapped": true,
+   "old_stats": [
+    70,
+    60,
+    125,
+    55,
+    115,
+    70
+   ],
+   "old_bst": 495,
+   "target_bst": 460,
+   "new_stats": [
+    65,
+    56,
+    116,
+    51,
+    107,
+    65
+   ],
+   "new_bst": 460,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 140,
+   "species": "KABUTO",
+   "type": "ROCK/WATER",
+   "line_root": "KABUTO",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 21,
+   "bucket_size": 59,
+   "line_final_bst": 495,
+   "partner_root": "CHINCHOU",
+   "swapped": true,
+   "old_stats": [
+    30,
+    80,
+    90,
+    55,
+    55,
+    45
+   ],
+   "old_bst": 355,
+   "target_bst": 330,
+   "new_stats": [
+    28,
+    74,
+    84,
+    51,
+    51,
+    42
+   ],
+   "new_bst": 330,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "40",
+     "KABUTOPS"
+    ]
+   ],
+   "where": "\u2014",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "27",
+     "KABUTOPS"
+    ]
+   ]
+  },
+  {
+   "dex": 141,
+   "species": "KABUTOPS",
+   "type": "ROCK/WATER",
+   "line_root": "KABUTO",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 21,
+   "bucket_size": 59,
+   "line_final_bst": 495,
+   "partner_root": "CHINCHOU",
+   "swapped": true,
+   "old_stats": [
+    60,
+    115,
+    105,
+    80,
+    65,
+    70
+   ],
+   "old_bst": 495,
+   "target_bst": 460,
+   "new_stats": [
+    56,
+    107,
+    98,
+    74,
+    60,
+    65
+   ],
+   "new_bst": 460,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 142,
+   "species": "AERODACTYL",
+   "type": "ROCK/FLYING",
+   "line_root": "AERODACTYL",
+   "line_stages": 1,
+   "stage": 1,
+   "rank": 3,
+   "bucket_size": 32,
+   "line_final_bst": 515,
+   "partner_root": "UNOWN",
+   "swapped": true,
+   "old_stats": [
+    80,
+    105,
+    65,
+    130,
+    60,
+    75
+   ],
+   "old_bst": 515,
+   "target_bst": 336,
+   "new_stats": [
+    52,
+    69,
+    42,
+    85,
+    39,
+    49
+   ],
+   "new_bst": 336,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 143,
+   "species": "SNORLAX",
+   "type": "NORMAL",
+   "line_root": "SNORLAX",
+   "line_stages": 1,
+   "stage": 1,
+   "rank": 1,
+   "bucket_size": 32,
+   "line_final_bst": 540,
+   "partner_root": "SMEARGLE",
+   "swapped": true,
+   "old_stats": [
+    160,
+    110,
+    65,
+    30,
+    65,
+    110
+   ],
+   "old_bst": 540,
+   "target_bst": 250,
+   "new_stats": [
+    74,
+    51,
+    30,
+    14,
+    30,
+    51
+   ],
+   "new_bst": 250,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 147,
+   "species": "DRATINI",
+   "type": "DRAGON",
+   "line_root": "DRATINI",
+   "line_stages": 3,
+   "stage": 1,
+   "rank": 1,
+   "bucket_size": 27,
+   "line_final_bst": 600,
+   "partner_root": "WEEDLE",
+   "swapped": true,
+   "old_stats": [
+    41,
+    64,
+    45,
+    50,
+    50,
+    50
+   ],
+   "old_bst": 300,
+   "target_bst": 195,
+   "new_stats": [
+    27,
+    42,
+    29,
+    33,
+    32,
+    32
+   ],
+   "new_bst": 195,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "30",
+     "DRAGONAIR"
+    ]
+   ],
+   "where": "Dragons Den B1F Lv10",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "7",
+     "DRAGONAIR"
+    ]
+   ]
+  },
+  {
+   "dex": 148,
+   "species": "DRAGONAIR",
+   "type": "DRAGON",
+   "line_root": "DRATINI",
+   "line_stages": 3,
+   "stage": 2,
+   "rank": 1,
+   "bucket_size": 27,
+   "line_final_bst": 600,
+   "partner_root": "WEEDLE",
+   "swapped": true,
+   "old_stats": [
+    61,
+    84,
+    65,
+    70,
+    70,
+    70
+   ],
+   "old_bst": 420,
+   "target_bst": 205,
+   "new_stats": [
+    30,
+    41,
+    32,
+    34,
+    34,
+    34
+   ],
+   "new_bst": 205,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "55",
+     "DRAGONITE"
+    ]
+   ],
+   "where": "fishing Dratini_2 Super Rod Lv10; fishing Dratini Super Rod Lv40",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "10",
+     "DRAGONITE"
+    ]
+   ]
+  },
+  {
+   "dex": 149,
+   "species": "DRAGONITE",
+   "type": "DRAGON/FLYING",
+   "line_root": "DRATINI",
+   "line_stages": 3,
+   "stage": 3,
+   "rank": 1,
+   "bucket_size": 27,
+   "line_final_bst": 600,
+   "partner_root": "WEEDLE",
+   "swapped": true,
+   "old_stats": [
+    91,
+    134,
+    95,
+    80,
+    100,
+    100
+   ],
+   "old_bst": 600,
+   "target_bst": 385,
+   "new_stats": [
+    59,
+    86,
+    61,
+    51,
+    64,
+    64
+   ],
+   "new_bst": 385,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 152,
+   "species": "CHIKORITA",
+   "type": "GRASS",
+   "line_root": "CHIKORITA",
+   "line_stages": 3,
+   "stage": 1,
+   "rank": 10,
+   "bucket_size": 27,
+   "line_final_bst": 525,
+   "partner_root": "ABRA",
+   "swapped": true,
+   "old_stats": [
+    45,
+    49,
+    65,
+    45,
+    49,
+    65
+   ],
+   "old_bst": 318,
+   "target_bst": 310,
+   "new_stats": [
+    44,
+    48,
+    63,
+    44,
+    48,
+    63
+   ],
+   "new_bst": 310,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "16",
+     "BAYLEEF"
+    ]
+   ],
+   "where": "\u2014",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "16",
+     "BAYLEEF"
+    ]
+   ]
+  },
+  {
+   "dex": 153,
+   "species": "BAYLEEF",
+   "type": "GRASS",
+   "line_root": "CHIKORITA",
+   "line_stages": 3,
+   "stage": 2,
+   "rank": 10,
+   "bucket_size": 27,
+   "line_final_bst": 525,
+   "partner_root": "ABRA",
+   "swapped": true,
+   "old_stats": [
+    60,
+    62,
+    80,
+    60,
+    63,
+    80
+   ],
+   "old_bst": 405,
+   "target_bst": 400,
+   "new_stats": [
+    60,
+    61,
+    79,
+    59,
+    62,
+    79
+   ],
+   "new_bst": 400,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "32",
+     "MEGANIUM"
+    ]
+   ],
+   "where": "\u2014",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "42",
+     "MEGANIUM"
+    ]
+   ]
+  },
+  {
+   "dex": 154,
+   "species": "MEGANIUM",
+   "type": "GRASS",
+   "line_root": "CHIKORITA",
+   "line_stages": 3,
+   "stage": 3,
+   "rank": 10,
+   "bucket_size": 27,
+   "line_final_bst": 525,
+   "partner_root": "ABRA",
+   "swapped": true,
+   "old_stats": [
+    80,
+    82,
+    100,
+    80,
+    83,
+    100
+   ],
+   "old_bst": 525,
+   "target_bst": 490,
+   "new_stats": [
+    75,
+    77,
+    93,
+    75,
+    77,
+    93
+   ],
+   "new_bst": 490,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 155,
+   "species": "CYNDAQUIL",
+   "type": "FIRE",
+   "line_root": "CYNDAQUIL",
+   "line_stages": 3,
+   "stage": 1,
+   "rank": 6,
+   "bucket_size": 27,
+   "line_final_bst": 534,
+   "partner_root": "PICHU",
+   "swapped": true,
+   "old_stats": [
+    39,
+    52,
+    43,
+    65,
+    60,
+    50
+   ],
+   "old_bst": 309,
+   "target_bst": 205,
+   "new_stats": [
+    26,
+    34,
+    29,
+    43,
+    40,
+    33
+   ],
+   "new_bst": 205,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "14",
+     "QUILAVA"
+    ]
+   ],
+   "where": "\u2014",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "14",
+     "QUILAVA"
+    ]
+   ]
+  },
+  {
+   "dex": 156,
+   "species": "QUILAVA",
+   "type": "FIRE",
+   "line_root": "CYNDAQUIL",
+   "line_stages": 3,
+   "stage": 2,
+   "rank": 6,
+   "bucket_size": 27,
+   "line_final_bst": 534,
+   "partner_root": "PICHU",
+   "swapped": true,
+   "old_stats": [
+    58,
+    64,
+    58,
+    80,
+    80,
+    65
+   ],
+   "old_bst": 405,
+   "target_bst": 320,
+   "new_stats": [
+    46,
+    51,
+    46,
+    63,
+    63,
+    51
+   ],
+   "new_bst": 320,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "36",
+     "TYPHLOSION"
+    ]
+   ],
+   "where": "\u2014",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "36",
+     "TYPHLOSION"
+    ]
+   ]
+  },
+  {
+   "dex": 157,
+   "species": "TYPHLOSION",
+   "type": "FIRE",
+   "line_root": "CYNDAQUIL",
+   "line_stages": 3,
+   "stage": 3,
+   "rank": 6,
+   "bucket_size": 27,
+   "line_final_bst": 534,
+   "partner_root": "PICHU",
+   "swapped": true,
+   "old_stats": [
+    78,
+    84,
+    78,
+    100,
+    109,
+    85
+   ],
+   "old_bst": 534,
+   "target_bst": 475,
+   "new_stats": [
+    69,
+    75,
+    69,
+    89,
+    97,
+    76
+   ],
+   "new_bst": 475,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 158,
+   "species": "TOTODILE",
+   "type": "WATER",
+   "line_root": "TOTODILE",
+   "line_stages": 3,
+   "stage": 1,
+   "rank": 8,
+   "bucket_size": 27,
+   "line_final_bst": 530,
+   "partner_root": "CLEFFA",
+   "swapped": true,
+   "old_stats": [
+    50,
+    65,
+    64,
+    43,
+    44,
+    48
+   ],
+   "old_bst": 314,
+   "target_bst": 218,
+   "new_stats": [
+    35,
+    45,
+    44,
+    30,
+    31,
+    33
+   ],
+   "new_bst": 218,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "18",
+     "CROCONAW"
+    ]
+   ],
+   "where": "\u2014",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "18",
+     "CROCONAW"
+    ]
+   ]
+  },
+  {
+   "dex": 159,
+   "species": "CROCONAW",
+   "type": "WATER",
+   "line_root": "TOTODILE",
+   "line_stages": 3,
+   "stage": 2,
+   "rank": 8,
+   "bucket_size": 27,
+   "line_final_bst": 530,
+   "partner_root": "CLEFFA",
+   "swapped": true,
+   "old_stats": [
+    65,
+    80,
+    80,
+    58,
+    59,
+    63
+   ],
+   "old_bst": 405,
+   "target_bst": 323,
+   "new_stats": [
+    52,
+    64,
+    64,
+    46,
+    47,
+    50
+   ],
+   "new_bst": 323,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "30",
+     "FERALIGATR"
+    ]
+   ],
+   "where": "\u2014",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "30",
+     "FERALIGATR"
+    ]
+   ]
+  },
+  {
+   "dex": 160,
+   "species": "FERALIGATR",
+   "type": "WATER",
+   "line_root": "TOTODILE",
+   "line_stages": 3,
+   "stage": 3,
+   "rank": 8,
+   "bucket_size": 27,
+   "line_final_bst": 530,
+   "partner_root": "CLEFFA",
+   "swapped": true,
+   "old_stats": [
+    85,
+    105,
+    100,
+    78,
+    79,
+    83
+   ],
+   "old_bst": 530,
+   "target_bst": 483,
+   "new_stats": [
+    77,
+    96,
+    91,
+    71,
+    72,
+    76
+   ],
+   "new_bst": 483,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 161,
+   "species": "SENTRET",
+   "type": "NORMAL",
+   "line_root": "SENTRET",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 55,
+   "bucket_size": 59,
+   "line_final_bst": 425,
+   "partner_root": "EEVEE",
+   "swapped": true,
+   "old_stats": [
+    35,
+    46,
+    34,
+    20,
+    35,
+    45
+   ],
+   "old_bst": 215,
+   "target_bst": 325,
+   "new_stats": [
+    53,
+    70,
+    51,
+    30,
+    53,
+    68
+   ],
+   "new_bst": 325,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "15",
+     "FURRET"
+    ]
+   ],
+   "where": "Route 29 Lv2; Route 1 Lv3",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "15",
+     "FURRET"
+    ]
+   ]
+  },
+  {
+   "dex": 162,
+   "species": "FURRET",
+   "type": "NORMAL",
+   "line_root": "SENTRET",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 55,
+   "bucket_size": 59,
+   "line_final_bst": 425,
+   "partner_root": "EEVEE",
+   "swapped": true,
+   "old_stats": [
+    85,
+    76,
+    64,
+    90,
+    55,
+    55
+   ],
+   "old_bst": 425,
+   "target_bst": 525,
+   "new_stats": [
+    105,
+    94,
+    79,
+    111,
+    68,
+    68
+   ],
+   "new_bst": 525,
+   "capped": [],
+   "evos": [],
+   "where": "Route 1 Lv6; Route 43 Lv21",
+   "new_evos": []
+  },
+  {
+   "dex": 163,
+   "species": "HOOTHOOT",
+   "type": "NORMAL/FLYING",
+   "line_root": "HOOTHOOT",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 51,
+   "bucket_size": 59,
+   "line_final_bst": 442,
+   "partner_root": "TENTACOOL",
+   "swapped": true,
+   "old_stats": [
+    60,
+    30,
+    30,
+    50,
+    36,
+    56
+   ],
+   "old_bst": 262,
+   "target_bst": 335,
+   "new_stats": [
+    77,
+    38,
+    38,
+    64,
+    46,
+    72
+   ],
+   "new_bst": 335,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "20",
+     "NOCTOWL"
+    ]
+   ],
+   "where": "Route 1 Lv2; Route 29 Lv2; Route 2 Lv3 (+8 more)",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "30",
+     "NOCTOWL"
+    ]
+   ]
+  },
+  {
+   "dex": 164,
+   "species": "NOCTOWL",
+   "type": "NORMAL/FLYING",
+   "line_root": "HOOTHOOT",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 51,
+   "bucket_size": 59,
+   "line_final_bst": 442,
+   "partner_root": "TENTACOOL",
+   "swapped": true,
+   "old_stats": [
+    100,
+    50,
+    50,
+    70,
+    76,
+    96
+   ],
+   "old_bst": 442,
+   "target_bst": 515,
+   "new_stats": [
+    116,
+    58,
+    58,
+    82,
+    89,
+    112
+   ],
+   "new_bst": 515,
+   "capped": [],
+   "evos": [],
+   "where": "Route 2 Lv4; Route 25 Lv12; Route 5 Lv15 (+8 more)",
+   "new_evos": []
+  },
+  {
+   "dex": 165,
+   "species": "LEDYBA",
+   "type": "BUG/FLYING",
+   "line_root": "LEDYBA",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 58,
+   "bucket_size": 59,
+   "line_final_bst": 410,
+   "partner_root": "CHANSEY",
+   "swapped": true,
+   "old_stats": [
+    40,
+    20,
+    30,
+    55,
+    40,
+    80
+   ],
+   "old_bst": 265,
+   "target_bst": 450,
+   "new_stats": [
+    68,
+    34,
+    51,
+    93,
+    68,
+    136
+   ],
+   "new_bst": 450,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "18",
+     "LEDIAN"
+    ]
+   ],
+   "where": "Route 2 Lv3; Route 30 Lv3; Route 31 Lv4",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "18",
+     "LEDIAN"
+    ]
+   ]
+  },
+  {
+   "dex": 166,
+   "species": "LEDIAN",
+   "type": "BUG/FLYING",
+   "line_root": "LEDYBA",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 58,
+   "bucket_size": 59,
+   "line_final_bst": 410,
+   "partner_root": "CHANSEY",
+   "swapped": true,
+   "old_stats": [
+    75,
+    35,
+    50,
+    85,
+    55,
+    110
+   ],
+   "old_bst": 410,
+   "target_bst": 540,
+   "new_stats": [
+    99,
+    46,
+    66,
+    112,
+    72,
+    145
+   ],
+   "new_bst": 540,
+   "capped": [],
+   "evos": [],
+   "where": "Route 2 Lv7; Route 37 Lv18",
+   "new_evos": []
+  },
+  {
+   "dex": 167,
+   "species": "SPINARAK",
+   "type": "BUG/POISON",
+   "line_root": "SPINARAK",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 45,
+   "bucket_size": 59,
+   "line_final_bst": 450,
+   "partner_root": "KOFFING",
+   "swapped": true,
+   "old_stats": [
+    40,
+    60,
+    40,
+    30,
+    40,
+    40
+   ],
+   "old_bst": 250,
+   "target_bst": 340,
+   "new_stats": [
+    55,
+    82,
+    54,
+    41,
+    54,
+    54
+   ],
+   "new_bst": 340,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "21",
+     "ARIADOS"
+    ]
+   ],
+   "where": "Route 2 Lv3; Route 30 Lv3; Route 31 Lv4 (+2 more)",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "35",
+     "ARIADOS"
+    ]
+   ]
+  },
+  {
+   "dex": 168,
+   "species": "ARIADOS",
+   "type": "BUG/POISON",
+   "line_root": "SPINARAK",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 45,
+   "bucket_size": 59,
+   "line_final_bst": 450,
+   "partner_root": "KOFFING",
+   "swapped": true,
+   "old_stats": [
+    70,
+    90,
+    70,
+    80,
+    70,
+    70
+   ],
+   "old_bst": 450,
+   "target_bst": 500,
+   "new_stats": [
+    78,
+    100,
+    78,
+    89,
+    78,
+    77
+   ],
+   "new_bst": 500,
+   "capped": [],
+   "evos": [],
+   "where": "Route 2 Lv7; Route 37 Lv18",
+   "new_evos": []
+  },
+  {
+   "dex": 169,
+   "species": "CROBAT",
+   "type": "POISON/FLYING",
+   "line_root": "ZUBAT",
+   "line_stages": 3,
+   "stage": 3,
+   "rank": 4,
+   "bucket_size": 27,
+   "line_final_bst": 535,
+   "partner_root": "IGGLYBUFF",
+   "swapped": true,
+   "old_stats": [
+    85,
+    90,
+    80,
+    130,
+    70,
+    80
+   ],
+   "old_bst": 535,
+   "target_bst": 450,
+   "new_stats": [
+    72,
+    76,
+    67,
+    109,
+    59,
+    67
+   ],
+   "new_bst": 450,
+   "capped": [],
+   "evos": [],
+   "where": "Silver Cave Outside Lv52",
+   "new_evos": []
+  },
+  {
+   "dex": 170,
+   "species": "CHINCHOU",
+   "type": "WATER/ELECTRIC",
+   "line_root": "CHINCHOU",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 39,
+   "bucket_size": 59,
+   "line_final_bst": 460,
+   "partner_root": "KABUTO",
+   "swapped": true,
+   "old_stats": [
+    75,
+    38,
+    38,
+    67,
+    56,
+    56
+   ],
+   "old_bst": 330,
+   "target_bst": 355,
+   "new_stats": [
+    81,
+    41,
+    41,
+    72,
+    60,
+    60
+   ],
+   "new_bst": 355,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "27",
+     "LANTURN"
+    ]
+   ],
+   "where": "fishing Ocean Good Rod Lv20; fishing Ocean Super Rod Lv40",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "40",
+     "LANTURN"
+    ]
+   ]
+  },
+  {
+   "dex": 171,
+   "species": "LANTURN",
+   "type": "WATER/ELECTRIC",
+   "line_root": "CHINCHOU",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 39,
+   "bucket_size": 59,
+   "line_final_bst": 460,
+   "partner_root": "KABUTO",
+   "swapped": true,
+   "old_stats": [
+    125,
+    58,
+    58,
+    67,
+    76,
+    76
+   ],
+   "old_bst": 460,
+   "target_bst": 495,
+   "new_stats": [
+    135,
+    62,
+    62,
+    72,
+    82,
+    82
+   ],
+   "new_bst": 495,
+   "capped": [],
+   "evos": [],
+   "where": "fishing Ocean Super Rod Lv40",
+   "new_evos": []
+  },
+  {
+   "dex": 172,
+   "species": "PICHU",
+   "type": "ELECTRIC",
+   "line_root": "PICHU",
+   "line_stages": 3,
+   "stage": 1,
+   "rank": 22,
+   "bucket_size": 27,
+   "line_final_bst": 475,
+   "partner_root": "CYNDAQUIL",
+   "swapped": true,
+   "old_stats": [
+    20,
+    40,
+    15,
+    60,
+    35,
+    35
+   ],
+   "old_bst": 205,
+   "target_bst": 309,
+   "new_stats": [
+    30,
+    60,
+    23,
+    90,
+    53,
+    53
+   ],
+   "new_bst": 309,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_HAPPINESS",
+     "TR_ANYTIME",
+     "PIKACHU"
+    ]
+   ],
+   "where": "Route 31 Lv5",
+   "new_evos": [
+    [
+     "EVOLVE_HAPPINESS",
+     "TR_ANYTIME",
+     "PIKACHU"
+    ]
+   ]
+  },
+  {
+   "dex": 173,
+   "species": "CLEFFA",
+   "type": "NORMAL",
+   "line_root": "CLEFFA",
+   "line_stages": 3,
+   "stage": 1,
+   "rank": 20,
+   "bucket_size": 27,
+   "line_final_bst": 483,
+   "partner_root": "TOTODILE",
+   "swapped": true,
+   "old_stats": [
+    50,
+    25,
+    28,
+    15,
+    45,
+    55
+   ],
+   "old_bst": 218,
+   "target_bst": 314,
+   "new_stats": [
+    72,
+    36,
+    40,
+    22,
+    65,
+    79
+   ],
+   "new_bst": 314,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_HAPPINESS",
+     "TR_ANYTIME",
+     "CLEFAIRY"
+    ]
+   ],
+   "where": "\u2014",
+   "new_evos": [
+    [
+     "EVOLVE_HAPPINESS",
+     "TR_ANYTIME",
+     "CLEFAIRY"
+    ]
+   ]
+  },
+  {
+   "dex": 174,
+   "species": "IGGLYBUFF",
+   "type": "NORMAL",
+   "line_root": "IGGLYBUFF",
+   "line_stages": 3,
+   "stage": 1,
+   "rank": 24,
+   "bucket_size": 27,
+   "line_final_bst": 450,
+   "partner_root": "ZUBAT",
+   "swapped": true,
+   "old_stats": [
+    90,
+    30,
+    15,
+    15,
+    40,
+    20
+   ],
+   "old_bst": 210,
+   "target_bst": 245,
+   "new_stats": [
+    105,
+    35,
+    18,
+    17,
+    47,
+    23
+   ],
+   "new_bst": 245,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_HAPPINESS",
+     "TR_ANYTIME",
+     "JIGGLYPUFF"
+    ]
+   ],
+   "where": "\u2014",
+   "new_evos": [
+    [
+     "EVOLVE_HAPPINESS",
+     "TR_ANYTIME",
+     "JIGGLYPUFF"
+    ]
+   ]
+  },
+  {
+   "dex": 175,
+   "species": "TOGEPI",
+   "type": "NORMAL",
+   "line_root": "TOGEPI",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 48,
+   "bucket_size": 59,
+   "line_final_bst": 445,
+   "partner_root": "ONIX",
+   "swapped": true,
+   "old_stats": [
+    35,
+    20,
+    65,
+    20,
+    40,
+    65
+   ],
+   "old_bst": 245,
+   "target_bst": 385,
+   "new_stats": [
+    55,
+    32,
+    102,
+    31,
+    63,
+    102
+   ],
+   "new_bst": 385,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_HAPPINESS",
+     "TR_ANYTIME",
+     "TOGETIC"
+    ]
+   ],
+   "where": "\u2014",
+   "new_evos": [
+    [
+     "EVOLVE_HAPPINESS",
+     "TR_ANYTIME",
+     "TOGETIC"
+    ]
+   ]
+  },
+  {
+   "dex": 176,
+   "species": "TOGETIC",
+   "type": "NORMAL/FLYING",
+   "line_root": "TOGEPI",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 48,
+   "bucket_size": 59,
+   "line_final_bst": 445,
+   "partner_root": "ONIX",
+   "swapped": true,
+   "old_stats": [
+    85,
+    50,
+    85,
+    40,
+    80,
+    105
+   ],
+   "old_bst": 445,
+   "target_bst": 510,
+   "new_stats": [
+    98,
+    57,
+    97,
+    46,
+    92,
+    120
+   ],
+   "new_bst": 510,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 177,
+   "species": "NATU",
+   "type": "PSYCHIC_TYPE/FLYING",
+   "line_root": "NATU",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 33,
+   "bucket_size": 59,
+   "line_final_bst": 470,
+   "partner_root": "VOLTORB",
+   "swapped": true,
+   "old_stats": [
+    40,
+    50,
+    45,
+    70,
+    70,
+    45
+   ],
+   "old_bst": 320,
+   "target_bst": 330,
+   "new_stats": [
+    41,
+    52,
+    47,
+    72,
+    72,
+    46
+   ],
+   "new_bst": 330,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "25",
+     "XATU"
+    ]
+   ],
+   "where": "Ruins Of Alph Outside Lv19",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "30",
+     "XATU"
+    ]
+   ]
+  },
+  {
+   "dex": 178,
+   "species": "XATU",
+   "type": "PSYCHIC_TYPE/FLYING",
+   "line_root": "NATU",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 33,
+   "bucket_size": 59,
+   "line_final_bst": 470,
+   "partner_root": "VOLTORB",
+   "swapped": true,
+   "old_stats": [
+    65,
+    75,
+    70,
+    95,
+    95,
+    70
+   ],
+   "old_bst": 470,
+   "target_bst": 480,
+   "new_stats": [
+    66,
+    77,
+    72,
+    97,
+    97,
+    71
+   ],
+   "new_bst": 480,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 179,
+   "species": "MAREEP",
+   "type": "ELECTRIC",
+   "line_root": "MAREEP",
+   "line_stages": 3,
+   "stage": 1,
+   "rank": 15,
+   "bucket_size": 27,
+   "line_final_bst": 500,
+   "partner_root": "POLIWAG",
+   "swapped": true,
+   "old_stats": [
+    55,
+    40,
+    40,
+    35,
+    65,
+    45
+   ],
+   "old_bst": 280,
+   "target_bst": 300,
+   "new_stats": [
+    59,
+    43,
+    43,
+    37,
+    70,
+    48
+   ],
+   "new_bst": 300,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "15",
+     "FLAAFFY"
+    ]
+   ],
+   "where": "Route 31 Lv5; Route 32 Lv5",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "25",
+     "FLAAFFY"
+    ]
+   ]
+  },
+  {
+   "dex": 180,
+   "species": "FLAAFFY",
+   "type": "ELECTRIC",
+   "line_root": "MAREEP",
+   "line_stages": 3,
+   "stage": 2,
+   "rank": 15,
+   "bucket_size": 27,
+   "line_final_bst": 500,
+   "partner_root": "POLIWAG",
+   "swapped": true,
+   "old_stats": [
+    70,
+    55,
+    55,
+    45,
+    80,
+    60
+   ],
+   "old_bst": 365,
+   "target_bst": 385,
+   "new_stats": [
+    74,
+    58,
+    58,
+    48,
+    84,
+    63
+   ],
+   "new_bst": 385,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "30",
+     "AMPHAROS"
+    ]
+   ],
+   "where": "Route 43 Lv23",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "30",
+     "AMPHAROS"
+    ]
+   ]
+  },
+  {
+   "dex": 181,
+   "species": "AMPHAROS",
+   "type": "ELECTRIC",
+   "line_root": "MAREEP",
+   "line_stages": 3,
+   "stage": 3,
+   "rank": 15,
+   "bucket_size": 27,
+   "line_final_bst": 500,
+   "partner_root": "POLIWAG",
+   "swapped": true,
+   "old_stats": [
+    90,
+    75,
+    75,
+    55,
+    115,
+    90
+   ],
+   "old_bst": 500,
+   "target_bst": 500,
+   "new_stats": [
+    90,
+    75,
+    75,
+    55,
+    115,
+    90
+   ],
+   "new_bst": 500,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 182,
+   "species": "BELLOSSOM",
+   "type": "GRASS",
+   "line_root": "ODDISH",
+   "line_stages": 3,
+   "stage": 3,
+   "rank": 11,
+   "bucket_size": 27,
+   "line_final_bst": 505,
+   "partner_root": "NIDORAN_M",
+   "swapped": true,
+   "old_stats": [
+    90,
+    80,
+    95,
+    50,
+    90,
+    100
+   ],
+   "old_bst": 505,
+   "target_bst": 495,
+   "new_stats": [
+    88,
+    79,
+    93,
+    49,
+    88,
+    98
+   ],
+   "new_bst": 495,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 183,
+   "species": "MARILL",
+   "type": "WATER",
+   "line_root": "MARILL",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 54,
+   "bucket_size": 59,
+   "line_final_bst": 430,
+   "partner_root": "EXEGGCUTE",
+   "swapped": true,
+   "old_stats": [
+    70,
+    20,
+    50,
+    40,
+    20,
+    50
+   ],
+   "old_bst": 250,
+   "target_bst": 325,
+   "new_stats": [
+    91,
+    26,
+    65,
+    52,
+    26,
+    65
+   ],
+   "new_bst": 325,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "18",
+     "AZUMARILL"
+    ]
+   ],
+   "where": "Union Cave B1F Lv8; Mount Mortar 1F Outside Lv20; Mount Mortar B1F Lv20 (+6 more)",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "18",
+     "AZUMARILL"
+    ]
+   ]
+  },
+  {
+   "dex": 184,
+   "species": "AZUMARILL",
+   "type": "WATER",
+   "line_root": "MARILL",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 54,
+   "bucket_size": 59,
+   "line_final_bst": 430,
+   "partner_root": "EXEGGCUTE",
+   "swapped": true,
+   "old_stats": [
+    100,
+    50,
+    80,
+    50,
+    70,
+    80
+   ],
+   "old_bst": 430,
+   "target_bst": 520,
+   "new_stats": [
+    121,
+    60,
+    97,
+    60,
+    85,
+    97
+   ],
+   "new_bst": 520,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 185,
+   "species": "SUDOWOODO",
+   "type": "ROCK",
+   "line_root": "SUDOWOODO",
+   "line_stages": 1,
+   "stage": 1,
+   "rank": 22,
+   "bucket_size": 32,
+   "line_final_bst": 440,
+   "partner_root": "MANTINE",
+   "swapped": true,
+   "old_stats": [
+    80,
+    100,
+    115,
+    30,
+    30,
+    85
+   ],
+   "old_bst": 440,
+   "target_bst": 475,
+   "new_stats": [
+    86,
+    108,
+    124,
+    33,
+    32,
+    92
+   ],
+   "new_bst": 475,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 186,
+   "species": "POLITOED",
+   "type": "WATER",
+   "line_root": "POLIWAG",
+   "line_stages": 3,
+   "stage": 3,
+   "rank": 13,
+   "bucket_size": 27,
+   "line_final_bst": 500,
+   "partner_root": "MAREEP",
+   "swapped": true,
+   "old_stats": [
+    90,
+    75,
+    75,
+    70,
+    90,
+    100
+   ],
+   "old_bst": 500,
+   "target_bst": 500,
+   "new_stats": [
+    90,
+    75,
+    75,
+    70,
+    90,
+    100
+   ],
+   "new_bst": 500,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 187,
+   "species": "HOPPIP",
+   "type": "GRASS/FLYING",
+   "line_root": "HOPPIP",
+   "line_stages": 3,
+   "stage": 1,
+   "rank": 25,
+   "bucket_size": 27,
+   "line_final_bst": 450,
+   "partner_root": "HORSEA",
+   "swapped": true,
+   "old_stats": [
+    35,
+    35,
+    40,
+    50,
+    35,
+    55
+   ],
+   "old_bst": 250,
+   "target_bst": 295,
+   "new_stats": [
+    42,
+    41,
+    47,
+    59,
+    41,
+    65
+   ],
+   "new_bst": 295,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "18",
+     "SKIPLOOM"
+    ]
+   ],
+   "where": "Route 29 Lv3; Route 11 Lv14; Route 13 Lv25 (+2 more)",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "32",
+     "SKIPLOOM"
+    ]
+   ]
+  },
+  {
+   "dex": 188,
+   "species": "SKIPLOOM",
+   "type": "GRASS/FLYING",
+   "line_root": "HOPPIP",
+   "line_stages": 3,
+   "stage": 2,
+   "rank": 25,
+   "bucket_size": 27,
+   "line_final_bst": 450,
+   "partner_root": "HORSEA",
+   "swapped": true,
+   "old_stats": [
+    55,
+    45,
+    50,
+    80,
+    45,
+    65
+   ],
+   "old_bst": 340,
+   "target_bst": 440,
+   "new_stats": [
+    71,
+    58,
+    65,
+    104,
+    58,
+    84
+   ],
+   "new_bst": 440,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "27",
+     "JUMPLUFF"
+    ]
+   ],
+   "where": "Route 14 Lv30",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "27",
+     "JUMPLUFF"
+    ]
+   ]
+  },
+  {
+   "dex": 189,
+   "species": "JUMPLUFF",
+   "type": "GRASS/FLYING",
+   "line_root": "HOPPIP",
+   "line_stages": 3,
+   "stage": 3,
+   "rank": 25,
+   "bucket_size": 27,
+   "line_final_bst": 450,
+   "partner_root": "HORSEA",
+   "swapped": true,
+   "old_stats": [
+    75,
+    55,
+    70,
+    110,
+    55,
+    85
+   ],
+   "old_bst": 450,
+   "target_bst": 540,
+   "new_stats": [
+    90,
+    66,
+    84,
+    132,
+    66,
+    102
+   ],
+   "new_bst": 540,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 190,
+   "species": "AIPOM",
+   "type": "NORMAL",
+   "line_root": "AIPOM",
+   "line_stages": 1,
+   "stage": 1,
+   "rank": 25,
+   "bucket_size": 32,
+   "line_final_bst": 420,
+   "partner_root": "TAUROS",
+   "swapped": true,
+   "old_stats": [
+    70,
+    90,
+    65,
+    90,
+    40,
+    65
+   ],
+   "old_bst": 420,
+   "target_bst": 490,
+   "new_stats": [
+    82,
+    105,
+    76,
+    105,
+    46,
+    76
+   ],
+   "new_bst": 490,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 191,
+   "species": "SUNKERN",
+   "type": "GRASS",
+   "line_root": "SUNKERN",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 49,
+   "bucket_size": 59,
+   "line_final_bst": 445,
+   "partner_root": "PONYTA",
+   "swapped": true,
+   "old_stats": [
+    30,
+    30,
+    30,
+    30,
+    30,
+    30
+   ],
+   "old_bst": 180,
+   "target_bst": 420,
+   "new_stats": [
+    70,
+    70,
+    70,
+    70,
+    70,
+    70
+   ],
+   "new_bst": 420,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_ITEM",
+     "SUN_STONE",
+     "SUNFLORA"
+    ]
+   ],
+   "where": "Route 24 Lv12; National Park Lv13",
+   "new_evos": [
+    [
+     "EVOLVE_ITEM",
+     "SUN_STONE",
+     "SUNFLORA"
+    ]
+   ]
+  },
+  {
+   "dex": 192,
+   "species": "SUNFLORA",
+   "type": "GRASS",
+   "line_root": "SUNKERN",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 49,
+   "bucket_size": 59,
+   "line_final_bst": 445,
+   "partner_root": "PONYTA",
+   "swapped": true,
+   "old_stats": [
+    75,
+    75,
+    55,
+    30,
+    125,
+    85
+   ],
+   "old_bst": 445,
+   "target_bst": 510,
+   "new_stats": [
+    86,
+    86,
+    63,
+    34,
+    143,
+    98
+   ],
+   "new_bst": 510,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 193,
+   "species": "YANMA",
+   "type": "BUG/FLYING",
+   "line_root": "YANMA",
+   "line_stages": 1,
+   "stage": 1,
+   "rank": 18,
+   "bucket_size": 32,
+   "line_final_bst": 450,
+   "partner_root": "MR__MIME",
+   "swapped": true,
+   "old_stats": [
+    75,
+    105,
+    65,
+    95,
+    65,
+    45
+   ],
+   "old_bst": 450,
+   "target_bst": 460,
+   "new_stats": [
+    77,
+    107,
+    67,
+    97,
+    66,
+    46
+   ],
+   "new_bst": 460,
+   "capped": [],
+   "evos": [],
+   "where": "Route 35 Lv14",
+   "new_evos": []
+  },
+  {
+   "dex": 194,
+   "species": "WOOPER",
+   "type": "WATER/GROUND",
+   "line_root": "WOOPER",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 46,
+   "bucket_size": 59,
+   "line_final_bst": 450,
+   "partner_root": "GRIMER",
+   "swapped": true,
+   "old_stats": [
+    55,
+    45,
+    45,
+    15,
+    25,
+    25
+   ],
+   "old_bst": 210,
+   "target_bst": 325,
+   "new_stats": [
+    85,
+    70,
+    69,
+    23,
+    39,
+    39
+   ],
+   "new_bst": 325,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "20",
+     "QUAGSIRE"
+    ]
+   ],
+   "where": "Route 32 Lv5; Ruins Of Alph Outside Lv15; Union Cave 1F Lv15 (+2 more)",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "38",
+     "QUAGSIRE"
+    ]
+   ]
+  },
+  {
+   "dex": 195,
+   "species": "QUAGSIRE",
+   "type": "WATER/GROUND",
+   "line_root": "WOOPER",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 46,
+   "bucket_size": 59,
+   "line_final_bst": 450,
+   "partner_root": "GRIMER",
+   "swapped": true,
+   "old_stats": [
+    95,
+    85,
+    85,
+    35,
+    75,
+    75
+   ],
+   "old_bst": 450,
+   "target_bst": 500,
+   "new_stats": [
+    106,
+    95,
+    94,
+    39,
+    83,
+    83
+   ],
+   "new_bst": 500,
+   "capped": [],
+   "evos": [],
+   "where": "Ruins Of Alph Outside Lv15; Union Cave 1F Lv15; Union Cave B1F Lv15 (+10 more)",
+   "new_evos": []
+  },
+  {
+   "dex": 196,
+   "species": "ESPEON",
+   "type": "PSYCHIC_TYPE",
+   "line_root": "EEVEE",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 5,
+   "bucket_size": 59,
+   "line_final_bst": 525,
+   "partner_root": "SENTRET",
+   "swapped": true,
+   "old_stats": [
+    65,
+    65,
+    60,
+    110,
+    130,
+    95
+   ],
+   "old_bst": 525,
+   "target_bst": 425,
+   "new_stats": [
+    53,
+    53,
+    48,
+    89,
+    105,
+    77
+   ],
+   "new_bst": 425,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 197,
+   "species": "UMBREON",
+   "type": "DARK",
+   "line_root": "EEVEE",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 5,
+   "bucket_size": 59,
+   "line_final_bst": 525,
+   "partner_root": "SENTRET",
+   "swapped": true,
+   "old_stats": [
+    95,
+    65,
+    110,
+    65,
+    60,
+    130
+   ],
+   "old_bst": 525,
+   "target_bst": 425,
+   "new_stats": [
+    77,
+    53,
+    89,
+    53,
+    48,
+    105
+   ],
+   "new_bst": 425,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 198,
+   "species": "MURKROW",
+   "type": "DARK/FLYING",
+   "line_root": "MURKROW",
+   "line_stages": 1,
+   "stage": 1,
+   "rank": 19,
+   "bucket_size": 32,
+   "line_final_bst": 450,
+   "partner_root": "STANTLER",
+   "swapped": true,
+   "old_stats": [
+    70,
+    105,
+    52,
+    95,
+    76,
+    52
+   ],
+   "old_bst": 450,
+   "target_bst": 465,
+   "new_stats": [
+    72,
+    108,
+    54,
+    98,
+    79,
+    54
+   ],
+   "new_bst": 465,
+   "capped": [],
+   "evos": [],
+   "where": "National Park Lv17; Route 7 Lv17; Route 16 Lv29 (+3 more)",
+   "new_evos": []
+  },
+  {
+   "dex": 199,
+   "species": "SLOWKING",
+   "type": "WATER/PSYCHIC_TYPE",
+   "line_root": "SLOWPOKE",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 23,
+   "bucket_size": 59,
+   "line_final_bst": 490,
+   "partner_root": "EKANS",
+   "swapped": true,
+   "old_stats": [
+    95,
+    75,
+    80,
+    30,
+    100,
+    110
+   ],
+   "old_bst": 490,
+   "target_bst": 460,
+   "new_stats": [
+    89,
+    71,
+    75,
+    28,
+    94,
+    103
+   ],
+   "new_bst": 460,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 200,
+   "species": "MISDREAVUS",
+   "type": "GHOST",
+   "line_root": "MISDREAVUS",
+   "line_stages": 1,
+   "stage": 1,
+   "rank": 16,
+   "bucket_size": 32,
+   "line_final_bst": 460,
+   "partner_root": "GIRAFARIG",
+   "swapped": true,
+   "old_stats": [
+    60,
+    60,
+    60,
+    90,
+    95,
+    95
+   ],
+   "old_bst": 460,
+   "target_bst": 455,
+   "new_stats": [
+    60,
+    59,
+    59,
+    89,
+    94,
+    94
+   ],
+   "new_bst": 455,
+   "capped": [],
+   "evos": [],
+   "where": "Burned Tower B1F Lv16; Silver Cave Item Rooms Lv65; Silver Cave Room 2 Lv65",
+   "new_evos": []
+  },
+  {
+   "dex": 201,
+   "species": "UNOWN",
+   "type": "PSYCHIC_TYPE",
+   "line_root": "UNOWN",
+   "line_stages": 1,
+   "stage": 1,
+   "rank": 30,
+   "bucket_size": 32,
+   "line_final_bst": 336,
+   "partner_root": "AERODACTYL",
+   "swapped": true,
+   "old_stats": [
+    48,
+    72,
+    48,
+    48,
+    72,
+    48
+   ],
+   "old_bst": 336,
+   "target_bst": 515,
+   "new_stats": [
+    74,
+    110,
+    74,
+    74,
+    110,
+    73
+   ],
+   "new_bst": 515,
+   "capped": [],
+   "evos": [],
+   "where": "Ruins Of Alph Inner Chamber Lv5",
+   "new_evos": []
+  },
+  {
+   "dex": 202,
+   "species": "WOBBUFFET",
+   "type": "PSYCHIC_TYPE",
+   "line_root": "WOBBUFFET",
+   "line_stages": 1,
+   "stage": 1,
+   "rank": 27,
+   "bucket_size": 32,
+   "line_final_bst": 405,
+   "partner_root": "HERACROSS",
+   "swapped": true,
+   "old_stats": [
+    190,
+    33,
+    58,
+    33,
+    33,
+    58
+   ],
+   "old_bst": 405,
+   "target_bst": 500,
+   "new_stats": [
+    234,
+    41,
+    72,
+    41,
+    41,
+    71
+   ],
+   "new_bst": 500,
+   "capped": [],
+   "evos": [],
+   "where": "Dark Cave Blackthorn Entrance Lv30",
+   "new_evos": []
+  },
+  {
+   "dex": 203,
+   "species": "GIRAFARIG",
+   "type": "NORMAL/PSYCHIC_TYPE",
+   "line_root": "GIRAFARIG",
+   "line_stages": 1,
+   "stage": 1,
+   "rank": 17,
+   "bucket_size": 32,
+   "line_final_bst": 455,
+   "partner_root": "MISDREAVUS",
+   "swapped": true,
+   "old_stats": [
+    70,
+    80,
+    65,
+    85,
+    90,
+    65
+   ],
+   "old_bst": 455,
+   "target_bst": 460,
+   "new_stats": [
+    71,
+    81,
+    66,
+    86,
+    91,
+    65
+   ],
+   "new_bst": 460,
+   "capped": [],
+   "evos": [],
+   "where": "Route 43 Lv22",
+   "new_evos": []
+  },
+  {
+   "dex": 204,
+   "species": "PINECO",
+   "type": "BUG",
+   "line_root": "PINECO",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 36,
+   "bucket_size": 59,
+   "line_final_bst": 465,
+   "partner_root": "ELEKID",
+   "swapped": true,
+   "old_stats": [
+    50,
+    65,
+    90,
+    15,
+    35,
+    35
+   ],
+   "old_bst": 290,
+   "target_bst": 360,
+   "new_stats": [
+    62,
+    81,
+    112,
+    19,
+    43,
+    43
+   ],
+   "new_bst": 360,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "25",
+     "FORRETRESS"
+    ]
+   ],
+   "where": "\u2014",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "30",
+     "FORRETRESS"
+    ]
+   ]
+  },
+  {
+   "dex": 205,
+   "species": "FORRETRESS",
+   "type": "BUG/STEEL",
+   "line_root": "PINECO",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 36,
+   "bucket_size": 59,
+   "line_final_bst": 465,
+   "partner_root": "ELEKID",
+   "swapped": true,
+   "old_stats": [
+    75,
+    90,
+    140,
+    40,
+    60,
+    60
+   ],
+   "old_bst": 465,
+   "target_bst": 490,
+   "new_stats": [
+    79,
+    95,
+    148,
+    42,
+    63,
+    63
+   ],
+   "new_bst": 490,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 206,
+   "species": "DUNSPARCE",
+   "type": "NORMAL",
+   "line_root": "DUNSPARCE",
+   "line_stages": 1,
+   "stage": 1,
+   "rank": 26,
+   "bucket_size": 32,
+   "line_final_bst": 415,
+   "partner_root": "KANGASKHAN",
+   "swapped": true,
+   "old_stats": [
+    100,
+    70,
+    70,
+    45,
+    65,
+    65
+   ],
+   "old_bst": 415,
+   "target_bst": 490,
+   "new_stats": [
+    118,
+    83,
+    82,
+    53,
+    77,
+    77
+   ],
+   "new_bst": 490,
+   "capped": [],
+   "evos": [],
+   "where": "Dark Cave Violet Entrance Lv4",
+   "new_evos": []
+  },
+  {
+   "dex": 207,
+   "species": "GLIGAR",
+   "type": "GROUND/FLYING",
+   "line_root": "GLIGAR",
+   "line_stages": 1,
+   "stage": 1,
+   "rank": 20,
+   "bucket_size": 32,
+   "line_final_bst": 450,
+   "partner_root": "SKARMORY",
+   "swapped": true,
+   "old_stats": [
+    70,
+    85,
+    105,
+    90,
+    35,
+    65
+   ],
+   "old_bst": 450,
+   "target_bst": 465,
+   "new_stats": [
+    72,
+    88,
+    109,
+    93,
+    36,
+    67
+   ],
+   "new_bst": 465,
+   "capped": [],
+   "evos": [],
+   "where": "Route 42 Lv21; Route 45 Lv31",
+   "new_evos": []
+  },
+  {
+   "dex": 208,
+   "species": "STEELIX",
+   "type": "STEEL/GROUND",
+   "line_root": "ONIX",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 12,
+   "bucket_size": 59,
+   "line_final_bst": 510,
+   "partner_root": "TOGEPI",
+   "swapped": true,
+   "old_stats": [
+    75,
+    85,
+    200,
+    30,
+    55,
+    65
+   ],
+   "old_bst": 510,
+   "target_bst": 445,
+   "new_stats": [
+    65,
+    74,
+    175,
+    26,
+    48,
+    57
+   ],
+   "new_bst": 445,
+   "capped": [],
+   "evos": [],
+   "where": "Victory Road Lv45",
+   "new_evos": []
+  },
+  {
+   "dex": 209,
+   "species": "SNUBBULL",
+   "type": "NORMAL",
+   "line_root": "SNUBBULL",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 47,
+   "bucket_size": 59,
+   "line_final_bst": 450,
+   "partner_root": "PSYDUCK",
+   "swapped": true,
+   "old_stats": [
+    60,
+    80,
+    50,
+    30,
+    40,
+    40
+   ],
+   "old_bst": 300,
+   "target_bst": 320,
+   "new_stats": [
+    64,
+    85,
+    53,
+    32,
+    43,
+    43
+   ],
+   "new_bst": 320,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "23",
+     "GRANBULL"
+    ]
+   ],
+   "where": "Route 34 Lv13; Route 5 Lv13; Route 6 Lv13 (+3 more)",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "33",
+     "GRANBULL"
+    ]
+   ]
+  },
+  {
+   "dex": 210,
+   "species": "GRANBULL",
+   "type": "NORMAL",
+   "line_root": "SNUBBULL",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 47,
+   "bucket_size": 59,
+   "line_final_bst": 450,
+   "partner_root": "PSYDUCK",
+   "swapped": true,
+   "old_stats": [
+    90,
+    120,
+    75,
+    45,
+    60,
+    60
+   ],
+   "old_bst": 450,
+   "target_bst": 500,
+   "new_stats": [
+    100,
+    133,
+    83,
+    50,
+    67,
+    67
+   ],
+   "new_bst": 500,
+   "capped": [],
+   "evos": [],
+   "where": "Route 6 Lv15",
+   "new_evos": []
+  },
+  {
+   "dex": 211,
+   "species": "QWILFISH",
+   "type": "WATER/POISON",
+   "line_root": "QWILFISH",
+   "line_stages": 1,
+   "stage": 1,
+   "rank": 10,
+   "bucket_size": 32,
+   "line_final_bst": 480,
+   "partner_root": "TANGELA",
+   "swapped": true,
+   "old_stats": [
+    75,
+    95,
+    85,
+    85,
+    65,
+    75
+   ],
+   "old_bst": 480,
+   "target_bst": 435,
+   "new_stats": [
+    68,
+    86,
+    77,
+    77,
+    59,
+    68
+   ],
+   "new_bst": 435,
+   "capped": [],
+   "evos": [],
+   "where": "fishing Qwilfish_Swarm Old Rod Lv5; fishing Qwilfish_Swarm Good Rod Lv20; fishing Qwilfish Super Rod Lv40 (+1 more)",
+   "new_evos": []
+  },
+  {
+   "dex": 212,
+   "species": "SCIZOR",
+   "type": "BUG/STEEL",
+   "line_root": "SCYTHER",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 16,
+   "bucket_size": 59,
+   "line_final_bst": 500,
+   "partner_root": "GOLDEEN",
+   "swapped": true,
+   "old_stats": [
+    70,
+    130,
+    100,
+    65,
+    55,
+    80
+   ],
+   "old_bst": 500,
+   "target_bst": 450,
+   "new_stats": [
+    63,
+    117,
+    90,
+    59,
+    49,
+    72
+   ],
+   "new_bst": 450,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 213,
+   "species": "SHUCKLE",
+   "type": "BUG/ROCK",
+   "line_root": "SHUCKLE",
+   "line_stages": 1,
+   "stage": 1,
+   "rank": 4,
+   "bucket_size": 32,
+   "line_final_bst": 505,
+   "partner_root": "FARFETCH_D",
+   "swapped": true,
+   "old_stats": [
+    20,
+    10,
+    230,
+    5,
+    10,
+    230
+   ],
+   "old_bst": 505,
+   "target_bst": 352,
+   "new_stats": [
+    14,
+    7,
+    160,
+    4,
+    7,
+    160
+   ],
+   "new_bst": 352,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 214,
+   "species": "HERACROSS",
+   "type": "BUG/FIGHTING",
+   "line_root": "HERACROSS",
+   "line_stages": 1,
+   "stage": 1,
+   "rank": 6,
+   "bucket_size": 32,
+   "line_final_bst": 500,
+   "partner_root": "WOBBUFFET",
+   "swapped": true,
+   "old_stats": [
+    80,
+    125,
+    75,
+    85,
+    40,
+    95
+   ],
+   "old_bst": 500,
+   "target_bst": 405,
+   "new_stats": [
+    65,
+    101,
+    61,
+    69,
+    32,
+    77
+   ],
+   "new_bst": 405,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 215,
+   "species": "SNEASEL",
+   "type": "DARK/ICE",
+   "line_root": "SNEASEL",
+   "line_stages": 1,
+   "stage": 1,
+   "rank": 12,
+   "bucket_size": 32,
+   "line_final_bst": 465,
+   "partner_root": "LICKITUNG",
+   "swapped": true,
+   "old_stats": [
+    55,
+    95,
+    55,
+    115,
+    70,
+    75
+   ],
+   "old_bst": 465,
+   "target_bst": 440,
+   "new_stats": [
+    52,
+    90,
+    52,
+    109,
+    66,
+    71
+   ],
+   "new_bst": 440,
+   "capped": [],
+   "evos": [],
+   "where": "Ice Path B1F Lv32; Ice Path B2F Blackthorn Side Lv32; Ice Path B2F Mahogany Side Lv32 (+1 more)",
+   "new_evos": []
+  },
+  {
+   "dex": 216,
+   "species": "TEDDIURSA",
+   "type": "NORMAL",
+   "line_root": "TEDDIURSA",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 17,
+   "bucket_size": 59,
+   "line_final_bst": 500,
+   "partner_root": "SANDSHREW",
+   "swapped": true,
+   "old_stats": [
+    60,
+    80,
+    50,
+    40,
+    50,
+    50
+   ],
+   "old_bst": 330,
+   "target_bst": 300,
+   "new_stats": [
+    55,
+    73,
+    46,
+    36,
+    45,
+    45
+   ],
+   "new_bst": 300,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "30",
+     "URSARING"
+    ]
+   ],
+   "where": "Dark Cave Violet Entrance Lv2; Dark Cave Blackthorn Entrance Lv30",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "22",
+     "URSARING"
+    ]
+   ]
+  },
+  {
+   "dex": 217,
+   "species": "URSARING",
+   "type": "NORMAL",
+   "line_root": "TEDDIURSA",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 17,
+   "bucket_size": 59,
+   "line_final_bst": 500,
+   "partner_root": "SANDSHREW",
+   "swapped": true,
+   "old_stats": [
+    90,
+    130,
+    75,
+    55,
+    75,
+    75
+   ],
+   "old_bst": 500,
+   "target_bst": 450,
+   "new_stats": [
+    81,
+    117,
+    68,
+    50,
+    67,
+    67
+   ],
+   "new_bst": 450,
+   "capped": [],
+   "evos": [],
+   "where": "Dark Cave Blackthorn Entrance Lv30; Route 45 Lv35; Silver Cave Outside Lv50 (+3 more)",
+   "new_evos": []
+  },
+  {
+   "dex": 218,
+   "species": "SLUGMA",
+   "type": "FIRE",
+   "line_root": "SLUGMA",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 34,
+   "bucket_size": 59,
+   "line_final_bst": 470,
+   "partner_root": "DROWZEE",
+   "swapped": true,
+   "old_stats": [
+    50,
+    70,
+    60,
+    20,
+    70,
+    60
+   ],
+   "old_bst": 330,
+   "target_bst": 328,
+   "new_stats": [
+    50,
+    69,
+    60,
+    20,
+    69,
+    60
+   ],
+   "new_bst": 328,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "27",
+     "MAGCARGO"
+    ]
+   ],
+   "where": "Burned Tower 1F Lv13; Route 16 Lv29; Route 17 Lv29 (+1 more)",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "26",
+     "MAGCARGO"
+    ]
+   ]
+  },
+  {
+   "dex": 219,
+   "species": "MAGCARGO",
+   "type": "FIRE/ROCK",
+   "line_root": "SLUGMA",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 34,
+   "bucket_size": 59,
+   "line_final_bst": 470,
+   "partner_root": "DROWZEE",
+   "swapped": true,
+   "old_stats": [
+    60,
+    80,
+    130,
+    30,
+    90,
+    80
+   ],
+   "old_bst": 470,
+   "target_bst": 483,
+   "new_stats": [
+    62,
+    82,
+    134,
+    31,
+    92,
+    82
+   ],
+   "new_bst": 483,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 220,
+   "species": "SWINUB",
+   "type": "ICE/GROUND",
+   "line_root": "SWINUB",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 28,
+   "bucket_size": 59,
+   "line_final_bst": 480,
+   "partner_root": "KRABBY",
+   "swapped": true,
+   "old_stats": [
+    80,
+    65,
+    40,
+    50,
+    65,
+    40
+   ],
+   "old_bst": 340,
+   "target_bst": 325,
+   "new_stats": [
+    77,
+    62,
+    38,
+    48,
+    62,
+    38
+   ],
+   "new_bst": 325,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "33",
+     "PILOSWINE"
+    ]
+   ],
+   "where": "Ice Path 1F Lv21; Ice Path B1F Lv32; Ice Path B2F Blackthorn Side Lv32 (+2 more)",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "28",
+     "PILOSWINE"
+    ]
+   ]
+  },
+  {
+   "dex": 221,
+   "species": "PILOSWINE",
+   "type": "ICE/GROUND",
+   "line_root": "SWINUB",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 28,
+   "bucket_size": 59,
+   "line_final_bst": 480,
+   "partner_root": "KRABBY",
+   "swapped": true,
+   "old_stats": [
+    100,
+    100,
+    80,
+    50,
+    80,
+    70
+   ],
+   "old_bst": 480,
+   "target_bst": 475,
+   "new_stats": [
+    99,
+    99,
+    79,
+    50,
+    79,
+    69
+   ],
+   "new_bst": 475,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 222,
+   "species": "CORSOLA",
+   "type": "WATER/ROCK",
+   "line_root": "CORSOLA",
+   "line_stages": 1,
+   "stage": 1,
+   "rank": 24,
+   "bucket_size": 32,
+   "line_final_bst": 430,
+   "partner_root": "MILTANK",
+   "swapped": true,
+   "old_stats": [
+    85,
+    55,
+    95,
+    35,
+    65,
+    95
+   ],
+   "old_bst": 430,
+   "target_bst": 490,
+   "new_stats": [
+    97,
+    63,
+    108,
+    40,
+    74,
+    108
+   ],
+   "new_bst": 490,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 223,
+   "species": "REMORAID",
+   "type": "WATER",
+   "line_root": "REMORAID",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 29,
+   "bucket_size": 59,
+   "line_final_bst": 480,
+   "partner_root": "SEEL",
+   "swapped": true,
+   "old_stats": [
+    35,
+    65,
+    35,
+    65,
+    65,
+    35
+   ],
+   "old_bst": 300,
+   "target_bst": 325,
+   "new_stats": [
+    38,
+    71,
+    38,
+    70,
+    70,
+    38
+   ],
+   "new_bst": 325,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "25",
+     "OCTILLERY"
+    ]
+   ],
+   "where": "fishing Remoraid_Swarm Old Rod Lv10; fishing Remoraid_Swarm Good Rod Lv20; Route 42 Lv21 (+2 more)",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "34",
+     "OCTILLERY"
+    ]
+   ]
+  },
+  {
+   "dex": 224,
+   "species": "OCTILLERY",
+   "type": "WATER",
+   "line_root": "REMORAID",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 29,
+   "bucket_size": 59,
+   "line_final_bst": 480,
+   "partner_root": "SEEL",
+   "swapped": true,
+   "old_stats": [
+    75,
+    105,
+    75,
+    45,
+    105,
+    75
+   ],
+   "old_bst": 480,
+   "target_bst": 475,
+   "new_stats": [
+    74,
+    104,
+    74,
+    45,
+    104,
+    74
+   ],
+   "new_bst": 475,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 225,
+   "species": "DELIBIRD",
+   "type": "ICE/FLYING",
+   "line_root": "DELIBIRD",
+   "line_stages": 1,
+   "stage": 1,
+   "rank": 28,
+   "bucket_size": 32,
+   "line_final_bst": 400,
+   "partner_root": "PINSIR",
+   "swapped": true,
+   "old_stats": [
+    60,
+    75,
+    55,
+    80,
+    85,
+    45
+   ],
+   "old_bst": 400,
+   "target_bst": 500,
+   "new_stats": [
+    75,
+    94,
+    69,
+    100,
+    106,
+    56
+   ],
+   "new_bst": 500,
+   "capped": [],
+   "evos": [],
+   "where": "Ice Path 1F Lv21; Ice Path B1F Lv32; Ice Path B2F Blackthorn Side Lv32 (+2 more)",
+   "new_evos": []
+  },
+  {
+   "dex": 226,
+   "species": "MANTINE",
+   "type": "WATER/FLYING",
+   "line_root": "MANTINE",
+   "line_stages": 1,
+   "stage": 1,
+   "rank": 11,
+   "bucket_size": 32,
+   "line_final_bst": 475,
+   "partner_root": "SUDOWOODO",
+   "swapped": true,
+   "old_stats": [
+    65,
+    50,
+    70,
+    70,
+    80,
+    140
+   ],
+   "old_bst": 475,
+   "target_bst": 440,
+   "new_stats": [
+    60,
+    46,
+    65,
+    65,
+    74,
+    130
+   ],
+   "new_bst": 440,
+   "capped": [],
+   "evos": [],
+   "where": "Route 41 Lv22",
+   "new_evos": []
+  },
+  {
+   "dex": 227,
+   "species": "SKARMORY",
+   "type": "STEEL/FLYING",
+   "line_root": "SKARMORY",
+   "line_stages": 1,
+   "stage": 1,
+   "rank": 13,
+   "bucket_size": 32,
+   "line_final_bst": 465,
+   "partner_root": "GLIGAR",
+   "swapped": true,
+   "old_stats": [
+    65,
+    80,
+    140,
+    70,
+    40,
+    70
+   ],
+   "old_bst": 465,
+   "target_bst": 450,
+   "new_stats": [
+    63,
+    77,
+    135,
+    68,
+    39,
+    68
+   ],
+   "new_bst": 450,
+   "capped": [],
+   "evos": [],
+   "where": "Route 43 Lv24; Route 45 Lv35; Silver Cave Outside Lv51",
+   "new_evos": []
+  },
+  {
+   "dex": 228,
+   "species": "HOUNDOUR",
+   "type": "DARK/FIRE",
+   "line_root": "HOUNDOUR",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 18,
+   "bucket_size": 59,
+   "line_final_bst": 500,
+   "partner_root": "SMOOCHUM",
+   "swapped": true,
+   "old_stats": [
+    45,
+    60,
+    30,
+    65,
+    80,
+    50
+   ],
+   "old_bst": 330,
+   "target_bst": 305,
+   "new_stats": [
+    42,
+    55,
+    28,
+    60,
+    74,
+    46
+   ],
+   "new_bst": 305,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "24",
+     "HOUNDOOM"
+    ]
+   ],
+   "where": "Route 36 Lv5; Burned Tower 1F Lv15; Route 7 Lv18",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "30",
+     "HOUNDOOM"
+    ]
+   ]
+  },
+  {
+   "dex": 229,
+   "species": "HOUNDOOM",
+   "type": "DARK/FIRE",
+   "line_root": "HOUNDOUR",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 18,
+   "bucket_size": 59,
+   "line_final_bst": 500,
+   "partner_root": "SMOOCHUM",
+   "swapped": true,
+   "old_stats": [
+    75,
+    90,
+    50,
+    95,
+    110,
+    80
+   ],
+   "old_bst": 500,
+   "target_bst": 455,
+   "new_stats": [
+    68,
+    82,
+    46,
+    86,
+    100,
+    73
+   ],
+   "new_bst": 455,
+   "capped": [],
+   "evos": [],
+   "where": "Silver Cave Outside Lv52",
+   "new_evos": []
+  },
+  {
+   "dex": 230,
+   "species": "KINGDRA",
+   "type": "WATER/DRAGON",
+   "line_root": "HORSEA",
+   "line_stages": 3,
+   "stage": 3,
+   "rank": 3,
+   "bucket_size": 27,
+   "line_final_bst": 540,
+   "partner_root": "HOPPIP",
+   "swapped": true,
+   "old_stats": [
+    75,
+    95,
+    95,
+    85,
+    95,
+    95
+   ],
+   "old_bst": 540,
+   "target_bst": 450,
+   "new_stats": [
+    63,
+    79,
+    79,
+    71,
+    79,
+    79
+   ],
+   "new_bst": 450,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 231,
+   "species": "PHANPY",
+   "type": "GROUND",
+   "line_root": "PHANPY",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 19,
+   "bucket_size": 59,
+   "line_final_bst": 500,
+   "partner_root": "MANKEY",
+   "swapped": true,
+   "old_stats": [
+    90,
+    60,
+    60,
+    40,
+    40,
+    40
+   ],
+   "old_bst": 330,
+   "target_bst": 305,
+   "new_stats": [
+    83,
+    56,
+    55,
+    37,
+    37,
+    37
+   ],
+   "new_bst": 305,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "25",
+     "DONPHAN"
+    ]
+   ],
+   "where": "Route 46 Lv2",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "28",
+     "DONPHAN"
+    ]
+   ]
+  },
+  {
+   "dex": 232,
+   "species": "DONPHAN",
+   "type": "GROUND",
+   "line_root": "PHANPY",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 19,
+   "bucket_size": 59,
+   "line_final_bst": 500,
+   "partner_root": "MANKEY",
+   "swapped": true,
+   "old_stats": [
+    90,
+    120,
+    120,
+    50,
+    60,
+    60
+   ],
+   "old_bst": 500,
+   "target_bst": 455,
+   "new_stats": [
+    82,
+    109,
+    109,
+    45,
+    55,
+    55
+   ],
+   "new_bst": 455,
+   "capped": [],
+   "evos": [],
+   "where": "Route 45 Lv34; Victory Road Lv43; Silver Cave Outside Lv52",
+   "new_evos": []
+  },
+  {
+   "dex": 233,
+   "species": "PORYGON2",
+   "type": "NORMAL",
+   "line_root": "PORYGON",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 10,
+   "bucket_size": 59,
+   "line_final_bst": 515,
+   "partner_root": "SPEAROW",
+   "swapped": true,
+   "old_stats": [
+    85,
+    80,
+    90,
+    60,
+    105,
+    95
+   ],
+   "old_bst": 515,
+   "target_bst": 442,
+   "new_stats": [
+    73,
+    69,
+    77,
+    51,
+    90,
+    82
+   ],
+   "new_bst": 442,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 234,
+   "species": "STANTLER",
+   "type": "NORMAL",
+   "line_root": "STANTLER",
+   "line_stages": 1,
+   "stage": 1,
+   "rank": 14,
+   "bucket_size": 32,
+   "line_final_bst": 465,
+   "partner_root": "MURKROW",
+   "swapped": true,
+   "old_stats": [
+    73,
+    95,
+    62,
+    85,
+    85,
+    65
+   ],
+   "old_bst": 465,
+   "target_bst": 450,
+   "new_stats": [
+    71,
+    92,
+    60,
+    82,
+    82,
+    63
+   ],
+   "new_bst": 450,
+   "capped": [],
+   "evos": [],
+   "where": "Route 37 Lv16",
+   "new_evos": []
+  },
+  {
+   "dex": 235,
+   "species": "SMEARGLE",
+   "type": "NORMAL",
+   "line_root": "SMEARGLE",
+   "line_stages": 1,
+   "stage": 1,
+   "rank": 32,
+   "bucket_size": 32,
+   "line_final_bst": 250,
+   "partner_root": "SNORLAX",
+   "swapped": true,
+   "old_stats": [
+    55,
+    20,
+    35,
+    75,
+    20,
+    45
+   ],
+   "old_bst": 250,
+   "target_bst": 540,
+   "new_stats": [
+    119,
+    43,
+    76,
+    162,
+    43,
+    97
+   ],
+   "new_bst": 540,
+   "capped": [],
+   "evos": [],
+   "where": "Ruins Of Alph Outside Lv20",
+   "new_evos": []
+  },
+  {
+   "dex": 236,
+   "species": "TYROGUE",
+   "type": "FIGHTING",
+   "line_root": "TYROGUE",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 40,
+   "bucket_size": 59,
+   "line_final_bst": 460,
+   "partner_root": "OMANYTE",
+   "swapped": true,
+   "old_stats": [
+    35,
+    35,
+    35,
+    35,
+    35,
+    35
+   ],
+   "old_bst": 210,
+   "target_bst": 355,
+   "new_stats": [
+    60,
+    59,
+    59,
+    59,
+    59,
+    59
+   ],
+   "new_bst": 355,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_ITEM",
+     "BRICK_PIECE",
+     "HITMONTOP"
+    ],
+    [
+     "EVOLVE_STAT",
+     "20 (ATK_LT_DEF)",
+     "HITMONCHAN"
+    ],
+    [
+     "EVOLVE_STAT",
+     "20 (ATK_GT_DEF)",
+     "HITMONLEE"
+    ]
+   ],
+   "where": "\u2014",
+   "new_evos": [
+    [
+     "EVOLVE_ITEM",
+     "BRICK_PIECE",
+     "HITMONTOP"
+    ],
+    [
+     "EVOLVE_STAT",
+     "20 (ATK_LT_DEF)",
+     "HITMONCHAN"
+    ],
+    [
+     "EVOLVE_STAT",
+     "20 (ATK_GT_DEF)",
+     "HITMONLEE"
+    ]
+   ]
+  },
+  {
+   "dex": 237,
+   "species": "HITMONTOP",
+   "type": "FIGHTING",
+   "line_root": "TYROGUE",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 40,
+   "bucket_size": 59,
+   "line_final_bst": 460,
+   "partner_root": "OMANYTE",
+   "swapped": true,
+   "old_stats": [
+    50,
+    95,
+    95,
+    75,
+    35,
+    110
+   ],
+   "old_bst": 460,
+   "target_bst": 495,
+   "new_stats": [
+    54,
+    102,
+    102,
+    81,
+    38,
+    118
+   ],
+   "new_bst": 495,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 238,
+   "species": "SMOOCHUM",
+   "type": "ICE/PSYCHIC_TYPE",
+   "line_root": "SMOOCHUM",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 42,
+   "bucket_size": 59,
+   "line_final_bst": 455,
+   "partner_root": "HOUNDOUR",
+   "swapped": true,
+   "old_stats": [
+    45,
+    30,
+    15,
+    65,
+    85,
+    65
+   ],
+   "old_bst": 305,
+   "target_bst": 330,
+   "new_stats": [
+    49,
+    33,
+    16,
+    70,
+    92,
+    70
+   ],
+   "new_bst": 330,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "30",
+     "JYNX"
+    ]
+   ],
+   "where": "\u2014",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "24",
+     "JYNX"
+    ]
+   ]
+  },
+  {
+   "dex": 239,
+   "species": "ELEKID",
+   "type": "ELECTRIC",
+   "line_root": "ELEKID",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 24,
+   "bucket_size": 59,
+   "line_final_bst": 490,
+   "partner_root": "PINECO",
+   "swapped": true,
+   "old_stats": [
+    45,
+    63,
+    37,
+    95,
+    65,
+    55
+   ],
+   "old_bst": 360,
+   "target_bst": 290,
+   "new_stats": [
+    36,
+    51,
+    30,
+    77,
+    52,
+    44
+   ],
+   "new_bst": 290,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "30",
+     "ELECTABUZZ"
+    ]
+   ],
+   "where": "\u2014",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "25",
+     "ELECTABUZZ"
+    ]
+   ]
+  },
+  {
+   "dex": 240,
+   "species": "MAGBY",
+   "type": "FIRE",
+   "line_root": "MAGBY",
+   "line_stages": 2,
+   "stage": 1,
+   "rank": 22,
+   "bucket_size": 59,
+   "line_final_bst": 495,
+   "partner_root": "DODUO",
+   "swapped": true,
+   "old_stats": [
+    45,
+    75,
+    37,
+    83,
+    70,
+    55
+   ],
+   "old_bst": 365,
+   "target_bst": 310,
+   "new_stats": [
+    38,
+    64,
+    31,
+    71,
+    59,
+    47
+   ],
+   "new_bst": 310,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "30",
+     "MAGMAR"
+    ]
+   ],
+   "where": "\u2014",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "31",
+     "MAGMAR"
+    ]
+   ]
+  },
+  {
+   "dex": 241,
+   "species": "MILTANK",
+   "type": "NORMAL",
+   "line_root": "MILTANK",
+   "line_stages": 1,
+   "stage": 1,
+   "rank": 9,
+   "bucket_size": 32,
+   "line_final_bst": 490,
+   "partner_root": "CORSOLA",
+   "swapped": true,
+   "old_stats": [
+    95,
+    80,
+    105,
+    100,
+    40,
+    70
+   ],
+   "old_bst": 490,
+   "target_bst": 430,
+   "new_stats": [
+    83,
+    70,
+    92,
+    88,
+    35,
+    62
+   ],
+   "new_bst": 430,
+   "capped": [],
+   "evos": [],
+   "where": "Route 38 Lv21; Route 39 Lv21",
+   "new_evos": []
+  },
+  {
+   "dex": 242,
+   "species": "BLISSEY",
+   "type": "NORMAL",
+   "line_root": "CHANSEY",
+   "line_stages": 2,
+   "stage": 2,
+   "rank": 2,
+   "bucket_size": 59,
+   "line_final_bst": 540,
+   "partner_root": "LEDYBA",
+   "swapped": true,
+   "old_stats": [
+    255,
+    10,
+    10,
+    55,
+    75,
+    135
+   ],
+   "old_bst": 540,
+   "target_bst": 410,
+   "new_stats": [
+    194,
+    8,
+    7,
+    42,
+    57,
+    102
+   ],
+   "new_bst": 410,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  },
+  {
+   "dex": 246,
+   "species": "LARVITAR",
+   "type": "ROCK/GROUND",
+   "line_root": "LARVITAR",
+   "line_stages": 3,
+   "stage": 1,
+   "rank": 2,
+   "bucket_size": 27,
+   "line_final_bst": 600,
+   "partner_root": "CATERPIE",
+   "swapped": true,
+   "old_stats": [
+    50,
+    64,
+    50,
+    41,
+    45,
+    50
+   ],
+   "old_bst": 300,
+   "target_bst": 195,
+   "new_stats": [
+    33,
+    42,
+    32,
+    27,
+    29,
+    32
+   ],
+   "new_bst": 195,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "30",
+     "PUPITAR"
+    ]
+   ],
+   "where": "Dark Cave Violet Entrance Lv2; Silver Cave Room 1 Lv15; Silver Cave Room 2 Lv15 (+1 more)",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "7",
+     "PUPITAR"
+    ]
+   ]
+  },
+  {
+   "dex": 247,
+   "species": "PUPITAR",
+   "type": "ROCK/GROUND",
+   "line_root": "LARVITAR",
+   "line_stages": 3,
+   "stage": 2,
+   "rank": 2,
+   "bucket_size": 27,
+   "line_final_bst": 600,
+   "partner_root": "CATERPIE",
+   "swapped": true,
+   "old_stats": [
+    70,
+    84,
+    70,
+    51,
+    65,
+    70
+   ],
+   "old_bst": 410,
+   "target_bst": 205,
+   "new_stats": [
+    35,
+    42,
+    35,
+    26,
+    32,
+    35
+   ],
+   "new_bst": 205,
+   "capped": [],
+   "evos": [
+    [
+     "EVOLVE_LEVEL",
+     "55",
+     "TYRANITAR"
+    ]
+   ],
+   "where": "Silver Cave Room 3 Lv40",
+   "new_evos": [
+    [
+     "EVOLVE_LEVEL",
+     "10",
+     "TYRANITAR"
+    ]
+   ]
+  },
+  {
+   "dex": 248,
+   "species": "TYRANITAR",
+   "type": "ROCK/DARK",
+   "line_root": "LARVITAR",
+   "line_stages": 3,
+   "stage": 3,
+   "rank": 2,
+   "bucket_size": 27,
+   "line_final_bst": 600,
+   "partner_root": "CATERPIE",
+   "swapped": true,
+   "old_stats": [
+    100,
+    134,
+    110,
+    61,
+    95,
+    100
+   ],
+   "old_bst": 600,
+   "target_bst": 385,
+   "new_stats": [
+    64,
+    86,
+    71,
+    39,
+    61,
+    64
+   ],
+   "new_bst": 385,
+   "capped": [],
+   "evos": [],
+   "where": "\u2014",
+   "new_evos": []
+  }
+ ],
+ "legendaries": [
+  {
+   "dex": 144,
+   "species": "ARTICUNO",
+   "type": "ICE/FLYING",
+   "bst": 580
+  },
+  {
+   "dex": 145,
+   "species": "ZAPDOS",
+   "type": "ELECTRIC/FLYING",
+   "bst": 580
+  },
+  {
+   "dex": 146,
+   "species": "MOLTRES",
+   "type": "FIRE/FLYING",
+   "bst": 580
+  },
+  {
+   "dex": 150,
+   "species": "MEWTWO",
+   "type": "PSYCHIC_TYPE",
+   "bst": 680
+  },
+  {
+   "dex": 151,
+   "species": "MEW",
+   "type": "PSYCHIC_TYPE",
+   "bst": 600
+  },
+  {
+   "dex": 243,
+   "species": "RAIKOU",
+   "type": "ELECTRIC",
+   "bst": 580
+  },
+  {
+   "dex": 244,
+   "species": "ENTEI",
+   "type": "FIRE",
+   "bst": 580
+  },
+  {
+   "dex": 245,
+   "species": "SUICUNE",
+   "type": "WATER",
+   "bst": 580
+  },
+  {
+   "dex": 249,
+   "species": "LUGIA",
+   "type": "PSYCHIC_TYPE/FLYING",
+   "bst": 680
+  },
+  {
+   "dex": 250,
+   "species": "HO_OH",
+   "type": "FIRE/FLYING",
+   "bst": 680
+  },
+  {
+   "dex": 251,
+   "species": "CELEBI",
+   "type": "PSYCHIC_TYPE/GRASS",
+   "bst": 600
+  }
+ ]
+}

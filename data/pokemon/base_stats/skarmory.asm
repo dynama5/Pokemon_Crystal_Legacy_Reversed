@@ -1,6 +1,6 @@
 	db SKARMORY ; 227
 
-	db  65,  80, 140,  70,  40,  70
+	db  63,  77, 135,  68,  39,  68
 	;   hp  atk  def  spd  sat  sdf
 
 	db STEEL, FLYING ; type

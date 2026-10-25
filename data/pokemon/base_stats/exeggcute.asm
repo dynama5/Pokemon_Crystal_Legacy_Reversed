@@ -1,6 +1,6 @@
 	db EXEGGCUTE ; 102
 
-	db  60,  40,  80,  40,  60,  45
+	db  46,  31,  61,  31,  46,  35
 	;   hp  atk  def  spd  sat  sdf
 
 	db GRASS, PSYCHIC_TYPE ; type

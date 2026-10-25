@@ -1,6 +1,6 @@
 	db SEADRA ; 117
 
-	db  55,  65,  95,  85,  95,  45
+	db  43,  50,  73,  66,  73,  35
 	;   hp  atk  def  spd  sat  sdf
 
 	db WATER, WATER ; type

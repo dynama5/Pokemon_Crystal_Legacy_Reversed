@@ -1,6 +1,6 @@
 	db PONYTA ; 077
 
-	db  50,  85,  55,  100,  65,  65
+	db  21,  36,  24,  43,  28,  28
 	;   hp  atk  def  spd  sat  sdf
 
 	db FIRE, FIRE ; type

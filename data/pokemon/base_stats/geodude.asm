@@ -1,6 +1,6 @@
 	db GEODUDE ; 074
 
-	db  40,  80, 100,  20,  30,  30
+	db  42,  85, 106,  21,  32,  32
 	;   hp  atk  def  spd  sat  sdf
 
 	db ROCK, GROUND ; type

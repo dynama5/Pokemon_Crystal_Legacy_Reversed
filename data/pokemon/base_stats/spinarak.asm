@@ -1,6 +1,6 @@
 	db SPINARAK ; 167
 
-	db  40,  60,  40,  30,  40,  40
+	db  55,  82,  54,  41,  54,  54
 	;   hp  atk  def  spd  sat  sdf
 
 	db BUG, POISON ; type

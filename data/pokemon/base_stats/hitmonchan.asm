@@ -1,6 +1,6 @@
 	db HITMONCHAN ; 107
 
-	db  50, 105,  79,  81,  35, 110
+	db  54, 113,  85,  87,  38, 118
 	;   hp  atk  def  spd  sat  sdf
 
 	db FIGHTING, FIGHTING ; type

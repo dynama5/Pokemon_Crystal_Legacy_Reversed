@@ -1,6 +1,6 @@
 	db TENTACOOL ; 072
 
-	db  40,  40,  35,  70,  50, 100
+	db  31,  31,  28,  55,  39,  78
 	;   hp  atk  def  spd  sat  sdf
 
 	db WATER, POISON ; type

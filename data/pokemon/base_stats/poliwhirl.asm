@@ -1,6 +1,6 @@
 	db POLIWHIRL ; 061
 
-	db  65,  65,  65,  90,  50,  50
+	db  62,  62,  62,  85,  47,  47
 	;   hp  atk  def  spd  sat  sdf
 
 	db WATER, WATER ; type

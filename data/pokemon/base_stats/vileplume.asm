@@ -1,6 +1,6 @@
 	db VILEPLUME ; 045
 
-	db  90,  80,  95,  50, 100,  90
+	db  88,  79,  93,  49,  98,  88
 	;   hp  atk  def  spd  sat  sdf
 
 	db GRASS, POISON ; type

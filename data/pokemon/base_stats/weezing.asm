@@ -1,6 +1,6 @@
 	db WEEZING ; 110
 
-	db  75,  90, 120,  60,  85,  70
+	db  68,  81, 108,  54,  76,  63
 	;   hp  atk  def  spd  sat  sdf
 
 	db POISON, POISON ; type
