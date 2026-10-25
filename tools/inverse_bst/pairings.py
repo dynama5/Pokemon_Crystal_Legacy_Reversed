@@ -246,6 +246,30 @@ for r in rows:
             new_evos.append([method, param, target])
     r["new_evos"] = new_evos
 
+# Starter lines all evolve by level, like the original starters did.
+EVO_OVERRIDES = {"WEEPINBELL": [["EVOLVE_LEVEL", "36", "VICTREEBEL"]]}
+for r in rows:
+    if r["species"] in EVO_OVERRIDES:
+        r["new_evos"] = EVO_OVERRIDES[r["species"]]
+
+# A line whose second evolution kept its own level can end up evolving again
+# before its first evolution (Hoppip 32, Skiploom 27). Keep the line's own gap.
+by_species = {r["species"]: r for r in rows}
+for r in rows:
+    for e in r["new_evos"]:
+        if e[0] != "EVOLVE_LEVEL" or r["stage"] != 2:
+            continue
+        prev = [p for p in rows if any(x[2] == r["species"] and x[0] == "EVOLVE_LEVEL" for x in p["new_evos"])]
+        if not prev:
+            continue
+        first = int(next(x[1] for x in prev[0]["new_evos"] if x[2] == r["species"]))
+        if int(e[1]) <= first:
+            old_first = int(next(x[1] for x in prev[0]["evos"] if x[2] == r["species"]))
+            old_second = int(next(x[1] for x in r["evos"] if x[2] == e[2]))
+            gap = old_second - old_first if old_second > old_first else 10
+            print(f"evolution order fix: {r['species']} {e[1]} -> {first + gap}")
+            e[1] = str(first + gap)
+
 legend_rows = [
     {"dex": dex[s], "species": s, "type": types[s], "bst": bst(s)}
     for s in species if s in LEGENDARIES

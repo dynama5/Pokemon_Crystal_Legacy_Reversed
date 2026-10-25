@@ -53,13 +53,15 @@ for i, line in enumerate(lines):
     if m:
         cur = label_to_sp[m.group(1)]
         continue
-    m = re.match(r"(\s*db EVOLVE_LEVEL,\s*)(\d+)(,\s*)(\w+)(.*)$", line)
+    m = re.match(r"(\s*)db (EVOLVE_\w+),\s*(.*?),\s*(\w+)(\s*(;.*)?)$", line)
     if m and cur in rows:
         new = {e[2]: e for e in rows[cur]["new_evos"]}
-        tgt = m.group(4)
-        lvl = new[tgt][1]
-        if lvl != m.group(2):
-            lines[i] = f"{m.group(1)}{lvl}{m.group(3)}{tgt}{m.group(5)}"
+        method, param, tgt = m.group(2), m.group(3), m.group(4)
+        n_method, n_param, _ = new[tgt]
+        if method == "EVOLVE_STAT":
+            continue  # Tyrogue's stat evolutions are left as they are
+        if (n_method, n_param) != (method, param):
+            lines[i] = f"{m.group(1)}db {n_method}, {n_param}, {tgt}{m.group(5)}"
             evo_changes += 1
 evo_path.write_text("\n".join(lines))
 print("evolution levels changed:", evo_changes)

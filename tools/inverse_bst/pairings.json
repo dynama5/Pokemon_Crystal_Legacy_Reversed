@@ -3050,8 +3050,8 @@
    "where": "Route 44 Lv32",
    "new_evos": [
     [
-     "EVOLVE_ITEM",
-     "LEAF_STONE",
+     "EVOLVE_LEVEL",
+     "36",
      "VICTREEBEL"
     ]
    ]
@@ -7817,7 +7817,7 @@
    "new_evos": [
     [
      "EVOLVE_LEVEL",
-     "27",
+     "41",
      "JUMPLUFF"
     ]
    ]

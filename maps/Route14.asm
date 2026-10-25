@@ -63,8 +63,8 @@ PokefanmCarterBeatenText:
 	done
 
 PokefanmCarterAfterBattleText:
-	text "TOTODILE, CYNDA-"
-	line "QUIL, CHIKORITA…"
+	text "GEODUDE, PIDGEY,"
+	line "BELLSPROUT…"
 
 	para "I think that's a"
 	line "well-balanced mix."

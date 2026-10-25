@@ -30,6 +30,26 @@ THEMES = {
     "SabrinaGroup": "PSYCHIC_TYPE", "BlaineGroup": "FIRE",
 }
 
+# New starter triangle (Flying > Grass > Rock > Flying) takes over each Johto
+# starter slot so the rival still picks the one that beats yours.
+STARTER_MAP = {
+    "CYNDAQUIL": "PIDGEY", "QUILAVA": "PIDGEOTTO", "TYPHLOSION": "PIDGEOT",
+    "TOTODILE": "GEODUDE", "CROCONAW": "GRAVELER", "FERALIGATR": "GOLEM",
+    "CHIKORITA": "BELLSPROUT", "BAYLEEF": "WEEPINBELL", "MEGANIUM": "VICTREEBEL",
+}
+
+# Type-boosting held items follow the new Pokémon's type.
+TYPE_ITEMS = {
+    "CHARCOAL": "FIRE", "MYSTIC_WATER": "WATER", "MIRACLE_SEED": "GRASS", "MAGNET": "ELECTRIC",
+    "NEVERMELTICE": "ICE", "BLACKBELT_I": "FIGHTING", "POISON_BARB": "POISON", "SOFT_SAND": "GROUND",
+    "SHARP_BEAK": "FLYING", "TWISTEDSPOON": "PSYCHIC_TYPE", "SILVERPOWDER": "BUG", "HARD_STONE": "ROCK",
+    "SPELL_TAG": "GHOST", "DRAGON_FANG": "DRAGON", "BLACKGLASSES": "DARK", "METAL_COAT": "STEEL",
+    "PINK_BOW": "NORMAL", "POLKADOT_BOW": "NORMAL",
+}
+ITEM_FOR_TYPE = {}
+for _item, _type in TYPE_ITEMS.items():
+    ITEM_FOR_TYPE.setdefault(_type, _item)
+
 # Item that only works on one line; dropped if the new species can't use it.
 SPECIES_ITEMS = {"LIGHT_BALL": {"PIKACHU"}, "THICK_CLUB": {"CUBONE", "MAROWAK"},
                  "STICK": {"FARFETCH_D"}, "LUCKY_PUNCH": {"CHANSEY"}, "METAL_POWDER": {"DITTO"}}
@@ -38,11 +58,13 @@ SPECIES_ITEMS = {"LIGHT_BALL": {"PIKACHU"}, "THICK_CLUB": {"CUBONE", "MAROWAK"},
 rows = {r["species"]: r for r in PAIR["rows"]}
 species_all = [r["species"] for r in sorted(PAIR["rows"], key=lambda r: r["dex"])]
 
-types, old_bst, base_tmhm = {}, {}, {}
+types, primary, old_bst, base_tmhm = {}, {}, {}, {}
 for f in (ROOT / "data/pokemon/base_stats").glob("*.asm"):
     txt = f.read_text()
     sp = re.search(r"db (\w+) ;", txt).group(1)
-    types[sp] = set(re.search(r"db (\w+), (\w+) ; type", txt).groups())
+    _t = re.search(r"db (\w+), (\w+) ; type", txt).groups()
+    types[sp] = set(_t)
+    primary[sp] = _t[0]
     nums = re.search(r"db\s+(\d+),\s*(\d+),\s*(\d+),\s*(\d+),\s*(\d+),\s*(\d+)\s*\n\s*;\s*hp", txt)
     old_bst[sp] = sum(int(x) for x in nums.groups())
     m = re.search(r"^\s*tmhm (.*)$", txt, re.M)
@@ -134,6 +156,9 @@ def pick(orig, level, theme, used):
     """used maps already-chosen replacement -> the original species it replaced."""
     if orig in LEGENDARIES or orig not in old_bst:
         return orig, 0, "kept", 0
+    if orig in STARTER_MAP:  # rival and anyone else using a Johto starter
+        c = STARTER_MAP[orig]
+        return c, new_bst[c] - old_bst[orig], "starter", -1
     # A leader's deliberate off-type pick (Karen's Gengar) keeps its own typing instead.
     if theme and theme not in types[orig]:
         theme = None
@@ -245,6 +270,14 @@ while i < len(src):
             tgt = rec["item_line"] if rec["item_line"] is not None else rec["line"]
             out[tgt] = re.sub(r"\b" + rec["item"] + r"\b", "NO_ITEM", out[tgt], count=1)
             entry["item_note"] = f"{rec['item']} removed"
+        elif rec["item"] in TYPE_ITEMS and TYPE_ITEMS[rec["item"]] not in types[new_sp]:
+            # Normal/Flying birds get a Flying item rather than a Normal one
+            other = [t for t in types[new_sp] if t != primary[new_sp]]
+            pick_type = other[0] if primary[new_sp] == "NORMAL" and other else primary[new_sp]
+            swap_item = ITEM_FOR_TYPE.get(pick_type, "NO_ITEM")
+            tgt = rec["item_line"] if rec["item_line"] is not None else rec["line"]
+            out[tgt] = re.sub(r"\b" + rec["item"] + r"\b", swap_item, out[tgt], count=1)
+            entry["item_note"] = f"{rec['item']} → {swap_item}"
         if rec["moves"]:
             mv, kept, total = new_moves(rec["moves"], new_sp, rec["lvl"]) if new_sp != sp else (rec["moves"], 4, 4)
             entry["old_moves"], entry["new_moves"] = rec["moves"], mv

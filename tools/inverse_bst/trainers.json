@@ -1201,6 +1201,7 @@
     "new_bst": 480,
     "diff": 0,
     "note": "",
+    "item_note": "SOFT_SAND \u2192 MYSTIC_WATER",
     "old_moves": [
      "STRENGTH",
      "EARTHQUAKE",
@@ -2388,7 +2389,7 @@
     "old_bst": 318,
     "new_bst": 314,
     "diff": -4,
-    "note": ""
+    "note": "starter"
    }
   ]
  },
@@ -2401,11 +2402,11 @@
    {
     "lvl": 5,
     "old": "CYNDAQUIL",
-    "new": "MAGBY",
+    "new": "PIDGEY",
     "old_bst": 309,
-    "new_bst": 310,
-    "diff": 1,
-    "note": ""
+    "new_bst": 309,
+    "diff": 0,
+    "note": "starter"
    }
   ]
  },
@@ -2418,11 +2419,11 @@
    {
     "lvl": 5,
     "old": "TOTODILE",
-    "new": "STARYU",
+    "new": "GEODUDE",
     "old_bst": 314,
-    "new_bst": 320,
-    "diff": 6,
-    "note": ""
+    "new_bst": 318,
+    "diff": 4,
+    "note": "starter"
    }
   ]
  },
@@ -2457,7 +2458,7 @@
     "old_bst": 405,
     "new_bst": 405,
     "diff": 0,
-    "note": ""
+    "note": "starter"
    }
   ]
  },
@@ -2488,11 +2489,11 @@
    {
     "lvl": 18,
     "old": "QUILAVA",
-    "new": "ARCANINE",
+    "new": "PIDGEOTTO",
     "old_bst": 405,
     "new_bst": 405,
     "diff": 0,
-    "note": ""
+    "note": "starter"
    }
   ]
  },
@@ -2523,11 +2524,11 @@
    {
     "lvl": 18,
     "old": "CROCONAW",
-    "new": "WARTORTLE",
+    "new": "GRAVELER",
     "old_bst": 405,
-    "new_bst": 390,
-    "diff": -15,
-    "note": ""
+    "new_bst": 405,
+    "diff": 0,
+    "note": "starter"
    }
   ]
  },
@@ -2610,7 +2611,7 @@
     "old_bst": 405,
     "new_bst": 405,
     "diff": 0,
-    "note": "",
+    "note": "starter",
     "old_moves": [
      "MEGA_DRAIN",
      "RAZOR_LEAF",
@@ -2702,11 +2703,11 @@
    {
     "lvl": 24,
     "old": "QUILAVA",
-    "new": "ARCANINE",
+    "new": "PIDGEOTTO",
     "old_bst": 405,
     "new_bst": 405,
     "diff": 0,
-    "note": "",
+    "note": "starter",
     "old_moves": [
      "FLAME_WHEEL",
      "DIG",
@@ -2714,12 +2715,12 @@
      "SMOKESCREEN"
     ],
     "new_moves": [
-     "FLAME_WHEEL",
-     "DIG",
-     "ROAR",
-     "AGILITY"
+     "QUICK_ATTACK",
+     "WHIRLWIND",
+     "TACKLE",
+     "SAND_ATTACK"
     ],
-    "moves_kept": "2/4"
+    "moves_kept": "1/4"
    }
   ]
  },
@@ -2798,11 +2799,11 @@
    {
     "lvl": 24,
     "old": "CROCONAW",
-    "new": "WARTORTLE",
+    "new": "GRAVELER",
     "old_bst": 405,
-    "new_bst": 390,
-    "diff": -15,
-    "note": "",
+    "new_bst": 405,
+    "diff": 0,
+    "note": "starter",
     "old_moves": [
      "BITE",
      "ICE_PUNCH",
@@ -2810,12 +2811,12 @@
      "MUD_SLAP"
     ],
     "new_moves": [
-     "BITE",
-     "ICE_PUNCH",
-     "WATER_GUN",
-     "MUD_SLAP"
+     "MUD_SLAP",
+     "SELFDESTRUCT",
+     "MAGNITUDE",
+     "TACKLE"
     ],
-    "moves_kept": "4/4"
+    "moves_kept": "1/4"
    }
   ]
  },
@@ -2920,7 +2921,7 @@
     "old_bst": 525,
     "new_bst": 530,
     "diff": 5,
-    "note": "",
+    "note": "starter",
     "old_moves": [
      "SYNTHESIS",
      "RAZOR_LEAF",
@@ -3034,11 +3035,11 @@
    {
     "lvl": 40,
     "old": "TYPHLOSION",
-    "new": "MAGCARGO",
+    "new": "PIDGEOT",
     "old_bst": 534,
-    "new_bst": 483,
-    "diff": -51,
-    "note": "",
+    "new_bst": 534,
+    "diff": 0,
+    "note": "starter",
     "old_moves": [
      "THUNDERPUNCH",
      "FLAMETHROWER",
@@ -3046,10 +3047,10 @@
      "IRON_TAIL"
     ],
     "new_moves": [
-     "FLAMETHROWER",
-     "AMNESIA",
-     "FLAME_WHEEL",
-     "SMOG"
+     "QUICK_ATTACK",
+     "EXTREMESPEED",
+     "MUD_SLAP",
+     "WING_ATTACK"
     ],
     "moves_kept": "1/4"
    }
@@ -3152,11 +3153,11 @@
    {
     "lvl": 40,
     "old": "FERALIGATR",
-    "new": "AZUMARILL",
+    "new": "GOLEM",
     "old_bst": 530,
-    "new_bst": 520,
-    "diff": -10,
-    "note": "",
+    "new_bst": 525,
+    "diff": -5,
+    "note": "starter",
     "old_moves": [
      "ICE_PUNCH",
      "SURF",
@@ -3164,12 +3165,12 @@
      "BITE"
     ],
     "new_moves": [
-     "ICE_PUNCH",
-     "SURF",
-     "DOUBLE_EDGE",
-     "RAIN_DANCE"
+     "ROCK_SLIDE",
+     "ROLLOUT",
+     "HARDEN",
+     "SELFDESTRUCT"
     ],
-    "moves_kept": "2/4"
+    "moves_kept": "0/4"
    }
   ]
  },
@@ -3274,7 +3275,7 @@
     "old_bst": 525,
     "new_bst": 530,
     "diff": 5,
-    "note": "",
+    "note": "starter",
     "old_moves": [
      "SUNNY_DAY",
      "GIGA_DRAIN",
@@ -3410,11 +3411,12 @@
    {
     "lvl": 47,
     "old": "TYPHLOSION",
-    "new": "MAGCARGO",
+    "new": "PIDGEOT",
     "old_bst": 534,
-    "new_bst": 483,
-    "diff": -51,
-    "note": "",
+    "new_bst": 534,
+    "diff": 0,
+    "note": "starter",
+    "item_note": "CHARCOAL \u2192 SHARP_BEAK",
     "old_moves": [
      "FLAMETHROWER",
      "QUICK_ATTACK",
@@ -3422,10 +3424,10 @@
      "THUNDERPUNCH"
     ],
     "new_moves": [
-     "FLAMETHROWER",
-     "BODY_SLAM",
-     "ROCK_SLIDE",
-     "AMNESIA"
+     "QUICK_ATTACK",
+     "SKY_ATTACK",
+     "AGILITY",
+     "EXTREMESPEED"
     ],
     "moves_kept": "1/4"
    },
@@ -3550,11 +3552,12 @@
    {
     "lvl": 47,
     "old": "FERALIGATR",
-    "new": "AZUMARILL",
+    "new": "GOLEM",
     "old_bst": 530,
-    "new_bst": 520,
-    "diff": -10,
-    "note": "",
+    "new_bst": 525,
+    "diff": -5,
+    "note": "starter",
+    "item_note": "MYSTIC_WATER \u2192 HARD_STONE",
     "old_moves": [
      "ICE_PUNCH",
      "SURF",
@@ -3562,12 +3565,12 @@
      "BITE"
     ],
     "new_moves": [
-     "ICE_PUNCH",
-     "SURF",
-     "HYDRO_PUMP",
-     "DOUBLE_EDGE"
+     "EARTHQUAKE",
+     "ROCK_SLIDE",
+     "ROLLOUT",
+     "HARDEN"
     ],
-    "moves_kept": "2/4"
+    "moves_kept": "0/4"
    },
    {
     "lvl": 48,
@@ -3864,25 +3867,25 @@
     "old_bst": 318,
     "new_bst": 314,
     "diff": -4,
-    "note": ""
+    "note": "starter"
    },
    {
     "lvl": 10,
     "old": "CYNDAQUIL",
-    "new": "MAGBY",
+    "new": "PIDGEY",
     "old_bst": 309,
-    "new_bst": 310,
-    "diff": 1,
-    "note": ""
+    "new_bst": 309,
+    "diff": 0,
+    "note": "starter"
    },
    {
     "lvl": 10,
     "old": "TOTODILE",
-    "new": "STARYU",
+    "new": "GEODUDE",
     "old_bst": 314,
-    "new_bst": 320,
-    "diff": 6,
-    "note": ""
+    "new_bst": 318,
+    "diff": 4,
+    "note": "starter"
    }
   ]
  },
@@ -3899,25 +3902,25 @@
     "old_bst": 405,
     "new_bst": 405,
     "diff": 0,
-    "note": ""
+    "note": "starter"
    },
    {
     "lvl": 30,
     "old": "QUILAVA",
-    "new": "ARCANINE",
+    "new": "PIDGEOTTO",
     "old_bst": 405,
     "new_bst": 405,
     "diff": 0,
-    "note": ""
+    "note": "starter"
    },
    {
     "lvl": 30,
     "old": "CROCONAW",
-    "new": "WARTORTLE",
+    "new": "GRAVELER",
     "old_bst": 405,
-    "new_bst": 390,
-    "diff": -15,
-    "note": ""
+    "new_bst": 405,
+    "diff": 0,
+    "note": "starter"
    }
   ]
  },
@@ -4001,6 +4004,7 @@
     "new_bst": 500,
     "diff": 0,
     "note": "",
+    "item_note": "METAL_COAT \u2192 SILVERPOWDER",
     "old_moves": [
      "TWINEEDLE",
      "SWORDS_DANCE",
@@ -4040,11 +4044,11 @@
    {
     "lvl": 70,
     "old": "FERALIGATR",
-    "new": "AZUMARILL",
+    "new": "GOLEM",
     "old_bst": 530,
-    "new_bst": 520,
-    "diff": -10,
-    "note": "",
+    "new_bst": 525,
+    "diff": -5,
+    "note": "starter",
     "old_moves": [
      "SURF",
      "EARTHQUAKE",
@@ -4052,12 +4056,12 @@
      "CRUNCH"
     ],
     "new_moves": [
-     "SURF",
-     "ICE_PUNCH",
-     "HYDRO_PUMP",
-     "DOUBLE_EDGE"
+     "EARTHQUAKE",
+     "EXPLOSION",
+     "ROCK_SLIDE",
+     "ROLLOUT"
     ],
-    "moves_kept": "2/4"
+    "moves_kept": "1/4"
    }
   ]
  },
@@ -4096,7 +4100,7 @@
     "old_bst": 525,
     "new_bst": 530,
     "diff": 5,
-    "note": "",
+    "note": "starter",
     "old_moves": [
      "GIGA_DRAIN",
      "LIGHT_SCREEN",
@@ -4185,6 +4189,7 @@
     "new_bst": 555,
     "diff": 0,
     "note": "no shared type",
+    "item_note": "CHARCOAL \u2192 SILVERPOWDER",
     "old_moves": [
      "FIRE_BLAST",
      "EXTREMESPEED",
@@ -4259,6 +4264,7 @@
     "new_bst": 495,
     "diff": 35,
     "note": "",
+    "item_note": "PINK_BOW \u2192 BLACKBELT_I",
     "old_moves": [
      "BODY_SLAM",
      "MEDITATE",
@@ -4539,6 +4545,7 @@
     "new_bst": 455,
     "diff": 5,
     "note": "",
+    "item_note": "SHARP_BEAK \u2192 BLACKGLASSES",
     "old_moves": [
      "DRILL_PECK",
      "FAINT_ATTACK",
@@ -4657,6 +4664,7 @@
     "new_bst": 455,
     "diff": 5,
     "note": "",
+    "item_note": "SHARP_BEAK \u2192 BLACKGLASSES",
     "old_moves": [
      "SKY_ATTACK",
      "PURSUIT",
@@ -4701,6 +4709,7 @@
     "new_bst": 465,
     "diff": -35,
     "note": "",
+    "item_note": "CHARCOAL \u2192 BLACKGLASSES",
     "old_moves": [
      "FLAMETHROWER",
      "CRUNCH",
@@ -5033,6 +5042,7 @@
     "new_bst": 534,
     "diff": 0,
     "note": "",
+    "item_note": "CHARCOAL \u2192 SHARP_BEAK",
     "old_moves": [
      "FLAMETHROWER",
      "WING_ATTACK",
@@ -5129,6 +5139,7 @@
     "new_bst": 600,
     "diff": 0,
     "note": "no shared type",
+    "item_note": "MAGNET \u2192 SILVERPOWDER",
     "old_moves": [
      "CRUNCH",
      "ROCK_SLIDE",
@@ -5239,6 +5250,7 @@
     "new_bst": 600,
     "diff": 0,
     "note": "off-theme",
+    "item_note": "PINK_BOW \u2192 SILVERPOWDER",
     "old_moves": [
      "IRON_TAIL",
      "CURSE",
@@ -5357,6 +5369,7 @@
     "new_bst": 600,
     "diff": 0,
     "note": "off-theme",
+    "item_note": "MAGNET \u2192 SILVERPOWDER",
     "old_moves": [
      "CRUNCH",
      "ROCK_SLIDE",
@@ -5497,6 +5510,7 @@
     "new_bst": 500,
     "diff": -35,
     "note": "",
+    "item_note": "NEVERMELTICE \u2192 MYSTIC_WATER",
     "old_moves": [
      "SURF",
      "ICE_BEAM",
@@ -5893,6 +5907,7 @@
     "new_bst": 480,
     "diff": 0,
     "note": "",
+    "item_note": "POISON_BARB \u2192 MIRACLE_SEED",
     "old_moves": [
      "SLUDGE_BOMB",
      "GIGA_DRAIN",
@@ -8317,6 +8332,7 @@
     "new_bst": 505,
     "diff": -10,
     "note": "",
+    "item_note": "MYSTIC_WATER \u2192 POISON_BARB",
     "old_moves": [
      "SURF",
      "ICE_BEAM",
@@ -16515,6 +16531,7 @@
     "new_bst": 480,
     "diff": 0,
     "note": "",
+    "item_note": "NEVERMELTICE \u2192 MYSTIC_WATER",
     "old_moves": [
      "SURF",
      "ICE_BEAM",
@@ -16558,7 +16575,7 @@
     "old_bst": 525,
     "new_bst": 530,
     "diff": 5,
-    "note": "",
+    "note": "starter",
     "old_moves": [
      "REFLECT",
      "GIGA_DRAIN",
@@ -16628,10 +16645,10 @@
    {
     "lvl": 64,
     "old": "CROBAT",
-    "new": "PIDGEOT",
+    "new": "VICTREEBEL",
     "old_bst": 535,
-    "new_bst": 534,
-    "diff": -1,
+    "new_bst": 530,
+    "diff": -5,
     "note": "",
     "old_moves": [
      "TOXIC",
@@ -16642,10 +16659,10 @@
     "new_moves": [
      "TOXIC",
      "DOUBLE_TEAM",
-     "WING_ATTACK",
-     "MIRROR_MOVE"
+     "SLAM",
+     "SLUDGE_BOMB"
     ],
-    "moves_kept": "3/4"
+    "moves_kept": "2/4"
    },
    {
     "lvl": 64,
@@ -16655,6 +16672,7 @@
     "new_bst": 480,
     "diff": 0,
     "note": "",
+    "item_note": "NEVERMELTICE \u2192 MYSTIC_WATER",
     "old_moves": [
      "SURF",
      "ICE_BEAM",
@@ -16694,11 +16712,12 @@
    {
     "lvl": 64,
     "old": "TYPHLOSION",
-    "new": "MAGCARGO",
+    "new": "PIDGEOT",
     "old_bst": 534,
-    "new_bst": 483,
-    "diff": -51,
-    "note": "",
+    "new_bst": 534,
+    "diff": 0,
+    "note": "starter",
+    "item_note": "CHARCOAL \u2192 SHARP_BEAK",
     "old_moves": [
      "FIRE_BLAST",
      "EARTHQUAKE",
@@ -16706,12 +16725,12 @@
      "THUNDERPUNCH"
     ],
     "new_moves": [
-     "FIRE_BLAST",
-     "EARTHQUAKE",
-     "BODY_SLAM",
-     "ROCK_SLIDE"
+     "MIRROR_MOVE",
+     "SKY_ATTACK",
+     "AGILITY",
+     "EXTREMESPEED"
     ],
-    "moves_kept": "2/4"
+    "moves_kept": "0/4"
    },
    {
     "lvl": 64,
@@ -16834,11 +16853,11 @@
    {
     "lvl": 64,
     "old": "FERALIGATR",
-    "new": "AZUMARILL",
+    "new": "GOLEM",
     "old_bst": 530,
-    "new_bst": 520,
-    "diff": -10,
-    "note": "",
+    "new_bst": 525,
+    "diff": -5,
+    "note": "starter",
     "old_moves": [
      "ICE_BEAM",
      "SURF",
@@ -16846,12 +16865,12 @@
      "EARTHQUAKE"
     ],
     "new_moves": [
-     "ICE_BEAM",
-     "SURF",
-     "HYDRO_PUMP",
-     "DOUBLE_EDGE"
+     "EARTHQUAKE",
+     "EXPLOSION",
+     "ROCK_SLIDE",
+     "ROLLOUT"
     ],
-    "moves_kept": "2/4"
+    "moves_kept": "1/4"
    },
    {
     "lvl": 64,
@@ -16935,6 +16954,7 @@
     "new_bst": 480,
     "diff": 0,
     "note": "",
+    "item_note": "NEVERMELTICE \u2192 MYSTIC_WATER",
     "old_moves": [
      "SURF",
      "ICE_BEAM",
@@ -16978,7 +16998,7 @@
     "old_bst": 525,
     "new_bst": 530,
     "diff": 5,
-    "note": "",
+    "note": "starter",
     "old_moves": [
      "REFLECT",
      "GIGA_DRAIN",
@@ -17048,10 +17068,10 @@
    {
     "lvl": 68,
     "old": "CROBAT",
-    "new": "PIDGEOT",
+    "new": "VICTREEBEL",
     "old_bst": 535,
-    "new_bst": 534,
-    "diff": -1,
+    "new_bst": 530,
+    "diff": -5,
     "note": "",
     "old_moves": [
      "TOXIC",
@@ -17062,10 +17082,10 @@
     "new_moves": [
      "TOXIC",
      "DOUBLE_TEAM",
-     "FLY",
-     "MIRROR_MOVE"
+     "SLAM",
+     "SLUDGE_BOMB"
     ],
-    "moves_kept": "3/4"
+    "moves_kept": "2/4"
    },
    {
     "lvl": 68,
@@ -17075,6 +17095,7 @@
     "new_bst": 480,
     "diff": 0,
     "note": "",
+    "item_note": "NEVERMELTICE \u2192 MYSTIC_WATER",
     "old_moves": [
      "SURF",
      "ICE_BEAM",
@@ -17114,11 +17135,12 @@
    {
     "lvl": 68,
     "old": "TYPHLOSION",
-    "new": "MAGCARGO",
+    "new": "PIDGEOT",
     "old_bst": 534,
-    "new_bst": 483,
-    "diff": -51,
-    "note": "",
+    "new_bst": 534,
+    "diff": 0,
+    "note": "starter",
+    "item_note": "CHARCOAL \u2192 SHARP_BEAK",
     "old_moves": [
      "FIRE_BLAST",
      "EARTHQUAKE",
@@ -17126,12 +17148,12 @@
      "THUNDERPUNCH"
     ],
     "new_moves": [
-     "FIRE_BLAST",
-     "EARTHQUAKE",
-     "BODY_SLAM",
-     "ROCK_SLIDE"
+     "MIRROR_MOVE",
+     "SKY_ATTACK",
+     "AGILITY",
+     "EXTREMESPEED"
     ],
-    "moves_kept": "2/4"
+    "moves_kept": "0/4"
    },
    {
     "lvl": 68,
@@ -17254,11 +17276,11 @@
    {
     "lvl": 68,
     "old": "FERALIGATR",
-    "new": "AZUMARILL",
+    "new": "GOLEM",
     "old_bst": 530,
-    "new_bst": 520,
-    "diff": -10,
-    "note": "",
+    "new_bst": 525,
+    "diff": -5,
+    "note": "starter",
     "old_moves": [
      "ICE_BEAM",
      "SURF",
@@ -17266,12 +17288,12 @@
      "EARTHQUAKE"
     ],
     "new_moves": [
-     "ICE_BEAM",
-     "SURF",
-     "HYDRO_PUMP",
-     "DOUBLE_EDGE"
+     "EARTHQUAKE",
+     "EXPLOSION",
+     "ROCK_SLIDE",
+     "ROLLOUT"
     ],
-    "moves_kept": "2/4"
+    "moves_kept": "1/4"
    },
    {
     "lvl": 68,
@@ -18614,6 +18636,7 @@
     "new_bst": 475,
     "diff": -25,
     "note": "",
+    "item_note": "MIRACLE_SEED \u2192 CHARCOAL",
     "old_moves": [
      "FIRE_BLAST",
      "SUNNY_DAY",
@@ -18680,6 +18703,7 @@
     "new_bst": 555,
     "diff": 0,
     "note": "off-theme",
+    "item_note": "CHARCOAL \u2192 SILVERPOWDER",
     "old_moves": [
      "CRUNCH",
      "DRAGONBREATH",
@@ -23270,25 +23294,25 @@
     "old_bst": 318,
     "new_bst": 314,
     "diff": -4,
-    "note": ""
+    "note": "starter"
    },
    {
     "lvl": 65,
     "old": "CYNDAQUIL",
-    "new": "MAGBY",
+    "new": "PIDGEY",
     "old_bst": 309,
-    "new_bst": 310,
-    "diff": 1,
-    "note": ""
+    "new_bst": 309,
+    "diff": 0,
+    "note": "starter"
    },
    {
     "lvl": 65,
     "old": "TOTODILE",
-    "new": "STARYU",
+    "new": "GEODUDE",
     "old_bst": 314,
-    "new_bst": 320,
-    "diff": 6,
-    "note": ""
+    "new_bst": 318,
+    "diff": 4,
+    "note": "starter"
    }
   ]
  },
@@ -24268,6 +24292,7 @@
     "new_bst": 534,
     "diff": 0,
     "note": "",
+    "item_note": "CHARCOAL \u2192 SHARP_BEAK",
     "old_moves": [
      "FIRE_BLAST",
      "WING_ATTACK",
@@ -24409,6 +24434,7 @@
     "new_bst": 534,
     "diff": 0,
     "note": "",
+    "item_note": "CHARCOAL \u2192 SHARP_BEAK",
     "old_moves": [
      "FIRE_BLAST",
      "WING_ATTACK",
@@ -24615,6 +24641,7 @@
     "new_bst": 555,
     "diff": 0,
     "note": "no shared type",
+    "item_note": "PINK_BOW \u2192 SILVERPOWDER",
     "old_moves": [
      "FLAMETHROWER",
      "CURSE",
@@ -24755,6 +24782,7 @@
     "new_bst": 555,
     "diff": 0,
     "note": "no shared type",
+    "item_note": "PINK_BOW \u2192 SILVERPOWDER",
     "old_moves": [
      "FLAMETHROWER",
      "CURSE",

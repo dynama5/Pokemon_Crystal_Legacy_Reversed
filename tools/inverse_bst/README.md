@@ -24,12 +24,16 @@ Run against a fresh upstream checkout, never on this repo after the changes are 
 ```sh
 git clone https://github.com/cRz-Shadows/Pokemon_Crystal_Legacy /tmp/legacy
 python3 tools/inverse_bst/pairings.py /tmp/legacy tools/inverse_bst/pairings.json
-git checkout -- data/   # start from Legacy's original data
+git checkout 77e6b38 -- data/pokemon data/wild data/trainers   # Legacy's original data
 python3 tools/inverse_bst/apply.py tools/inverse_bst/pairings.json .
 python3 tools/inverse_bst/trainers.py /tmp/legacy tools/inverse_bst/pairings.json data/trainers/parties.asm tools/inverse_bst/trainers.json
 make
 ```
 
+## Starters
+
+Elm's Lab gives Pidgey (Flying), Geodude (Rock/Ground) and Bellsprout (Grass) in place of Cyndaquil, Totodile and Chikorita. Johto starter lines in trainer teams map to these (`STARTER_MAP` in `trainers.py`), so the rival still takes the starter that beats yours. Weepinbell evolves at Lv 36 (`EVO_OVERRIDES` in `pairings.py`). Elm's Lab, Route 14, the Rocket Hideout trap and Kyle's trade were edited by hand.
+
 ## Not swapped yet
 
-Gift Pokémon (starters, Eevee, Dratini, fossils, Togepi egg and so on), static encounters (Sudowoodo, Snorlax, red Gyarados, Lapras, Electrode), and in-game trades still use the original species.
+Other gift Pokémon (Eevee, Dratini, fossils, Togepi egg and so on), static encounters (Sudowoodo, Snorlax, red Gyarados, Lapras, Electrode), and the remaining in-game trades still use the original species.
