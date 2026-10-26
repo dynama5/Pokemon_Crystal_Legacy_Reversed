@@ -1818,8 +1818,8 @@
    "where": "Ice Path 1F Lv22; Mount Mortar 1F Inside Lv22; Mount Mortar 1F Outside Lv22 (+28 more)",
    "new_evos": [
     [
-     "EVOLVE_HAPPINESS",
-     "TR_ANYTIME",
+     "EVOLVE_LEVEL",
+     "36",
      "CROBAT"
     ]
    ]
@@ -4860,8 +4860,8 @@
    "where": "Route 13 Lv25; Route 15 Lv25; Route 14 Lv28",
    "new_evos": [
     [
-     "EVOLVE_HAPPINESS",
-     "TR_ANYTIME",
+     "EVOLVE_LEVEL",
+     "18",
      "BLISSEY"
     ]
    ]
@@ -5699,13 +5699,13 @@
      "FLAREON"
     ],
     [
-     "EVOLVE_HAPPINESS",
-     "TR_MORNDAY",
+     "EVOLVE_ITEM",
+     "SUN_STONE",
      "ESPEON"
     ],
     [
-     "EVOLVE_HAPPINESS",
-     "TR_NITE",
+     "EVOLVE_ITEM",
+     "MOON_STONE",
      "UMBREON"
     ]
    ]
@@ -7132,8 +7132,8 @@
    "where": "Route 31 Lv5",
    "new_evos": [
     [
-     "EVOLVE_HAPPINESS",
-     "TR_ANYTIME",
+     "EVOLVE_LEVEL",
+     "10",
      "PIKACHU"
     ]
    ]
@@ -7180,8 +7180,8 @@
    "where": "\u2014",
    "new_evos": [
     [
-     "EVOLVE_HAPPINESS",
-     "TR_ANYTIME",
+     "EVOLVE_LEVEL",
+     "10",
      "CLEFAIRY"
     ]
    ]
@@ -7228,8 +7228,8 @@
    "where": "\u2014",
    "new_evos": [
     [
-     "EVOLVE_HAPPINESS",
-     "TR_ANYTIME",
+     "EVOLVE_LEVEL",
+     "10",
      "JIGGLYPUFF"
     ]
    ]
@@ -7276,8 +7276,8 @@
    "where": "\u2014",
    "new_evos": [
     [
-     "EVOLVE_HAPPINESS",
-     "TR_ANYTIME",
+     "EVOLVE_LEVEL",
+     "26",
      "TOGETIC"
     ]
    ]

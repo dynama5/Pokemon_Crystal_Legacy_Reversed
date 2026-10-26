@@ -900,7 +900,7 @@ SchoolboyGroup:
 	db 27, SCYTHER
 	db 27, EXEGGUTOR
 	db 30, GOLDUCK
-	db 30, CROBAT
+	db 30, SCIZOR
 	db -1 ; end
 
 	; SCHOOLBOY (22)
@@ -944,7 +944,7 @@ BirdKeeperGroup:
 
 	; BIRD_KEEPER (4)
 	db "THEO@", TRAINERTYPE_NORMAL
-	db 23, CROBAT
+	db 23, SKARMORY
 	db -1 ; end
 
 	; BIRD_KEEPER (5)
@@ -1695,14 +1695,14 @@ GruntMGroup:
 
 	; GRUNTM (6)
 	db "GRUNT@", TRAINERTYPE_NORMAL
-	db 34, CROBAT
+	db 34, SKARMORY
 	db 34, XATU
 	db -1 ; end
 
 	; GRUNTM (7)
 	db "GRUNT@", TRAINERTYPE_NORMAL
 	db 34, TAUROS
-	db 34, CROBAT
+	db 34, SKARMORY
 	db 34, YANMA
 	db -1 ; end
 
@@ -1783,7 +1783,7 @@ GruntMGroup:
 	; GRUNTM (20)
 	db "GRUNT@", TRAINERTYPE_NORMAL
 	db 26, DROWZEE
-	db 26, CROBAT
+	db 26, SKARMORY
 	db -1 ; end
 
 	; GRUNTM (21)
@@ -1998,7 +1998,7 @@ BugCatcherGroup:
 
 	; BUG_CATCHER (13)
 	db "ARNIE@", TRAINERTYPE_NORMAL
-	db 28, CROBAT
+	db 28, SCIZOR
 	db 28, VENONAT
 	db -1 ; end
 
@@ -3526,7 +3526,7 @@ ExecutiveFGroup:
 	db 31, MUK,          SLUDGE_BOMB, SCREECH, MINIMIZE, SLUDGE
 	db 30, PORYGON2,        DEFENSE_CURL, RECOVER, PSYBEAM, AGILITY
 	db 30, NIDOQUEEN,      SLUDGE_BOMB, MAGNITUDE, BODY_SLAM, TACKLE
-	db 31, CROBAT,        FLY, TOXIC, SLUDGE, WING_ATTACK
+	db 31, SKARMORY,        FLY, TOXIC, STEEL_WING, WING_ATTACK
 	db -1 ; end
 
 SageGroup:

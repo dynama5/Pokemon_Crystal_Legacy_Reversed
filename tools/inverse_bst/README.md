@@ -14,6 +14,7 @@ Rules baked in:
 
 - Each Pokémon keeps its own stat spread, scaled to its partner's BST at the same stage. Stats cap at 255.
 - Level evolutions take the partner line's levels when both lines evolve by level. Stone, friendship and trade evolutions keep their method.
+- No friendship evolutions (`EVO_OVERRIDES` in `pairings.py`): Pichu, Cleffa and Igglybuff evolve at Lv 10, Chansey at Lv 18, Togepi at Lv 26, Golbat at Lv 36, and Eevee becomes Espeon with a Sun Stone and Umbreon with a Moon Stone. Trainer teams that had Crobat below Lv 36 now use another Pokémon of the same power.
 - Wild slots: each species takes its partner's spots (same stage). `wild_swap.json` lists the mapping.
 - Trainers: each Pokémon becomes one whose new BST matches the original's old BST, sharing a type with it. Gym leaders and the Elite Four keep their specialty type when a close match exists. Moves are kept when learnable, otherwise filled from the level-up list.
 

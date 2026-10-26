@@ -607,7 +607,7 @@ ZubatEvosAttacks:
 	db 0 ; no more level-up moves
 
 GolbatEvosAttacks:
-	db EVOLVE_HAPPINESS, TR_ANYTIME, CROBAT
+	db EVOLVE_LEVEL, 36, CROBAT
 	db 0 ; no more evolutions
 	db 1, SCREECH
 	db 1, LEECH_LIFE
@@ -1678,7 +1678,7 @@ RhydonEvosAttacks:
 	db 0 ; no more level-up moves
 
 ChanseyEvosAttacks:
-	db EVOLVE_HAPPINESS, TR_ANYTIME, BLISSEY
+	db EVOLVE_LEVEL, 18, BLISSEY
 	db 0 ; no more evolutions
 	db 1, POUND
 	db 4, GROWL
@@ -1970,8 +1970,8 @@ EeveeEvosAttacks:
 	db EVOLVE_ITEM, THUNDERSTONE, JOLTEON
 	db EVOLVE_ITEM, WATER_STONE, VAPOREON
 	db EVOLVE_ITEM, FIRE_STONE, FLAREON
-	db EVOLVE_HAPPINESS, TR_MORNDAY, ESPEON
-	db EVOLVE_HAPPINESS, TR_NITE, UMBREON
+	db EVOLVE_ITEM, SUN_STONE, ESPEON
+	db EVOLVE_ITEM, MOON_STONE, UMBREON
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, TAIL_WHIP
@@ -2590,7 +2590,7 @@ LanturnEvosAttacks:
 	db 0 ; no more level-up moves
 
 PichuEvosAttacks:
-	db EVOLVE_HAPPINESS, TR_ANYTIME, PIKACHU
+	db EVOLVE_LEVEL, 10, PIKACHU
 	db 0 ; no more evolutions
 	db 1, THUNDERSHOCK
 	db 1, CHARM
@@ -2600,7 +2600,7 @@ PichuEvosAttacks:
 	db 0 ; no more level-up moves
 
 CleffaEvosAttacks:
-	db EVOLVE_HAPPINESS, TR_ANYTIME, CLEFAIRY
+	db EVOLVE_LEVEL, 10, CLEFAIRY
 	db 0 ; no more evolutions
 	db 1, POUND
 	db 1, CHARM
@@ -2610,7 +2610,7 @@ CleffaEvosAttacks:
 	db 0 ; no more level-up moves
 
 IgglybuffEvosAttacks:
-	db EVOLVE_HAPPINESS, TR_ANYTIME, JIGGLYPUFF
+	db EVOLVE_LEVEL, 10, JIGGLYPUFF
 	db 0 ; no more evolutions
 	db 1, SING
 	db 1, CHARM
@@ -2620,7 +2620,7 @@ IgglybuffEvosAttacks:
 	db 0 ; no more level-up moves
 
 TogepiEvosAttacks:
-	db EVOLVE_HAPPINESS, TR_ANYTIME, TOGETIC
+	db EVOLVE_LEVEL, 26, TOGETIC
 	db 0 ; no more evolutions
 	db 1, GROWL
 	db 1, CHARM

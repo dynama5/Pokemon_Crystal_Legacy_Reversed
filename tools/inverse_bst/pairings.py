@@ -247,7 +247,23 @@ for r in rows:
     r["new_evos"] = new_evos
 
 # Starter lines all evolve by level, like the original starters did.
-EVO_OVERRIDES = {"WEEPINBELL": [["EVOLVE_LEVEL", "36", "VICTREEBEL"]]}
+EVO_OVERRIDES = {
+    "WEEPINBELL": [["EVOLVE_LEVEL", "36", "VICTREEBEL"]],
+    # No friendship evolutions: babies and the rest evolve by level, Eevee by stone.
+    "PICHU": [["EVOLVE_LEVEL", "10", "PIKACHU"]],
+    "CLEFFA": [["EVOLVE_LEVEL", "10", "CLEFAIRY"]],
+    "IGGLYBUFF": [["EVOLVE_LEVEL", "10", "JIGGLYPUFF"]],
+    "TOGEPI": [["EVOLVE_LEVEL", "26", "TOGETIC"]],
+    "CHANSEY": [["EVOLVE_LEVEL", "18", "BLISSEY"]],
+    "GOLBAT": [["EVOLVE_LEVEL", "36", "CROBAT"]],
+    "EEVEE": [
+        ["EVOLVE_ITEM", "THUNDERSTONE", "JOLTEON"],
+        ["EVOLVE_ITEM", "WATER_STONE", "VAPOREON"],
+        ["EVOLVE_ITEM", "FIRE_STONE", "FLAREON"],
+        ["EVOLVE_ITEM", "SUN_STONE", "ESPEON"],
+        ["EVOLVE_ITEM", "MOON_STONE", "UMBREON"],
+    ],
+}
 for r in rows:
     if r["species"] in EVO_OVERRIDES:
         r["new_evos"] = EVO_OVERRIDES[r["species"]]

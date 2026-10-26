@@ -6939,7 +6939,7 @@
    {
     "lvl": 30,
     "old": "YANMA",
-    "new": "CROBAT",
+    "new": "SCIZOR",
     "old_bst": 450,
     "new_bst": 450,
     "diff": 0,
@@ -7156,7 +7156,7 @@
    {
     "lvl": 23,
     "old": "MURKROW",
-    "new": "CROBAT",
+    "new": "SKARMORY",
     "old_bst": 450,
     "new_bst": 450,
     "diff": 0,
@@ -12043,7 +12043,7 @@
    {
     "lvl": 34,
     "old": "GLIGAR",
-    "new": "CROBAT",
+    "new": "SKARMORY",
     "old_bst": 450,
     "new_bst": 450,
     "diff": 0,
@@ -12078,7 +12078,7 @@
    {
     "lvl": 34,
     "old": "MURKROW",
-    "new": "CROBAT",
+    "new": "SKARMORY",
     "old_bst": 450,
     "new_bst": 450,
     "diff": 0,
@@ -12443,7 +12443,7 @@
    {
     "lvl": 26,
     "old": "GLIGAR",
-    "new": "CROBAT",
+    "new": "SKARMORY",
     "old_bst": 450,
     "new_bst": 450,
     "diff": 0,
@@ -13458,7 +13458,7 @@
    {
     "lvl": 28,
     "old": "YANMA",
-    "new": "CROBAT",
+    "new": "SCIZOR",
     "old_bst": 450,
     "new_bst": 450,
     "diff": 0,
@@ -22548,7 +22548,7 @@
    {
     "lvl": 31,
     "old": "MURKROW",
-    "new": "CROBAT",
+    "new": "SKARMORY",
     "old_bst": 450,
     "new_bst": 450,
     "diff": 0,
@@ -22562,7 +22562,7 @@
     "new_moves": [
      "FLY",
      "TOXIC",
-     "SLUDGE",
+     "STEEL_WING",
      "WING_ATTACK"
     ],
     "moves_kept": "2/4"
